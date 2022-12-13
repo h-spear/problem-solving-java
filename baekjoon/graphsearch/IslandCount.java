@@ -1,4 +1,6 @@
-package baekjoon.graphsearch;// https://www.acmicpc.net/problem/4963
+// https://www.acmicpc.net/problem/4963
+
+package baekjoon.graphsearch;
 
 import java.io.*;
 import java.util.*;
