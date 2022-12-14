@@ -1,9 +1,11 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
+|dijkstra|2|
+|floydwarshall|2|
 |graphsearch|8|
 |math|1|
-| **sum** | **9**|
+| **sum** | **13**|
 
 ## Programmers
 |    Level    | solved |
