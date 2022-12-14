@@ -10,11 +10,11 @@
 | :-------------: | :----: |
 |level0|0|
 |level1|3|
-|level2|0|
+|level2|11|
 |level3|0|
 |level4|0|
 |level5|0|
-| **sum** | **3**|
+| **sum** | **14**|
 
 ## HackerRank
 |    SubDomain    | solved |
