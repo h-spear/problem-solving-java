@@ -4,10 +4,11 @@
 |dijkstra|6|
 |floydwarshall|3|
 |graphsearch|8|
+|kmp|5|
 |math|1|
 |mst|2|
 |topologysort|3|
-| **sum** | **23**|
+| **sum** | **28**|
 
 ## Programmers
 |    Level    | solved |
