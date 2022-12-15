@@ -5,7 +5,9 @@
 |floydwarshall|3|
 |graphsearch|8|
 |math|1|
-| **sum** | **18**|
+|mst|2|
+|topologysort|3|
+| **sum** | **23**|
 
 ## Programmers
 |    Level    | solved |
