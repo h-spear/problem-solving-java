@@ -1,6 +1,7 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
+|datastructure|1|
 |dijkstra|6|
 |floydwarshall|3|
 |graphsearch|8|
@@ -8,7 +9,8 @@
 |math|1|
 |mst|2|
 |topologysort|3|
-| **sum** | **28**|
+|trie|2|
+| **sum** | **31**|
 
 ## Programmers
 |    Level    | solved |
