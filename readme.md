@@ -8,9 +8,10 @@
 |kmp|5|
 |math|1|
 |mst|2|
+|segmenttree|4|
 |topologysort|3|
 |trie|2|
-| **sum** | **31**|
+| **sum** | **35**|
 
 ## Programmers
 |    Level    | solved |
