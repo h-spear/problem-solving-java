@@ -3,6 +3,7 @@
 | :-------------: | :----: |
 |datastructure|1|
 |dijkstra|6|
+|fail|1|
 |floydwarshall|3|
 |graphsearch|16|
 |kmp|5|
@@ -11,7 +12,7 @@
 |segmenttree|4|
 |topologysort|3|
 |trie|3|
-| **sum** | **44**|
+| **sum** | **45**|
 
 ## Programmers
 |    Level    | solved |

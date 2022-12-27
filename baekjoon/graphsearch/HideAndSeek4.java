@@ -5,7 +5,7 @@ package baekjoon.graphsearch;
 import java.io.*;
 import java.util.*;
 
-public class HideAndSeek3 {
+public class HideAndSeek4 {
 
     private static final int N = 200001;
 
@@ -70,6 +70,6 @@ public class HideAndSeek3 {
     }
 
     public static void main(String[] args) throws Exception {
-        new HideAndSeek3().solution();
+        new HideAndSeek4().solution();
     }
 }
