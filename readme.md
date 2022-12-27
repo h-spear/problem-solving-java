@@ -4,14 +4,14 @@
 |datastructure|1|
 |dijkstra|6|
 |floydwarshall|3|
-|graphsearch|12|
+|graphsearch|16|
 |kmp|5|
 |math|1|
 |mst|2|
 |segmenttree|4|
 |topologysort|3|
 |trie|3|
-| **sum** | **40**|
+| **sum** | **44**|
 
 ## Programmers
 |    Level    | solved |
