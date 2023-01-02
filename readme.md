@@ -5,14 +5,14 @@
 |dijkstra|6|
 |fail|1|
 |floydwarshall|3|
-|graphsearch|18|
+|graphsearch|21|
 |kmp|5|
 |math|1|
 |mst|4|
 |segmenttree|4|
 |topologysort|6|
 |trie|3|
-| **sum** | **52**|
+| **sum** | **55**|
 
 ## Programmers
 |    Level    | solved |
