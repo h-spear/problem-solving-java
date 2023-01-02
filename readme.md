@@ -8,11 +8,11 @@
 |graphsearch|21|
 |kmp|5|
 |math|1|
-|mst|4|
+|mst|6|
 |segmenttree|4|
 |topologysort|6|
 |trie|3|
-| **sum** | **55**|
+| **sum** | **57**|
 
 ## Programmers
 |    Level    | solved |
