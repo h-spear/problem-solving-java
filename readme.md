@@ -6,14 +6,16 @@
 |fail|1|
 |floydwarshall|3|
 |graphsearch|21|
-|implementation|0|
+|greedy|0|
+|implementation|3|
 |kmp|5|
 |math|1|
 |mst|8|
 |segmenttree|4|
 |topologysort|8|
 |trie|3|
-| **sum** | **61**|
+|twopointer|0|
+| **sum** | **64**|
 
 ## Programmers
 |    Level    | solved |
