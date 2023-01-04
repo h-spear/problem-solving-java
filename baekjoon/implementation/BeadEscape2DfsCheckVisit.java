@@ -1,20 +1,21 @@
-// https://www.acmicpc.net/problem/15653
+// https://www.acmicpc.net/problem/13460
+// 방문 기록 체크 1664ms -> 148ms
 
 package baekjoon.implementation;
 
 import java.io.*;
 import java.util.*;
 
-public class BeadEscape4 {
+public class BeadEscape2DfsCheckVisit {
 
     // up, right, down, left
     private static final int[] dx = {-1, 0, 1, 0};
     private static final int[] dy = {0, 1, 0, -1};
-
-    private static int n;
-    private static int m;
+    private static final int INF = Integer.MAX_VALUE;
+    private static int n, m;
     private static char[][] graph;
-    private static Set<Balls> visited = new HashSet<>();
+    private static int answer = INF;
+    private static boolean[][][][] visited = new boolean[11][11][11][11];
 
     class Pair {
         int x;
@@ -23,19 +24,6 @@ public class BeadEscape4 {
         Pair(int x, int y) {
             this.x = x;
             this.y = y;
-        }
-
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-            Pair pair = (Pair) o;
-            return x == pair.x && y == pair.y;
-        }
-
-        @Override
-        public int hashCode() {
-            return Objects.hash(x, y);
         }
     }
 
@@ -46,19 +34,6 @@ public class BeadEscape4 {
         public Balls(Pair blue, Pair red) {
             this.blue = blue;
             this.red = red;
-        }
-
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-            Balls balls = (Balls) o;
-            return Objects.equals(blue, balls.blue) && Objects.equals(red, balls.red);
-        }
-
-        @Override
-        public int hashCode() {
-            return Objects.hash(blue, red);
         }
     }
 
@@ -137,34 +112,37 @@ public class BeadEscape4 {
         return false;
     }
 
-    private int bfs(Balls balls) {
-        Balls nballs;
-        Queue<Balls> queue = new LinkedList<>();
-        queue.add(balls);
+    private boolean isVisit(Balls balls) {
+        return visited[balls.blue.x][balls.blue.y][balls.red.x][balls.red.y];
+    }
 
-        int answer = 0;
-        visited.add(balls);
-        while (!queue.isEmpty()) {
-            int queueSize = queue.size();
-            for (int i = 0; i < queueSize; ++i) {
-                balls = queue.remove();
+    private void checkVisit(Balls balls) {
+        if (balls.blue == null || balls.red == null)
+            return;
+        visited[balls.blue.x][balls.blue.y][balls.red.x][balls.red.y] = true;
+    }
 
-                if (isGameClear(balls))
-                    return answer;
+    private void uncheckVisit(Balls balls) {
+        if (balls.blue == null || balls.red == null)
+            return;
+        visited[balls.blue.x][balls.blue.y][balls.red.x][balls.red.y] = false;
+    }
 
-                for (int dir = 0; dir < 4; ++dir) {
-                    nballs = tilt(balls, dir);
-                    if (nballs.blue == null)
-                        continue;
-                    if (visited.contains(nballs))
-                        continue;
-                    queue.add(nballs);
-                    visited.add(nballs);
-                }
-            }
-            ++answer;
+    private void dfs(Balls balls, int depth) {
+        if (depth >= answer || depth == 11 || balls.blue == null)
+            return;
+        if (isGameClear(balls)) {
+            answer = Math.min(answer, depth);
+            return;
         }
-        return -1;
+        for (int dir = 0; dir < 4; ++dir) {
+            Balls res = tilt(balls, dir);
+            if (res.red != null && res.blue != null && isVisit(res))
+                continue;
+            checkVisit(res);
+            dfs(res, depth + 1);
+            uncheckVisit(res);
+        }
     }
 
     private void solution() throws Exception {
@@ -193,11 +171,16 @@ public class BeadEscape4 {
             }
         }
 
-        System.out.println(bfs(new Balls(blue, red)));
+        Balls balls = new Balls(blue, red);
+        dfs(balls,  0);
+        checkVisit(balls);
+        if (answer == INF)
+            answer = -1;
+        System.out.println(answer);
         br.close();
     }
 
     public static void main(String[] args) throws Exception {
-        new BeadEscape4().solution();
+        new BeadEscape2DfsCheckVisit().solution();
     }
 }
