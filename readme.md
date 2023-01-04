@@ -7,7 +7,7 @@
 |floydwarshall|3|
 |graphsearch|21|
 |greedy|0|
-|implementation|3|
+|implementation|9|
 |kmp|5|
 |math|1|
 |mst|8|
@@ -15,7 +15,7 @@
 |topologysort|8|
 |trie|3|
 |twopointer|0|
-| **sum** | **64**|
+| **sum** | **70**|
 
 ## Programmers
 |    Level    | solved |
