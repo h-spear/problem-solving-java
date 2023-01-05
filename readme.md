@@ -11,11 +11,12 @@
 |kmp|5|
 |math|1|
 |mst|8|
+|prefixsum|3|
 |segmenttree|4|
 |topologysort|8|
 |trie|3|
-|twopointer|0|
-| **sum** | **77**|
+|twopointer|1|
+| **sum** | **81**|
 
 ## Programmers
 |    Level    | solved |
