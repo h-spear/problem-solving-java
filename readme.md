@@ -2,7 +2,7 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |datastructure|1|
-|dijkstra|6|
+|dijkstra|10|
 |fail|1|
 |floydwarshall|3|
 |graphsearch|21|
@@ -16,7 +16,7 @@
 |topologysort|8|
 |trie|3|
 |twopointer|1|
-| **sum** | **81**|
+| **sum** | **85**|
 
 ## Programmers
 |    Level    | solved |
