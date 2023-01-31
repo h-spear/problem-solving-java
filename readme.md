@@ -1,13 +1,14 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|datastructure|1|
+|backtracking|2|
+|datastructure|2|
 |dijkstra|10|
 |fail|1|
 |floydwarshall|3|
-|graphsearch|21|
-|greedy|0|
-|implementation|16|
+|graphsearch|23|
+|greedy|1|
+|implementation|17|
 |kmp|5|
 |math|1|
 |mst|8|
@@ -16,7 +17,7 @@
 |topologysort|8|
 |trie|3|
 |twopointer|1|
-| **sum** | **85**|
+| **sum** | **92**|
 
 ## Programmers
 |    Level    | solved |
