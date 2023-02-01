@@ -12,12 +12,13 @@
 |kmp|5|
 |math|1|
 |mst|8|
+|parametricsearch|1|
 |prefixsum|3|
 |segmenttree|4|
 |topologysort|8|
 |trie|3|
-|twopointer|1|
-| **sum** | **92**|
+|twopointer|4|
+| **sum** | **96**|
 
 ## Programmers
 |    Level    | solved |
