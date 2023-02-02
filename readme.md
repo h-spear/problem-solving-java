@@ -2,23 +2,24 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |backtracking|2|
-|datastructure|2|
+|datastructure|8|
 |dijkstra|10|
+|dp|2|
 |fail|1|
 |floydwarshall|3|
 |graphsearch|23|
 |greedy|1|
 |implementation|17|
 |kmp|5|
-|math|1|
+|math|2|
 |mst|8|
 |parametricsearch|1|
 |prefixsum|3|
-|segmenttree|4|
+|segmenttree|6|
 |topologysort|8|
-|trie|3|
-|twopointer|4|
-| **sum** | **96**|
+|trie|4|
+|twopointer|5|
+| **sum** | **109**|
 
 ## Programmers
 |    Level    | solved |
