@@ -4,7 +4,7 @@
 |backtracking|3|
 |binarysearch|2|
 |combinatorics|2|
-|datastructure|9|
+|datastructure|14|
 |dijkstra|10|
 |dp|2|
 |fail|1|
@@ -20,7 +20,7 @@
 |topologysort|8|
 |trie|4|
 |twopointer|5|
-| **sum** | **115**|
+| **sum** | **120**|
 
 ## Programmers
 |    Level    | solved |
