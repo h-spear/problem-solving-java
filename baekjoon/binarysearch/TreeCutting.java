@@ -1,6 +1,6 @@
 // https://www.acmicpc.net/problem/2805
 
-package baekjoon.parametricsearch;
+package baekjoon.binarysearch;
 
 import java.io.*;
 import java.util.*;
