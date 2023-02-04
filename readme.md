@@ -1,7 +1,7 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|3|
+|backtracking|4|
 |binarysearch|2|
 |combinatorics|2|
 |datastructure|15|
@@ -9,18 +9,18 @@
 |dp|2|
 |fail|1|
 |floydwarshall|3|
-|graphsearch|23|
+|graphsearch|24|
 |greedy|1|
 |implementation|17|
 |kmp|5|
-|math|3|
+|math|5|
 |mst|8|
 |prefixsum|3|
 |segmenttree|7|
 |topologysort|8|
 |trie|4|
-|twopointer|5|
-| **sum** | **122**|
+|twopointer|6|
+| **sum** | **127**|
 
 ## Programmers
 |    Level    | solved |
