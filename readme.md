@@ -4,23 +4,23 @@
 |backtracking|4|
 |binarysearch|2|
 |combinatorics|2|
-|datastructure|15|
+|datastructure|16|
 |dijkstra|10|
 |dp|2|
 |fail|1|
 |floydwarshall|3|
-|graphsearch|24|
+|graphsearch|25|
 |greedy|1|
 |implementation|17|
 |kmp|5|
-|math|5|
+|math|10|
 |mst|8|
 |prefixsum|3|
 |segmenttree|7|
 |topologysort|8|
 |trie|4|
 |twopointer|6|
-| **sum** | **127**|
+| **sum** | **134**|
 
 ## Programmers
 |    Level    | solved |
