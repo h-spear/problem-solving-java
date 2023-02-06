@@ -13,14 +13,16 @@
 |greedy|1|
 |implementation|17|
 |kmp|5|
+|lca|5|
 |math|10|
-|mst|8|
+|mst|9|
 |prefixsum|3|
-|segmenttree|7|
+|segmenttree|8|
 |topologysort|8|
 |trie|4|
 |twopointer|6|
-| **sum** | **134**|
+|unionfind|1|
+| **sum** | **142**|
 
 ## Programmers
 |    Level    | solved |
