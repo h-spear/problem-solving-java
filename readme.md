@@ -2,18 +2,20 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |backtracking|4|
+|bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
 |datastructure|16|
-|dijkstra|10|
-|dp|2|
+|dijkstra|12|
+|dp|3|
 |fail|1|
-|floydwarshall|3|
+|floydwarshall|4|
+|graph|0|
 |graphsearch|25|
 |greedy|1|
 |implementation|17|
 |kmp|5|
-|lca|5|
+|lca|6|
 |math|10|
 |mst|9|
 |prefixsum|3|
@@ -22,7 +24,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **142**|
+| **sum** | **149**|
 
 ## Programmers
 |    Level    | solved |
