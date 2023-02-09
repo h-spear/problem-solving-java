@@ -7,7 +7,7 @@
 |combinatorics|2|
 |datastructure|16|
 |dijkstra|12|
-|dp|3|
+|dp|8|
 |fail|1|
 |floydwarshall|4|
 |graph|0|
@@ -19,12 +19,13 @@
 |math|10|
 |mst|9|
 |prefixsum|3|
-|segmenttree|8|
+|segmenttree|9|
 |topologysort|8|
+|tree|1|
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **149**|
+| **sum** | **156**|
 
 ## Programmers
 |    Level    | solved |
