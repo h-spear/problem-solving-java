@@ -1,13 +1,13 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|4|
+|backtracking|5|
 |bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
 |datastructure|16|
 |dijkstra|12|
-|dp|8|
+|dp|11|
 |fail|1|
 |floydwarshall|4|
 |graph|0|
@@ -19,13 +19,13 @@
 |math|10|
 |mst|9|
 |prefixsum|3|
-|segmenttree|9|
+|segmenttree|13|
 |topologysort|8|
 |tree|1|
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **156**|
+| **sum** | **164**|
 
 ## Programmers
 |    Level    | solved |
