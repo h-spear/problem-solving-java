@@ -19,13 +19,13 @@
 |math|10|
 |mst|9|
 |prefixsum|3|
-|segmenttree|20|
+|segmenttree|27|
 |topologysort|8|
 |tree|1|
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **176**|
+| **sum** | **183**|
 
 ## Programmers
 |    Level    | solved |
