@@ -15,17 +15,17 @@
 |greedy|1|
 |implementation|17|
 |kmp|5|
-|lca|6|
+|lca|11|
 |math|10|
 |mst|9|
 |prefixsum|3|
-|segmenttree|50|
+|segmenttree|51|
 |topologysort|8|
 |tree|1|
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **206**|
+| **sum** | **212**|
 
 ## Programmers
 |    Level    | solved |
