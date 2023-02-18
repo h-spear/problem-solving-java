@@ -6,7 +6,7 @@
 |binarysearch|2|
 |combinatorics|2|
 |datastructure|16|
-|dijkstra|12|
+|dijkstra|13|
 |dp|16|
 |fail|1|
 |floydwarshall|4|
@@ -25,7 +25,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **212**|
+| **sum** | **213**|
 
 ## Programmers
 |    Level    | solved |
