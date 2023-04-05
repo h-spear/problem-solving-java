@@ -1,7 +1,7 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|5|
+|backtracking|6|
 |bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
@@ -11,7 +11,7 @@
 |fail|1|
 |floydwarshall|4|
 |graph|0|
-|graphsearch|25|
+|graphsearch|26|
 |greedy|1|
 |implementation|17|
 |kmp|5|
@@ -25,18 +25,24 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **213**|
+| **sum** | **215**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
 |level0|0|
 |level1|3|
-|level2|11|
+|level2|12|
 |level3|16|
 |level4|1|
 |level5|0|
-| **sum** | **31**|
+| **sum** | **32**|
+
+## LeetCode
+|    Algorithm    | solved |
+| :-------------: | :----: |
+|segmenttree|1|
+| **sum** | **1**|
 
 ## HackerRank
 |    SubDomain    | solved |

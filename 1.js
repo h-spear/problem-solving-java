@@ -104,24 +104,24 @@ fs.appendFileSync(
 console.log('programmers solved ' + programmers_sum + '!');
 
 // 리트코드
-// let leetcode_sum = 0;
-// fs.appendFileSync(
-//     output_file,
-//     '## LeetCode\n|    Algorithm    | solved |\n| :-------------: | :----: |\n',
-//     'utf-8'
-// );
-// result['leetcode'].forEach((v) => {
-//     const { name, length } = v;
-//     temp = '|' + name + '|' + length + '|\n';
-//     leetcode_sum += length;
-//     fs.appendFileSync(output_file, temp, 'utf-8');
-// });
-// fs.appendFileSync(
-//     output_file,
-//     '| **sum** | **' + leetcode_sum + '**|\n\n',
-//     'utf-8'
-// );
-// console.log('leetcode solved ' + leetcode_sum + '!');
+let leetcode_sum = 0;
+fs.appendFileSync(
+    output_file,
+    '## LeetCode\n|    Algorithm    | solved |\n| :-------------: | :----: |\n',
+    'utf-8'
+);
+result['leetcode'].forEach((v) => {
+    const { name, length } = v;
+    temp = '|' + name + '|' + length + '|\n';
+    leetcode_sum += length;
+    fs.appendFileSync(output_file, temp, 'utf-8');
+});
+fs.appendFileSync(
+    output_file,
+    '| **sum** | **' + leetcode_sum + '**|\n\n',
+    'utf-8'
+);
+console.log('leetcode solved ' + leetcode_sum + '!');
 
 // 해커랭크
 let hackerrank_sum = 0;
