@@ -1,7 +1,7 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|6|
+|backtracking|7|
 |bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
@@ -9,7 +9,7 @@
 |dijkstra|13|
 |dp|16|
 |fail|1|
-|floydwarshall|4|
+|floydwarshall|5|
 |graph|0|
 |graphsearch|26|
 |greedy|1|
@@ -25,7 +25,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **215**|
+| **sum** | **217**|
 
 ## Programmers
 |    Level    | solved |
@@ -50,4 +50,15 @@
 |introduction|13|
 |strings|11|
 | **sum** | **24**|
+
+## SW Expert Academy
+|    difficulty    | solved |
+| :-------------: | :----: |
+|difficulty1|0|
+|difficulty2|0|
+|difficulty3|0|
+|difficulty4|0|
+|difficulty5|1|
+|difficulty6|0|
+| **sum** | **1**|
 

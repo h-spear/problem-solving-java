@@ -144,23 +144,23 @@ fs.appendFileSync(
 console.log('hackerrank solved ' + hackerrank_sum + '!');
 
 // SWEA
-// let swea_sum = 0;
-// fs.appendFileSync(
-//     output_file,
-//     '## SW Expert Academy\n|    difficulty    | solved |\n| :-------------: | :----: |\n',
-//     'utf-8'
-// );
-// result['swea'].forEach((v) => {
-//     const { name, length } = v;
-//     temp = '|' + name + '|' + length + '|\n';
-//     swea_sum += length;
-//     fs.appendFileSync(output_file, temp, 'utf-8');
-// });
-// fs.appendFileSync(
-//     output_file,
-//     '| **sum** | **' + swea_sum + '**|\n\n',
-//     'utf-8'
-// );
-// console.log('swea solved ' + swea_sum + '!');
+let swea_sum = 0;
+fs.appendFileSync(
+    output_file,
+    '## SW Expert Academy\n|    difficulty    | solved |\n| :-------------: | :----: |\n',
+    'utf-8'
+);
+result['swea'].forEach((v) => {
+    const { name, length } = v;
+    temp = '|' + name + '|' + length + '|\n';
+    swea_sum += length;
+    fs.appendFileSync(output_file, temp, 'utf-8');
+});
+fs.appendFileSync(
+    output_file,
+    '| **sum** | **' + swea_sum + '**|\n\n',
+    'utf-8'
+);
+console.log('swea solved ' + swea_sum + '!');
 
 console.log('saved successfully! ' + output_file);
