@@ -41,8 +41,9 @@
 ## LeetCode
 |    Algorithm    | solved |
 | :-------------: | :----: |
+|design|2|
 |segmenttree|1|
-| **sum** | **1**|
+| **sum** | **3**|
 
 ## HackerRank
 |    SubDomain    | solved |
