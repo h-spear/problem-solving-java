@@ -32,11 +32,11 @@
 | :-------------: | :----: |
 |level0|0|
 |level1|3|
-|level2|15|
+|level2|16|
 |level3|16|
 |level4|1|
 |level5|0|
-| **sum** | **35**|
+| **sum** | **36**|
 
 ## LeetCode
 |    Algorithm    | solved |
