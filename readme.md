@@ -59,8 +59,8 @@
 |difficulty1|0|
 |difficulty2|5|
 |difficulty3|0|
-|difficulty4|0|
-|difficulty5|1|
+|difficulty4|4|
+|difficulty5|3|
 |difficulty6|0|
-| **sum** | **6**|
+| **sum** | **12**|
 
