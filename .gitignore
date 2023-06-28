@@ -2,3 +2,5 @@
 out
 *.iml
 temp/*
+Solution.java
+Main.java
