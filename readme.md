@@ -10,7 +10,7 @@
 |dp|17|
 |fail|1|
 |floydwarshall|5|
-|graphsearch|26|
+|graphsearch|29|
 |greedy|1|
 |implementation|17|
 |kmp|5|
@@ -24,7 +24,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **218**|
+| **sum** | **221**|
 
 ## Programmers
 |    Level    | solved |
@@ -56,5 +56,6 @@
 |difficulty2|5|
 |difficulty4|5|
 |difficulty5|4|
-| **sum** | **14**|
+|difficulty6|3|
+| **sum** | **17**|
 

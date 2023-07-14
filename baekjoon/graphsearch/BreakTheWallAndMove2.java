@@ -1,11 +1,16 @@
-// https://www.acmicpc.net/problem/2206
+// https://www.acmicpc.net/problem/14442
 
 package baekjoon.graphsearch;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.StringTokenizer;
 
-public class BreakTheWallAndMove {
+public class BreakTheWallAndMove2 {
 
     class Pair {
         int x, y, crush;
@@ -19,7 +24,7 @@ public class BreakTheWallAndMove {
 
     private static final int[] dx = {1, -1, 0, 0};
     private static final int[] dy = {0, 0, 1, -1};
-    private static int N, M;
+    private static int N, M, K;
     private static int[][] graph;
 
     private void solution() throws Exception {
@@ -30,6 +35,7 @@ public class BreakTheWallAndMove {
         st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
+        K = Integer.parseInt(st.nextToken());
         graph = new int[N][M];
 
         for (int i = 0; i < N; ++i) {
@@ -48,7 +54,7 @@ public class BreakTheWallAndMove {
     private int bfs() {
         Queue<Pair> queue = new LinkedList<>();
         queue.add(new Pair(0, 0, 0));
-        int[][][] visited = new int[N][M][2];
+        int[][][] visited = new int[N][M][K + 1];
         visited[0][0][0] = 1;
         int nx, ny;
         while (!queue.isEmpty()) {
@@ -65,27 +71,25 @@ public class BreakTheWallAndMove {
                         continue;
                     queue.add(new Pair(nx, ny, p.crush));
                     visited[nx][ny][p.crush] = visited[p.x][p.y][p.crush] + 1;
-                } else if (p.crush == 0) {
-                    if (visited[nx][ny][1] == 0) {
-                        queue.add(new Pair(nx, ny, 1));
-                        visited[nx][ny][1] = visited[p.x][p.y][0] + 1;
+                } else if (p.crush < K) {
+                    if (visited[nx][ny][p.crush + 1] == 0) {
+                        queue.add(new Pair(nx, ny, p.crush + 1));
+                        visited[nx][ny][p.crush + 1] = visited[p.x][p.y][p.crush] + 1;
                     }
                 }
             }
         }
 
-        if (visited[N-1][M-1][0] == 0 && visited[N-1][M-1][1] == 0) {
-            return -1;
-        } else if (visited[N-1][M-1][0] == 0) {
-            return visited[N-1][M-1][1];
-        } else if (visited[N-1][M-1][1] == 0) {
-            return visited[N-1][M-1][0];
-        } else {
-            return Math.min(visited[N-1][M-1][0], visited[N-1][M-1][1]);
+        int res = Integer.MAX_VALUE;
+        for (int i = 0; i <= K; ++i) {
+            if (visited[N-1][M-1][i] != 0) {
+                res = Math.min(res, visited[N-1][M-1][i]);
+            }
         }
+        return res != Integer.MAX_VALUE ? res : -1;
     }
 
     public static void main(String[] args) throws Exception {
-        new BreakTheWallAndMove().solution();
+        new BreakTheWallAndMove2().solution();
     }
 }
