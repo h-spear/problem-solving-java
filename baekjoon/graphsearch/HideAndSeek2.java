@@ -7,51 +7,47 @@ import java.util.*;
 
 public class HideAndSeek2 {
 
-    private static final int N = 200001;
-
-    private void solution() throws Exception {
+    public static void main (String[]args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int n = Integer.parseInt(st.nextToken());
-        int k = Integer.parseInt(st.nextToken());
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st;
 
+        st = new StringTokenizer(br.readLine());
+        int N = Integer.parseInt(st.nextToken());
+        int K = Integer.parseInt(st.nextToken());
+        boolean[] visited = new boolean[100001];
         Queue<Integer> queue = new LinkedList<>();
-        queue.add(n);
-        int[] answer = {0, 0};
-        int[] visited = new int[N];
-        boolean find = false;
+        queue.add(N);
+        visited[N] = true;
+
+        int[] ans = {0, 0};
+        boolean flag = false;
         while (!queue.isEmpty()) {
             int queueSize = queue.size();
-
             for (int i = 0; i < queueSize; ++i) {
-                int x = queue.poll();
 
-                visited[x] = 1;
-                if (x == k) {
-                    ++answer[1];
-                    find = true;
+                int now = queue.poll();
+                visited[now] = true;
+
+                if (now == K) {
+                    ++ans[1];
+                    flag = true;
                 }
 
-                if (x + 1 < N && visited[x + 1] == 0) {
-                    queue.add(x + 1);
-                }
-                if (x - 1 >= 0 && visited[x - 1] == 0) {
-                    queue.add(x - 1);
-                }
-                if (2 * x < N && visited[2 * x] == 0) {
-                    queue.add(2 * x);
+                int[] candidate = {now - 1, now + 1, now * 2};
+                for (int next : candidate) {
+                    if (0 <= next && next <= 100000 && visited[next] == false) {
+                        queue.add(next);
+                    }
                 }
             }
-            if (find)
+            if (flag)
                 break;
-            ++answer[0];
+            ++ans[0];
         }
-        System.out.println(answer[0]);
-        System.out.println(answer[1]);
+        bw.write(ans[0] + "\n" + ans[1]);
+        bw.flush();
+        bw.close();
         br.close();
-    }
-
-    public static void main(String[] args) throws Exception {
-        new HideAndSeek2().solution();
     }
 }

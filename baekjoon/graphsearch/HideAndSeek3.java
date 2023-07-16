@@ -1,12 +1,15 @@
-// https://www.acmicpc.net/problem/1697
+// https://www.acmicpc.net/problem/13549
+// 0-1 BFS
 
 package baekjoon.graphsearch;
 
 import java.io.*;
 import java.util.*;
 
-public class HideAndSeek {
-    
+public class HideAndSeek3 {
+
+    private static final int[] dt = {0, 1, 1};
+
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -16,21 +19,26 @@ public class HideAndSeek {
         int N = Integer.parseInt(st.nextToken());
         int K = Integer.parseInt(st.nextToken());
         int[] visited = new int[100001];
-        Queue<Integer> queue = new LinkedList<>();
-        queue.add(N);
+        Deque<Integer> deque = new LinkedList<>();
+        deque.add(N);
         visited[N] = 1;
-        while (!queue.isEmpty()) {
-            int now = queue.poll();
 
+        while (!deque.isEmpty()) {
+            int now = deque.poll();
             if (now == K) {
                 break;
             }
 
-            int[] candidate = {now - 1, now + 1, now * 2};
-            for (int next: candidate) {
+            int[] candidate = {now * 2, now - 1, now + 1};  // 순서 중요.
+            for (int i = 0; i < 3; ++i) {
+                int next = candidate[i];
                 if (0 <= next && next <= 100000 && visited[next] == 0) {
-                    queue.add(next);
-                    visited[next] = visited[now] + 1;
+                    visited[next] = visited[now] + dt[i];
+                    if (i == 0) {
+                        deque.addFirst(next);
+                    } else {
+                        deque.addLast(next);
+                    }
                 }
             }
         }
