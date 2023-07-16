@@ -7,7 +7,9 @@ import java.util.*;
 
 public class App {
 
-    private void solution() throws Exception {
+    private static final int C = 10000;
+
+    public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
@@ -15,45 +17,41 @@ public class App {
         st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
-        int[] memory = new int[N + 1];
-        int[] cost = new int[N + 1];
+
+        int[] m = new int[N + 1];
+        int[] c = new int[N + 1];
 
         st = new StringTokenizer(br.readLine());
         for (int i = 1; i <= N; ++i) {
-            memory[i] = Integer.parseInt(st.nextToken());
+            m[i] = Integer.parseInt(st.nextToken());
         }
 
-        int maxCost = 0;
         st = new StringTokenizer(br.readLine());
         for (int i = 1; i <= N; ++i) {
-            cost[i] = Integer.parseInt(st.nextToken());
-            maxCost += cost[i];
+            c[i] = Integer.parseInt(st.nextToken());
         }
 
-        int minCost = Integer.MAX_VALUE;
-        int[][] dp = new int[N + 1][maxCost + 1];
+        long[][] dp = new long[N + 1][C + 1];
         for (int i = 1; i <= N; ++i) {
-            for (int c = 0; c <= maxCost; ++c) {
-                if (c - cost[i] >= 0) {
-                    dp[i][c] = Math.max(dp[i-1][c], dp[i-1][c - cost[i]] + memory[i]);
+            for (int j = 0; j <= C; ++j) {
+                if (j >= c[i]) {
+                    dp[i][j] = Math.max(dp[i - 1][j], m[i] + dp[i - 1][j - c[i]]);
                 } else {
-                    dp[i][c] = dp[i-1][c];
-                }
-
-                if (dp[i][c] >= M) {
-                    minCost = Math.min(minCost, c);
-                    break;
+                    dp[i][j] = dp[i - 1][j];
                 }
             }
         }
 
-        bw.write("" + minCost);
+        int answer = 0;
+        for (int j = 0; j <= C; ++j) {
+            if (dp[N][j] >= M) {
+                answer = j;
+                break;
+            }
+        }
+        bw.write("" + answer);
         bw.flush();
         bw.close();
         br.close();
-    }
-
-    public static void main(String[] args) throws Exception {
-        new App().solution();
     }
 }

@@ -7,7 +7,7 @@
 |combinatorics|2|
 |datastructure|16|
 |dijkstra|13|
-|dp|17|
+|dp|19|
 |fail|1|
 |floydwarshall|5|
 |graph|0|
@@ -25,7 +25,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **221**|
+| **sum** | **223**|
 
 ## Programmers
 |    Level    | solved |
