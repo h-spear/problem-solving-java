@@ -7,73 +7,37 @@ import java.util.*;
 
 public class Stack10828 {
 
-    class Stack {
-        int top = -1;
-        int[] stack = new int[10001];
+    private static int[] stack = new int[10001];
+    private static int top = -1;
 
-        public Stack() {
-        }
-
-        void push(int X) {
-            stack[++top] = X;
-        }
-
-        int pop() {
-            if (isEmpty()) {
-                return -1;
-            }
-            return stack[top--];
-        }
-
-        int size() {
-            return top + 1;
-        }
-
-        boolean isEmpty() {
-            return top == -1;
-        }
-
-        int top() {
-            if (isEmpty()) {
-                return -1;
-            }
-            return stack[top];
-        }
-    }
-
-    private void solution() throws Exception {
+    public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
 
-        int n = Integer.parseInt(br.readLine());
-        Stack stack = new Stack();
-
-        for (int i = 0; i < n; ++i) {
+        int N = Integer.parseInt(br.readLine());
+        String command;
+        int x;
+        for (int i = 0; i < N; ++i) {
             st = new StringTokenizer(br.readLine());
-            String command = st.nextToken();
+            command = st.nextToken();
             switch (command) {
                 case "push":
-                    stack.push(Integer.parseInt(st.nextToken()));
-                    break;
-                case "pop":
-                    bw.write("" + stack.pop());
-                    bw.newLine();
+                    x = Integer.parseInt(st.nextToken());
+                    push(x);
                     break;
                 case "top":
-                    bw.write("" + stack.top());
-                    bw.newLine();
+                    bw.write(top() + "\n");
                     break;
                 case "size":
-                    bw.write("" + stack.size());
-                    bw.newLine();
+                    bw.write(size() + "\n");
                     break;
                 case "empty":
-                    bw.write("" + (stack.isEmpty() ? 1 : 0));
-                    bw.newLine();
+                    bw.write((isEmpty() ? 1 : 0) + "\n");
                     break;
-                default:
-                    throw new Exception("error");
+                case "pop":
+                    bw.write(pop() + "\n");
+                    break;
             }
         }
 
@@ -82,7 +46,23 @@ public class Stack10828 {
         br.close();
     }
 
-    public static void main(String[] args) throws Exception {
-        new Stack10828().solution();
+    private static void push(int x) {
+        stack[++top] = x;
+    }
+
+    private static int pop() {
+        return isEmpty() ? -1 : stack[top--];
+    }
+
+    private static int size() {
+        return top + 1;
+    }
+
+    private static boolean isEmpty() {
+        return top == -1;
+    }
+
+    private static int top() {
+        return isEmpty() ? -1 : stack[top];
     }
 }

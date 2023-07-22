@@ -1,12 +1,14 @@
-// https://www.acmicpc.net/problem/10845
-
 package baekjoon.datastructure;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
 
-public class Queue10845 {
+public class Queue10845_CircularQueue {
 
+    private static final int N = 10001;
     private static int[] queue = new int[10001];
     private static int front = 0, rear = 0;
 
@@ -50,15 +52,20 @@ public class Queue10845 {
     }
 
     private static void push(int x) {
-        queue[rear++] = x;
+        queue[rear] = x;
+        rear = (rear + 1) % N;
     }
 
     private static int pop() {
-        return isEmpty() ? -1 : queue[front++];
+        if (isEmpty())
+            return -1;
+        int item = queue[front];
+        front = (front + 1) % N;
+        return item;
     }
 
     private static int size() {
-        return rear - front;
+        return (rear + N - front) % N;
     }
 
     private static boolean isEmpty() {

@@ -1,13 +1,16 @@
-// https://www.acmicpc.net/problem/10845
+// https://www.acmicpc.net/problem/18258
 
 package baekjoon.datastructure;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
 
-public class Queue10845 {
+public class Queue2 {
 
-    private static int[] queue = new int[10001];
+    private static int[] queue = new int[2000001];
     private static int front = 0, rear = 0;
 
     public static void main(String[] args) throws Exception {

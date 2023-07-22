@@ -1,11 +1,11 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|7|
+|backtracking|8|
 |bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
-|datastructure|16|
+|datastructure|18|
 |dijkstra|13|
 |dp|22|
 |fail|1|
@@ -25,7 +25,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **229**|
+| **sum** | **232**|
 
 ## Programmers
 |    Level    | solved |
