@@ -5,7 +5,7 @@
 |bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
-|datastructure|20|
+|datastructure|23|
 |dijkstra|13|
 |dp|22|
 |fail|1|
@@ -25,7 +25,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **236**|
+| **sum** | **239**|
 
 ## Programmers
 |    Level    | solved |
