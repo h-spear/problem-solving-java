@@ -5,8 +5,9 @@
 |bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
-|datastructure|23|
+|datastructure|25|
 |dijkstra|13|
+|disjointset|1|
 |dp|22|
 |fail|1|
 |floydwarshall|5|
@@ -20,12 +21,13 @@
 |mst|9|
 |prefixsum|3|
 |segmenttree|51|
+|sorting|1|
 |topologysort|8|
 |tree|1|
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **239**|
+| **sum** | **243**|
 
 ## Programmers
 |    Level    | solved |
