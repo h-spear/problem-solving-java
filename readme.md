@@ -5,13 +5,12 @@
 |bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
-|datastructure|25|
+|datastructure|28|
 |dijkstra|13|
 |disjointset|1|
-|dp|22|
+|dp|24|
 |fail|1|
 |floydwarshall|5|
-|graph|0|
 |graphsearch|34|
 |greedy|1|
 |implementation|17|
@@ -27,17 +26,15 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **243**|
+| **sum** | **248**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
-|level0|0|
 |level1|3|
 |level2|16|
 |level3|16|
 |level4|1|
-|level5|0|
 | **sum** | **36**|
 
 ## LeetCode
@@ -58,7 +55,6 @@
 ## SW Expert Academy
 |    difficulty    | solved |
 | :-------------: | :----: |
-|difficulty1|0|
 |difficulty2|5|
 |difficulty3|1|
 |difficulty4|5|

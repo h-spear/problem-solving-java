@@ -7,59 +7,51 @@ import java.util.*;
 
 public class Alphabet {
 
-    private static int answer;
-    private static final int[] dx = {1, -1, 0, 0};
-    private static final int[] dy = {0, 0, 1, -1};
-    private static Set<Character> set = new HashSet<>();
+    private static final int[] dr = {1, -1, 0, 0};
+    private static final int[] dc = {0, 0, 1, -1};
+    private static boolean[] visited = new boolean[26];
+    private static int R, C;
     private static char[][] graph;
-    private static boolean[][] visited;
-    private static int r, c;
+    private static int answer = 0;
 
-
-    private void dfs(int x, int y, int depth) {
-        answer = Math.max(answer, depth);
-
+    private static void dfs(int r, int c, int cnt) {
+        answer = Math.max(answer, cnt);
+        int nr, nc, alpha;
         for (int i = 0; i < 4; ++i) {
-            int nx = x + dx[i];
-            int ny = y + dy[i];
-            if (nx < 0 || ny < 0 || nx >= r || ny >= c)
+            nr = r + dr[i];
+            nc = c + dc[i];
+
+            if (nr < 0 || nc < 0 || nr >= R || nc >= C)
                 continue;
-            if (visited[nx][ny])
+            alpha = graph[nr][nc] - 'A';
+            if (visited[alpha])
                 continue;
-            if (set.contains(graph[nx][ny]))
-                continue;
-            set.add(graph[nx][ny]);
-            visited[nx][ny] = true;
-            dfs(nx, ny, depth + 1);
-            visited[nx][ny] = false;
-            set.remove(graph[nx][ny]);
+            visited[alpha] = true;
+            dfs(nr, nc, cnt + 1);
+            visited[alpha] = false;
         }
     }
 
-    private void solution() throws Exception {
-        answer = 0;
+    public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
 
         st = new StringTokenizer(br.readLine());
-        r = Integer.parseInt(st.nextToken());
-        c = Integer.parseInt(st.nextToken());
-        graph = new char[r][c];
-        visited = new boolean[r][c];
-        for (int i = 0; i < r; ++i) {
+        R = Integer.parseInt(st.nextToken());
+        C = Integer.parseInt(st.nextToken());
+        graph = new char[R][C];
+        for (int i = 0; i < R; ++i) {
             String line = br.readLine();
-            for (int j = 0; j < c; ++j)
+            for (int j = 0; j < C; ++j) {
                 graph[i][j] = line.charAt(j);
+            }
         }
-
-        set.add(graph[0][0]);
-        dfs(0,0, 1);
-        System.out.println(answer);
-
+        visited[graph[0][0] - 'A'] = true;
+        dfs(0, 0, 1);
+        bw.write(String.valueOf(answer));
+        bw.flush();
+        bw.close();
         br.close();
-    }
-
-    public static void main(String[] args) throws Exception      {
-        new Alphabet().solution();
     }
 }
