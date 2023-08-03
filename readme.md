@@ -5,16 +5,17 @@
 |bellmanford|2|
 |binarysearch|2|
 |combinatorics|2|
-|datastructure|28|
+|datastructure|29|
 |dijkstra|13|
 |disjointset|1|
+|divideandconquer|1|
 |dp|28|
 |fail|1|
 |floydwarshall|5|
 |graph|0|
 |graphsearch|34|
 |greedy|1|
-|implementation|17|
+|implementation|21|
 |kmp|5|
 |lca|11|
 |math|10|
@@ -27,7 +28,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **252**|
+| **sum** | **258**|
 
 ## Programmers
 |    Level    | solved |
