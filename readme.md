@@ -15,10 +15,10 @@
 |graph|0|
 |graphsearch|37|
 |greedy|1|
-|implementation|22|
+|implementation|23|
 |kmp|5|
 |lca|11|
-|math|10|
+|math|12|
 |mst|9|
 |prefixsum|3|
 |segmenttree|51|
@@ -28,7 +28,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **262**|
+| **sum** | **265**|
 
 ## Programmers
 |    Level    | solved |
