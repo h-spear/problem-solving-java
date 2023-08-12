@@ -7,7 +7,7 @@
 |combinatorics|2|
 |datastructure|29|
 |dijkstra|13|
-|disjointset|1|
+|disjointset|3|
 |divideandconquer|1|
 |dp|28|
 |fail|1|
@@ -15,7 +15,7 @@
 |graph|0|
 |graphsearch|37|
 |greedy|1|
-|implementation|23|
+|implementation|26|
 |kmp|5|
 |lca|11|
 |math|12|
@@ -28,7 +28,7 @@
 |trie|4|
 |twopointer|6|
 |unionfind|1|
-| **sum** | **265**|
+| **sum** | **270**|
 
 ## Programmers
 |    Level    | solved |
@@ -60,11 +60,12 @@
 |    difficulty    | solved |
 | :-------------: | :----: |
 |difficulty1|0|
-|difficulty2|5|
-|difficulty3|1|
+|difficulty2|6|
+|difficulty3|3|
 |difficulty4|5|
 |difficulty5|5|
 |difficulty6|3|
 |swtest|1|
-| **sum** | **20**|
+|unknown|1|
+| **sum** | **24**|
 
