@@ -3,17 +3,18 @@
 | :-------------: | :----: |
 |backtracking|8|
 |bellmanford|2|
-|binarysearch|2|
+|binarysearch|3|
+|bruteforce|3|
 |combinatorics|2|
 |datastructure|29|
 |dijkstra|13|
-|disjointset|3|
-|divideandconquer|1|
+|disjointset|4|
+|divideandconquer|2|
 |dp|28|
 |fail|1|
 |floydwarshall|5|
 |graph|0|
-|graphsearch|37|
+|graphsearch|38|
 |greedy|1|
 |implementation|26|
 |kmp|5|
@@ -24,11 +25,10 @@
 |segmenttree|51|
 |sorting|1|
 |topologysort|8|
-|tree|1|
+|tree|2|
 |trie|4|
 |twopointer|6|
-|unionfind|1|
-| **sum** | **270**|
+| **sum** | **277**|
 
 ## Programmers
 |    Level    | solved |
