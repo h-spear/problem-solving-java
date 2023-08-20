@@ -1,5 +1,4 @@
 // https://www.acmicpc.net/problem/1520
-// dfs + dp
 
 package baekjoon.graphsearch;
 
@@ -8,57 +7,53 @@ import java.util.*;
 
 public class Downhill {
 
-    private static int n;
-    private static int m;
     private static final int[] dx = {1, -1, 0, 0};
     private static final int[] dy = {0, 0, 1, -1};
+    private static int M, N;
     private static int[][] graph;
-    private static int[][] visited;
+    private static int[][] mem;
 
-    private int dfs(int x, int y) {
-        int nx, ny;
-        if (x == m - 1 && y == n - 1)
-            return 1;
-        if (visited[x][y] != -1)
-            return visited[x][y];
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st;
 
-        visited[x][y] = 0;
+        st = new StringTokenizer(br.readLine());
+        M = Integer.parseInt(st.nextToken());
+        N = Integer.parseInt(st.nextToken());
+        graph = new int[M][N];
+        mem = new int[M][N];
+        for (int i = 0; i < M; ++i) {
+            st = new StringTokenizer(br.readLine());
+            Arrays.fill(mem[i], -1);
+            for (int j = 0; j < N; ++j) {
+                graph[i][j] = Integer.parseInt(st.nextToken());
+            }
+        }
+        mem[M - 1][N - 1] = 1;
+        dfs(0, 0);
+        bw.write("" + mem[0][0]);
+        bw.flush();
+        bw.close();
+        br.close();
+    }
+
+    private static int dfs(int x, int y) {
+        if (mem[x][y] != -1) {
+            return mem[x][y];
+        }
+        int nx, ny, temp = 0;
+        mem[x][y] = 0;
         for (int i = 0; i < 4; ++i) {
             nx = x + dx[i];
             ny = y + dy[i];
 
-            if (nx < 0 || ny < 0 || nx >= m || ny >= n)
+            if (nx < 0 || ny < 0 || nx >= M || ny >= N)
                 continue;
-            if (graph[x][y] <= graph[nx][ny])
+            if (graph[nx][ny] >= graph[x][y])
                 continue;
-            visited[x][y] += dfs(nx, ny);
+            temp += dfs(nx, ny);
         }
-        return visited[x][y];
-    }
-
-    private void solution() throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
-
-        st = new StringTokenizer(br.readLine());
-        m = Integer.parseInt(st.nextToken());
-        n = Integer.parseInt(st.nextToken());
-        graph = new int[m][n];
-        visited = new int[m][n];
-
-        for (int i = 0; i < m; ++i) {
-            st = new StringTokenizer(br.readLine());
-            for (int j = 0; j < n; ++j) {
-                graph[i][j] = Integer.parseInt(st.nextToken());
-                visited[i][j] = -1;
-            }
-        }
-
-        System.out.println(dfs(0, 0));
-        br.close();
-    }
-
-    public static void main(String[] args) throws Exception      {
-        new Downhill().solution();
+        return mem[x][y] = temp;
     }
 }

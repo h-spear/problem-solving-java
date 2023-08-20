@@ -14,7 +14,7 @@
 |fail|1|
 |floydwarshall|5|
 |graph|0|
-|graphsearch|39|
+|graphsearch|40|
 |greedy|1|
 |implementation|26|
 |kmp|5|
@@ -25,10 +25,10 @@
 |segmenttree|51|
 |sorting|1|
 |topologysort|8|
-|tree|2|
+|tree|3|
 |trie|4|
 |twopointer|6|
-| **sum** | **285**|
+| **sum** | **287**|
 
 ## Programmers
 |    Level    | solved |
