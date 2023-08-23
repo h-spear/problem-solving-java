@@ -16,7 +16,7 @@
 |graph|0|
 |graphsearch|40|
 |greedy|1|
-|implementation|26|
+|implementation|27|
 |kmp|5|
 |lca|11|
 |math|12|
@@ -28,7 +28,7 @@
 |tree|3|
 |trie|4|
 |twopointer|6|
-| **sum** | **288**|
+| **sum** | **289**|
 
 ## Programmers
 |    Level    | solved |
@@ -62,10 +62,10 @@
 |difficulty1|0|
 |difficulty2|6|
 |difficulty3|3|
-|difficulty4|5|
+|difficulty4|6|
 |difficulty5|5|
 |difficulty6|3|
 |swtest|1|
 |unknown|1|
-| **sum** | **24**|
+| **sum** | **25**|
 
