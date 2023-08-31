@@ -18,7 +18,7 @@
 |greedy|1|
 |implementation|31|
 |kmp|5|
-|lca|11|
+|lca|12|
 |math|12|
 |mst|9|
 |prefixsum|3|
@@ -28,7 +28,7 @@
 |tree|3|
 |trie|4|
 |twopointer|7|
-| **sum** | **295**|
+| **sum** | **296**|
 
 ## Programmers
 |    Level    | solved |
