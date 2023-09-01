@@ -22,13 +22,13 @@
 |math|12|
 |mst|9|
 |prefixsum|3|
-|segmenttree|52|
+|segmenttree|55|
 |sorting|1|
 |topologysort|8|
 |tree|3|
 |trie|4|
 |twopointer|7|
-| **sum** | **296**|
+| **sum** | **299**|
 
 ## Programmers
 |    Level    | solved |
