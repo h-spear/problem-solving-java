@@ -65,7 +65,7 @@
 |difficulty4|7|
 |difficulty5|5|
 |difficulty6|3|
-|swtest|1|
+|swtest|4|
 |unknown|1|
-| **sum** | **26**|
+| **sum** | **29**|
 
