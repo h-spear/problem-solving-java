@@ -61,11 +61,11 @@
 | :-------------: | :----: |
 |difficulty1|0|
 |difficulty2|6|
-|difficulty3|3|
+|difficulty3|5|
 |difficulty4|8|
 |difficulty5|5|
 |difficulty6|3|
 |swtest|4|
 |unknown|1|
-| **sum** | **30**|
+| **sum** | **32**|
 
