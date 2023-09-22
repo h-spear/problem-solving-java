@@ -3,7 +3,7 @@
 | :-------------: | :----: |
 |backtracking|8|
 |bellmanford|2|
-|binarysearch|5|
+|binarysearch|6|
 |bruteforce|4|
 |combinatorics|2|
 |datastructure|29|
@@ -14,21 +14,21 @@
 |fail|1|
 |floydwarshall|5|
 |graph|0|
-|graphsearch|40|
+|graphsearch|41|
 |greedy|1|
 |implementation|31|
 |kmp|5|
 |lca|12|
 |math|12|
 |mst|9|
-|prefixsum|3|
+|prefixsum|4|
 |segmenttree|55|
 |sorting|1|
 |topologysort|8|
 |tree|3|
 |trie|4|
 |twopointer|7|
-| **sum** | **299**|
+| **sum** | **302**|
 
 ## Programmers
 |    Level    | solved |
