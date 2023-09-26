@@ -14,11 +14,11 @@
 |fail|1|
 |floydwarshall|5|
 |graph|0|
-|graphsearch|41|
+|graphsearch|42|
 |greedy|1|
 |implementation|32|
 |kmp|5|
-|lca|12|
+|lca|13|
 |math|12|
 |mst|9|
 |prefixsum|4|
@@ -28,7 +28,7 @@
 |tree|4|
 |trie|4|
 |twopointer|7|
-| **sum** | **308**|
+| **sum** | **310**|
 
 ## Programmers
 |    Level    | solved |
