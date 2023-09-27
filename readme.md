@@ -13,9 +13,8 @@
 |dp|31|
 |fail|1|
 |floydwarshall|5|
-|graph|0|
 |graphsearch|42|
-|greedy|1|
+|greedy|2|
 |implementation|32|
 |kmp|5|
 |lca|13|
@@ -28,17 +27,15 @@
 |tree|4|
 |trie|4|
 |twopointer|7|
-| **sum** | **310**|
+| **sum** | **311**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
-|level0|0|
 |level1|3|
 |level2|16|
 |level3|16|
 |level4|1|
-|level5|0|
 | **sum** | **36**|
 
 ## LeetCode
@@ -59,7 +56,6 @@
 ## SW Expert Academy
 |    difficulty    | solved |
 | :-------------: | :----: |
-|difficulty1|0|
 |difficulty2|6|
 |difficulty3|6|
 |difficulty4|8|
