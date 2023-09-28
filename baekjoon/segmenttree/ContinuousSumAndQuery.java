@@ -5,7 +5,7 @@ package baekjoon.segmenttree;
 import java.io.*;
 import java.util.*;
 
-public class PrefixSumAndQuery {
+public class ContinuousSumAndQuery {
 
     private static final int INF = (int) 1e9;
     private static int N, S;
@@ -93,6 +93,6 @@ public class PrefixSumAndQuery {
     }
 
     public static void main(String[] args) throws Exception {
-        new PrefixSumAndQuery().solution();
+        new ContinuousSumAndQuery().solution();
     }
 }
