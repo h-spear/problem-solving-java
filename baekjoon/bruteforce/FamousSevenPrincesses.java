@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1941
+
 package baekjoon.bruteforce;
 
 import java.io.*;
