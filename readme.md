@@ -1,10 +1,10 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|8|
+|backtracking|9|
 |bellmanford|2|
 |binarysearch|8|
-|bruteforce|4|
+|bruteforce|5|
 |combinatorics|2|
 |datastructure|30|
 |dijkstra|13|
@@ -13,6 +13,7 @@
 |dp|31|
 |fail|1|
 |floydwarshall|5|
+|graph|0|
 |graphsearch|42|
 |greedy|2|
 |implementation|32|
@@ -28,15 +29,17 @@
 |tree|4|
 |trie|4|
 |twopointer|7|
-| **sum** | **318**|
+| **sum** | **320**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
+|level0|0|
 |level1|3|
 |level2|16|
 |level3|16|
 |level4|1|
+|level5|0|
 | **sum** | **36**|
 
 ## LeetCode
@@ -57,6 +60,7 @@
 ## SW Expert Academy
 |    difficulty    | solved |
 | :-------------: | :----: |
+|difficulty1|0|
 |difficulty2|6|
 |difficulty3|6|
 |difficulty4|8|
