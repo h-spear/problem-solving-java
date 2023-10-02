@@ -1,7 +1,7 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|9|
+|backtracking|10|
 |bellmanford|2|
 |binarysearch|8|
 |bruteforce|5|
@@ -29,7 +29,7 @@
 |tree|4|
 |trie|4|
 |twopointer|7|
-| **sum** | **320**|
+| **sum** | **321**|
 
 ## Programmers
 |    Level    | solved |
