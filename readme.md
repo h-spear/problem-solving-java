@@ -21,7 +21,7 @@
 |lca|13|
 |math|12|
 |mst|9|
-|prefixsum|6|
+|prefixsum|7|
 |segmenttree|62|
 |sorting|1|
 |string|1|
@@ -29,7 +29,7 @@
 |tree|4|
 |trie|4|
 |twopointer|8|
-| **sum** | **328**|
+| **sum** | **329**|
 
 ## Programmers
 |    Level    | solved |
@@ -62,11 +62,11 @@
 | :-------------: | :----: |
 |difficulty1|0|
 |difficulty2|6|
-|difficulty3|6|
-|difficulty4|8|
+|difficulty3|7|
+|difficulty4|10|
 |difficulty5|5|
 |difficulty6|3|
 |swtest|4|
 |unknown|1|
-| **sum** | **33**|
+| **sum** | **36**|
 
