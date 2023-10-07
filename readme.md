@@ -21,15 +21,15 @@
 |lca|13|
 |math|12|
 |mst|9|
-|prefixsum|4|
+|prefixsum|6|
 |segmenttree|62|
 |sorting|1|
 |string|1|
 |topologysort|8|
 |tree|4|
 |trie|4|
-|twopointer|7|
-| **sum** | **325**|
+|twopointer|8|
+| **sum** | **328**|
 
 ## Programmers
 |    Level    | solved |
