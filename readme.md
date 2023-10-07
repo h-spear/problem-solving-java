@@ -63,10 +63,10 @@
 |difficulty1|0|
 |difficulty2|6|
 |difficulty3|7|
-|difficulty4|10|
-|difficulty5|5|
+|difficulty4|11|
+|difficulty5|6|
 |difficulty6|3|
 |swtest|4|
 |unknown|1|
-| **sum** | **36**|
+| **sum** | **38**|
 
