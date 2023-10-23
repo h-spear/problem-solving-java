@@ -41,7 +41,7 @@ public class WizardSharkAndBlizzard {
         return indicesMatrix[x][y];
     }
 
-    private int[] twoDimensionToOneDemensionArray(int[][] graph, int n) {
+    private int[] twoDimensionToOneDimensionArray(int[][] graph, int n) {
         int[] dx = {0, 1, 0, -1};
         int[] dy = {-1, 0, 1, 0};
         int x = n / 2;
@@ -165,7 +165,7 @@ public class WizardSharkAndBlizzard {
 
         indicesMatrix = makeIndicesMatrix(n);
         int answer = 0;
-        int[] graph1D = twoDimensionToOneDemensionArray(graph, n);
+        int[] graph1D = twoDimensionToOneDimensionArray(graph, n);
 
         for (int i = 0; i < m; ++i) {
             st = new StringTokenizer(br.readLine());
