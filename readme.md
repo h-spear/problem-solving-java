@@ -13,8 +13,8 @@
 |dp|37|
 |fail|1|
 |floydwarshall|5|
-|graphsearch|43|
-|greedy|3|
+|graphsearch|46|
+|greedy|4|
 |implementation|32|
 |kmp|5|
 |lca|13|
@@ -23,12 +23,12 @@
 |prefixsum|7|
 |segmenttree|62|
 |sorting|1|
-|string|1|
+|string|2|
 |topologysort|8|
 |tree|4|
 |trie|4|
 |twopointer|8|
-| **sum** | **334**|
+| **sum** | **339**|
 
 ## Programmers
 |    Level    | solved |
