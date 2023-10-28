@@ -20,7 +20,7 @@ public class Emoticon {
         boolean[][] visited = new boolean[2000][2000];
 
         Queue<Node> queue = new ArrayDeque<>();
-        queue.add(new Node(1, 1, 1));
+        queue.add(new Node(0, 1, 0));
         visited[1][0] = true;
 
         int answer = -1;
