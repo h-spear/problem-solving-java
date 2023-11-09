@@ -10,9 +10,10 @@
 |dijkstra|14|
 |disjointset|4|
 |divideandconquer|4|
-|dp|37|
+|dp|38|
 |fail|1|
 |floydwarshall|5|
+|graph|0|
 |graphsearch|46|
 |greedy|4|
 |implementation|32|
@@ -23,20 +24,22 @@
 |prefixsum|7|
 |segmenttree|62|
 |sorting|1|
-|string|2|
+|string|3|
 |topologysort|8|
-|tree|4|
+|tree|5|
 |trie|4|
 |twopointer|8|
-| **sum** | **340**|
+| **sum** | **343**|
 
 ## Programmers
 |    Level    | solved |
 | :-------------: | :----: |
+|level0|0|
 |level1|3|
 |level2|16|
 |level3|16|
 |level4|1|
+|level5|0|
 | **sum** | **36**|
 
 ## LeetCode
@@ -57,6 +60,7 @@
 ## SW Expert Academy
 |    difficulty    | solved |
 | :-------------: | :----: |
+|difficulty1|0|
 |difficulty2|6|
 |difficulty3|7|
 |difficulty4|12|
