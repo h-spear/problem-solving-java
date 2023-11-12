@@ -1,4 +1,4 @@
-// // https://www.acmicpc.net/problem/2336
+// https://www.acmicpc.net/problem/2336
 
 package baekjoon.segmenttree;
 
@@ -8,14 +8,14 @@ import java.util.*;
 public class AwesomeStudent {
 
 	private static final int INF = 1_000_000;
-	private static int N, S;
+	private static int S;
 	private static int[] tree;
 
 	public static void main(String[] args) throws Exception {
 	    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	    StringTokenizer st;
 
-		N = Integer.parseInt(br.readLine());
+		int N = Integer.parseInt(br.readLine());
 		S = 1;
 		while (S < N)
 			S <<= 1;
