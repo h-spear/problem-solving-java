@@ -4,9 +4,9 @@
 |backtracking|10|
 |bellmanford|2|
 |binarysearch|9|
-|bruteforce|5|
+|bruteforce|6|
 |combinatorics|2|
-|datastructure|30|
+|datastructure|31|
 |dijkstra|14|
 |disjointset|4|
 |divideandconquer|4|
@@ -14,8 +14,8 @@
 |fail|1|
 |floydwarshall|5|
 |graph|0|
-|graphsearch|46|
-|greedy|4|
+|graphsearch|47|
+|greedy|5|
 |implementation|32|
 |kmp|5|
 |lca|13|
@@ -29,7 +29,7 @@
 |tree|5|
 |trie|4|
 |twopointer|8|
-| **sum** | **343**|
+| **sum** | **347**|
 
 ## Programmers
 |    Level    | solved |
