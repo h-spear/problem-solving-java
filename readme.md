@@ -1,12 +1,12 @@
 ## BAEKJOON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|10|
+|backtracking|12|
 |bellmanford|2|
 |binarysearch|9|
 |bruteforce|6|
 |combinatorics|2|
-|datastructure|31|
+|datastructure|32|
 |dijkstra|14|
 |disjointset|4|
 |divideandconquer|4|
@@ -14,14 +14,14 @@
 |fail|1|
 |floydwarshall|5|
 |graph|0|
-|graphsearch|47|
-|greedy|5|
+|graphsearch|48|
+|greedy|10|
 |implementation|32|
 |kmp|5|
 |lca|13|
 |math|12|
 |mst|9|
-|prefixsum|7|
+|prefixsum|8|
 |segmenttree|62|
 |sorting|1|
 |string|3|
@@ -29,7 +29,7 @@
 |tree|5|
 |trie|4|
 |twopointer|8|
-| **sum** | **347**|
+| **sum** | **357**|
 
 ## Programmers
 |    Level    | solved |
