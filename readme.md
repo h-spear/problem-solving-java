@@ -14,7 +14,7 @@
 |fail|1|
 |floydwarshall|5|
 |graph|0|
-|graphsearch|48|
+|graphsearch|49|
 |greedy|10|
 |implementation|32|
 |kmp|5|
@@ -29,7 +29,7 @@
 |tree|5|
 |trie|4|
 |twopointer|8|
-| **sum** | **357**|
+| **sum** | **358**|
 
 ## Programmers
 |    Level    | solved |
