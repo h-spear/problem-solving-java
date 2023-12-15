@@ -2,5 +2,5 @@
 out
 *.iml
 temp/*
-Solution.java
+./Solution.java
 swea/pro

@@ -3,13 +3,13 @@
 | :-------------: | :----: |
 |backtracking|12|
 |bellmanford|2|
-|binarysearch|9|
-|bruteforce|6|
+|binarysearch|10|
+|bruteforce|7|
 |combinatorics|2|
-|datastructure|32|
+|datastructure|33|
 |dijkstra|14|
 |disjointset|4|
-|divideandconquer|4|
+|divideandconquer|5|
 |dp|38|
 |fail|1|
 |floydwarshall|5|
@@ -26,10 +26,10 @@
 |sorting|1|
 |string|3|
 |topologysort|8|
-|tree|5|
+|tree|6|
 |trie|4|
 |twopointer|8|
-| **sum** | **358**|
+| **sum** | **363**|
 
 ## Programmers
 |    Level    | solved |
