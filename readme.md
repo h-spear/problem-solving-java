@@ -6,7 +6,7 @@
 |binarysearch|10|
 |bruteforce|7|
 |combinatorics|2|
-|datastructure|33|
+|datastructure|34|
 |dijkstra|14|
 |disjointset|5|
 |divideandconquer|5|
@@ -14,8 +14,8 @@
 |fail|1|
 |floydwarshall|5|
 |graph|0|
-|graphsearch|49|
-|greedy|11|
+|graphsearch|50|
+|greedy|12|
 |implementation|32|
 |kmp|5|
 |lca|13|
@@ -29,7 +29,7 @@
 |tree|6|
 |trie|4|
 |twopointer|8|
-| **sum** | **375**|
+| **sum** | **378**|
 
 ## Programmers
 |    Level    | solved |
