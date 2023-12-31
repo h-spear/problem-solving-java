@@ -10,7 +10,7 @@
 |dijkstra|14|
 |disjointset|5|
 |divideandconquer|5|
-|dp|48|
+|dp|49|
 |fail|1|
 |floydwarshall|5|
 |graph|0|
@@ -29,7 +29,7 @@
 |tree|6|
 |trie|4|
 |twopointer|8|
-| **sum** | **378**|
+| **sum** | **379**|
 
 ## Programmers
 |    Level    | solved |
