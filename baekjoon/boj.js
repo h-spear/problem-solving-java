@@ -81,7 +81,7 @@ async function main() {
                 title: '',
                 level: 0,
                 file: file,
-                path: path + '/' + file,
+                path: './' + alg + '/' + file,
             };
             problemMap[alg].push(problemNumber);
             // const data = fs
