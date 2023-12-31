@@ -1,5 +1,5 @@
 ## Baekjoon
-<br>
+---
 
 ### Back Tracking
 |    Tier    | No | Problem | Code | 
@@ -17,7 +17,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/15661">15661</a> | 링크와 스타트 | <a href="./backtracking/LinkAndStart.java">LinkAndStart.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/18428">18428</a> | 감시 피하기 | <a href="./backtracking/AvoidSurveillance.java">AvoidSurveillance.java</a> |
 
-<br>
+---
 
 ### Bellman Ford
 |    Tier    | No | Problem | Code | 
@@ -25,7 +25,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/3860">3860</a> | 할로윈 묘지 | <a href="./bellmanford/HalloweenCemetery.java">HalloweenCemetery.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11657">11657</a> | 타임머신 | <a href="./bellmanford/TimeMachine.java">TimeMachine.java</a> |
 
-<br>
+---
 
 ### Binary Search
 |    Tier    | No | Problem | Code | 
@@ -41,7 +41,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/7453">7453</a> | 합이 0인 네 정수 | <a href="./twopointer/FourIntegersSumZero.java">FourIntegersSumZero.java</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/10816">10816</a> | 숫자 카드 2 | <a href="./binarysearch/NumberCard2.java">NumberCard2.java</a> |
 
-<br>
+---
 
 ### Bruteforce
 |    Tier    | No | Problem | Code | 
@@ -54,7 +54,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20529">20529</a> | 가장 가까운 세 사람의 심리적 거리 | <a href="./bruteforce/PsychologicalDistanceBetweenThreeClosestPeople.java">PsychologicalDistanceBetweenThreeClosestPeople.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
 
-<br>
+---
 
 ### Combinatorics
 |    Tier    | No | Problem | Code | 
@@ -62,7 +62,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1256">1256</a> | 사전 | <a href="./combinatorics/Dictionary.java">Dictionary.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1722">1722</a> | 순열의 순서 | <a href="./combinatorics/PermutationOrder.java">PermutationOrder.java</a> |
 
-<br>
+---
 
 ### Data Structure
 |    Tier    | No | Problem | Code | 
@@ -102,7 +102,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/20920">20920</a> | 영단어 암기는 괴로워 | <a href="./datastructure/HardToMemorizeEnglishWords.java">HardToMemorizeEnglishWords.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/23309">23309</a> | 철도 공사 | <a href="./datastructure/RailwayConstruction.java">RailwayConstruction.java</a> |
 
-<br>
+---
 
 ### Dijkstra
 |    Tier    | No | Problem | Code | 
@@ -122,7 +122,7 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/16118">16118</a> | 달빛 여우 | <a href="./dijkstra/MoonlightFox.java">MoonlightFox.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/18352">18352</a> | 특정 거리의 도시 찾기 | <a href="./dijkstra/FindCityOfSpecificDistance.java">FindCityOfSpecificDistance.java</a> |
 
-<br>
+---
 
 ### Union Find
 |    Tier    | No | Problem | Code | 
@@ -133,7 +133,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/4195">4195</a> | 친구 네트워크 | <a href="./disjointset/FriendNetwork.java">FriendNetwork.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/20040">20040</a> | 사이클 게임 | <a href="./disjointset/CycleGame.java">CycleGame.java</a> |
 
-<br>
+---
 
 ### Divide and Conquer
 |    Tier    | No | Problem | Code | 
@@ -144,7 +144,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10830">10830</a> | 행렬 제곱 | <a href="./divideandconquer/MatrixSquared.java">MatrixSquared.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/11444">11444</a> | 피보나치 수 6 | <a href="./divideandconquer/FibonacciNumber6.java">FibonacciNumber6.java</a> |
 
-<br>
+---
 
 ### Dynamic Programming
 |    Tier    | No | Problem | Code | 
@@ -199,7 +199,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20303">20303</a> | 할로윈의 양아치 | <a href="./dp/HalloweenBully.java">HalloweenBully.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/27500">27500</a> | 이 게임에서 진정한 탑은 누구인가 | <a href="./dp/WhoIsTopInThisGame.java">WhoIsTopInThisGame.java</a> |
 
-<br>
+---
 
 ### Floyd Warshall
 |    Tier    | No | Problem | Code | 
@@ -210,7 +210,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/11403">11403</a> | 경로 찾기 | <a href="./floydwarshall/FindPath.java">FindPath.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11404">11404</a> | 플로이드 | <a href="./floydwarshall/Floyd.java">Floyd.java</a> |
 
-<br>
+---
 
 ### Graph Traversal
 |    Tier    | No | Problem | Code | 
@@ -266,7 +266,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17135">17135</a> | 캐슬 디펜스 | <a href="./graphsearch/CastleDefense.java">CastleDefense.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/18405">18405</a> | 경쟁적 전염 | <a href="./graphsearch/CompetitiveInfection.java">CompetitiveInfection.java</a> |
 
-<br>
+---
 
 ### Greedy
 |    Tier    | No | Problem | Code | 
@@ -284,7 +284,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/20300">20300</a> | 서강근육맨 | <a href="./greedy/SogangMuscleMan.java">SogangMuscleMan.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/20413">20413</a> | MVP 다이아몬드 (Easy) | <a href="./greedy/MVPDiamond_Easy.java">MVPDiamond_Easy.java</a> |
 
-<br>
+---
 
 ### Implementation
 |    Tier    | No | Problem | Code | 
@@ -322,7 +322,7 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/23290">23290</a> | 마법사 상어와 복제 | <a href="./implementation/WizardSharkAndClone.java">WizardSharkAndClone.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/25598">25598</a> | Alive or Dead? | <a href="./implementation/AliveOrDead.java">AliveOrDead.java</a> |
 
-<br>
+---
 
 ### KMP
 |    Tier    | No | Problem | Code | 
@@ -333,7 +333,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/4354">4354</a> | 문자열 제곱 | <a href="./kmp/StringSquare.java">StringSquare.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/7575">7575</a> | 바이러스 | <a href="./kmp/Virus.java">Virus.java</a> |
 
-<br>
+---
 
 ### LCA(Lowest Common Ancestor)
 |    Tier    | No | Problem | Code | 
@@ -352,7 +352,7 @@
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/15481">15481</a> | 그래프와 MST | <a href="./lca/GraphAndMST.java">GraphAndMST.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/20295">20295</a> | 사탕 배달 | <a href="./lca/CandyDelivery.java">CandyDelivery.java</a> |
 
-<br>
+---
 
 ### Math
 |    Tier    | No | Problem | Code | 
@@ -370,7 +370,7 @@
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/11653">11653</a> | 소인수분해 | <a href="./math/PrimeFactorization.java">PrimeFactorization.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/14476">14476</a> | 최대공약수 하나 빼기 | <a href="./math/RemoveOneGCD.java">RemoveOneGCD.java</a> |
 
-<br>
+---
 
 ### MST(Minimum Spanning Tree)
 |    Tier    | No | Problem | Code | 
@@ -385,7 +385,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/6497">6497</a> | 전력난 | <a href="./mst/PowerShrotage.java">PowerShrotage.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/17472">17472</a> | 다리 만들기 2 | <a href="./mst/MakeBridge2.java">MakeBridge2.java</a> |
 
-<br>
+---
 
 ### Prefix Sum
 |    Tier    | No | Problem | Code | 
@@ -399,7 +399,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/11659">11659</a> | 구간 합 구하기 4 | <a href="./prefixsum/PrefixSum4.java">PrefixSum4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/11660">11660</a> | 구간 합 구하기 5 | <a href="./prefixsum/PrefixSum5.java">PrefixSum5.java</a> |
 
-<br>
+---
 
 ### Segment Tree
 |    Tier    | No | Problem | Code | 
@@ -467,14 +467,14 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/18436">18436</a> | 수열과 쿼리 37 | <a href="./segmenttree/SequenceAndQuery37.java">SequenceAndQuery37.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/25639">25639</a> | 수열과 최대 상승 쿼리 | <a href="./segmenttree/SequenceAndMaximumRiseQuery.java">SequenceAndMaximumRiseQuery.java</a> |
 
-<br>
+---
 
 ### Sorting
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/2750">2750</a> | 수 정렬하기 | <a href="./sorting/NumberSorting.java">NumberSorting.java</a> |
 
-<br>
+---
 
 ### String
 |    Tier    | No | Problem | Code | 
@@ -483,7 +483,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9177">9177</a> | 단어 섞기 | <a href="./string/ShuffleWord.java">ShuffleWord.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9935">9935</a> | 문자열 폭발 | <a href="./string/StringExplosion.java">StringExplosion.java</a> |
 
-<br>
+---
 
 ### Topology Sort
 |    Tier    | No | Problem | Code | 
@@ -497,7 +497,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2623">2623</a> | 음악프로그램 | <a href="./topologysort/MusicProgram.java">MusicProgram.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14567">14567</a> | 선수과목 (Prerequisite) | <a href="./topologysort/Prerequisite.java">Prerequisite.java</a> |
 
-<br>
+---
 
 ### Tree
 |    Tier    | No | Problem | Code | 
@@ -509,7 +509,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14675">14675</a> | 단절점과 단절선 | <a href="./tree/ArticulationPointAndBridge.java">ArticulationPointAndBridge.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/24230">24230</a> | 트리 색칠하기 | <a href="./tree/ColoringTree.java">ColoringTree.java</a> |
 
-<br>
+---
 
 ### Trie
 |    Tier    | No | Problem | Code | 
@@ -519,7 +519,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/5670">5670</a> | 휴대폰 자판 | <a href="./trie/CellPhoneKeyboard.java">CellPhoneKeyboard.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/9202">9202</a> | Boggle | <a href="./trie/Boggle.java">Boggle.java</a> |
 
-<br>
+---
 
 ### Two Pointer
 |    Tier    | No | Problem | Code | 
