@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { runBaekjoonReadmeGenerator } = require('./baekjoon/boj.js');
 
 const baekjoon_dir = './baekjoon';
 const programmers_dir = './programmers';
@@ -55,6 +56,8 @@ directories.forEach((directory) => {
         });
     });
 });
+
+runBaekjoonReadmeGenerator();
 
 // write md file
 if (!fs.existsSync(output_file)) {
@@ -162,5 +165,4 @@ fs.appendFileSync(
     'utf-8'
 );
 console.log('swea solved ' + swea_sum + '!');
-
 console.log('saved successfully! ' + output_file);
