@@ -20,13 +20,12 @@ public class WhoIsTopInThisGame {
 		st = new StringTokenizer(br.readLine());
 		int hp1 = Integer.parseInt(st.nextToken());
 		int hp2 = Integer.parseInt(st.nextToken());
-		int d1, d2, d3, d4;
 
 		st = new StringTokenizer(br.readLine());
-		d1 = Integer.parseInt(st.nextToken());
-		d2 = Integer.parseInt(st.nextToken());
-		d3 = Integer.parseInt(st.nextToken());
-		d4 = Integer.parseInt(st.nextToken());
+		int d1 = Integer.parseInt(st.nextToken());
+		int d2 = Integer.parseInt(st.nextToken());
+		int d3 = Integer.parseInt(st.nextToken());
+		int d4 = Integer.parseInt(st.nextToken());
 
 		// x = -1 : guard
 		// x > 0  : attack damage
