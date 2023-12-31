@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const except_list = ['out', '.idea', 'fail'];
-const output_file = 'readme.md';
+const output_file = './baekjoon/readme.md';
 const algMap = {
     backtracking: 'Back Tracking',
     bellmanford: 'Bellman Ford',
