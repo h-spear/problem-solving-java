@@ -114,7 +114,7 @@ async function main() {
     for (const alg in problemMap) {
         fs.appendFileSync(
             output_file,
-            `\n### ${algMap[alg]}\n|    Tier    | No | Problem | Code | \n| :-------------: | :----: | :----: | :----: |\n`,
+            `\n<br>\n\n### ${algMap[alg]}\n|    Tier    | No | Problem | Code | \n| :-------------: | :----: | :----: | :----: |\n`,
             'utf-8'
         );
         for (const problemNumber of problemMap[alg]) {
