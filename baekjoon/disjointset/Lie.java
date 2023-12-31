@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1043
+
 package baekjoon.disjointset;
 
 import java.io.*;

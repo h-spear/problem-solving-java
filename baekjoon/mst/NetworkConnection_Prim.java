@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1922
+
 package baekjoon.mst;
 
 import java.io.*;
