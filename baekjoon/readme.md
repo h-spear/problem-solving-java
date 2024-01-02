@@ -227,6 +227,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1707">1707</a> | 이분 그래프 | <a href="./graphsearch/BipartiteGraph.java">BipartiteGraph.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1743">1743</a> | 음식물 피하기 | <a href="./graphsearch/AvoidFood.java">AvoidFood.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1987">1987</a> | 알파벳 | <a href="./graphsearch/Alphabet.java">Alphabet.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/2001">2001</a> | 보석 줍기 | <a href="./graphsearch/PickUpGems.java">PickUpGems.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2178">2178</a> | 미로 탐색 | <a href="./graphsearch/MazeEscape.java">MazeEscape.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2206">2206</a> | 벽 부수고 이동하기 | <a href="./graphsearch/BreakTheWallAndMove.java">BreakTheWallAndMove.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2234">2234</a> | 성곽 | <a href="./graphsearch/Castle.java">Castle.java</a> |
