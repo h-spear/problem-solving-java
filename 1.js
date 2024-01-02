@@ -70,7 +70,7 @@ fs.writeFileSync(output_file, '');
 let baekjoon_sum = 0;
 fs.appendFileSync(
     output_file,
-    '## BAEKJOON\n|    Algorithm    | solved |\n| :-------------: | :----: |\n',
+    '## [BAEKJOON](./baekjoon/)\n|    Algorithm    | solved |\n| :-------------: | :----: |\n',
     'utf-8'
 );
 result['baekjoon'].forEach((v) => {
@@ -90,7 +90,7 @@ console.log('baekjoon solved ' + baekjoon_sum + '!');
 let programmers_sum = 0;
 fs.appendFileSync(
     output_file,
-    '## Programmers\n|    Level    | solved |\n| :-------------: | :----: |\n',
+    '## [Programmers](./programmers/)\n|    Level    | solved |\n| :-------------: | :----: |\n',
     'utf-8'
 );
 result['programmers'].forEach((v) => {
@@ -110,7 +110,7 @@ console.log('programmers solved ' + programmers_sum + '!');
 let leetcode_sum = 0;
 fs.appendFileSync(
     output_file,
-    '## LeetCode\n|    Algorithm    | solved |\n| :-------------: | :----: |\n',
+    '## [LeetCode](./leetcode/)\n|    Algorithm    | solved |\n| :-------------: | :----: |\n',
     'utf-8'
 );
 result['leetcode'].forEach((v) => {
@@ -130,7 +130,7 @@ console.log('leetcode solved ' + leetcode_sum + '!');
 let hackerrank_sum = 0;
 fs.appendFileSync(
     output_file,
-    '## HackerRank\n|    SubDomain    | solved |\n| :-------------: | :----: |\n',
+    '## [HackerRank](./hackerrank/)\n|    SubDomain    | solved |\n| :-------------: | :----: |\n',
     'utf-8'
 );
 result['hackerrank'].forEach((v) => {
@@ -150,7 +150,7 @@ console.log('hackerrank solved ' + hackerrank_sum + '!');
 let swea_sum = 0;
 fs.appendFileSync(
     output_file,
-    '## SW Expert Academy\n|    difficulty    | solved |\n| :-------------: | :----: |\n',
+    '## [SW Expert Academy](./swea/)\n|    difficulty    | solved |\n| :-------------: | :----: |\n',
     'utf-8'
 );
 result['swea'].forEach((v) => {
