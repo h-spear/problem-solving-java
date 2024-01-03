@@ -7,7 +7,7 @@
 |bruteforce|7|
 |combinatorics|2|
 |datastructure|34|
-|dijkstra|14|
+|dijkstra|15|
 |disjointset|5|
 |divideandconquer|5|
 |dp|49|
@@ -24,11 +24,11 @@
 |segmenttree|62|
 |sorting|1|
 |string|3|
-|topologysort|8|
+|topologysort|9|
 |tree|6|
 |trie|4|
 |twopointer|7|
-| **sum** | **381**|
+| **sum** | **383**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

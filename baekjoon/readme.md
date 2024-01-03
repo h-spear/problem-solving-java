@@ -120,6 +120,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11779">11779</a> | 최소비용 구하기 2 | <a href="./dijkstra/FindMinimumCost2.java">FindMinimumCost2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/13549">13549</a> | 숨바꼭질 3 | <a href="./graphsearch/HideAndSeek3.java">HideAndSeek3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/16118">16118</a> | 달빛 여우 | <a href="./dijkstra/MoonlightFox.java">MoonlightFox.java</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17270">17270</a> | 연예인은 힘들어 | <a href="./dijkstra/CelebritiesAreHard.java">CelebritiesAreHard.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/18352">18352</a> | 특정 거리의 도시 찾기 | <a href="./dijkstra/FindCityOfSpecificDistance.java">FindCityOfSpecificDistance.java</a> |
 
 ---
@@ -499,6 +500,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2252">2252</a> | 줄 세우기 | <a href="./topologysort/LineUp.java">LineUp.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2623">2623</a> | 음악프로그램 | <a href="./topologysort/MusicProgram.java">MusicProgram.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14567">14567</a> | 선수과목 (Prerequisite) | <a href="./topologysort/Prerequisite.java">Prerequisite.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/20119">20119</a> | 클레어와 물약 | <a href="./topologysort/ClareAndPotion.java">ClareAndPotion.java</a> |
 
 ---
 
