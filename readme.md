@@ -24,11 +24,11 @@
 |segmenttree|62|
 |sorting|1|
 |string|3|
-|topologysort|9|
+|topologysort|11|
 |tree|6|
 |trie|4|
 |twopointer|7|
-| **sum** | **383**|
+| **sum** | **385**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
