@@ -50,6 +50,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1941">1941</a> | 소문난 칠공주 | <a href="./bruteforce/FamousSevenPrincesses.java">FamousSevenPrincesses.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14500">14500</a> | 테트로미노 | <a href="./bruteforce/Tetromino.java">Tetromino.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/16637">16637</a> | 괄호 추가하기 | <a href="./bruteforce/AddParentheses.java">AddParentheses.java</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/18111">18111</a> | 마인크래프트 | <a href="./bruteforce/Minecraft.java">Minecraft.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/18429">18429</a> | 근손실 | <a href="./bruteforce/MuscleLoss.java">MuscleLoss.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20529">20529</a> | 가장 가까운 세 사람의 심리적 거리 | <a href="./bruteforce/PsychologicalDistanceBetweenThreeClosestPeople.java">PsychologicalDistanceBetweenThreeClosestPeople.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
@@ -499,7 +500,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2056">2056</a> | 작업 | <a href="./topologysort/Work.java">Work.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2252">2252</a> | 줄 세우기 | <a href="./topologysort/LineUp.java">LineUp.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2623">2623</a> | 음악프로그램 | <a href="./topologysort/MusicProgram.java">MusicProgram.java</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/10423">10423</a> | 전기가 부족해 | <a href="./topologysort/ElectricityShortage.java">ElectricityShortage.java</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/10423">10423</a> | 전기가 부족해 | <a href="./topologysort/ElectricityShortage.java">ElectricityShortage.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14567">14567</a> | 선수과목 (Prerequisite) | <a href="./topologysort/Prerequisite.java">Prerequisite.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/20119">20119</a> | 클레어와 물약 | <a href="./topologysort/ClareAndPotion.java">ClareAndPotion.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/23743">23743</a> | 방탈출 | <a href="./topologysort/RoomEscape.java">RoomEscape.java</a> |

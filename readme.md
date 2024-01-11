@@ -4,7 +4,7 @@
 |backtracking|12|
 |bellmanford|2|
 |binarysearch|10|
-|bruteforce|7|
+|bruteforce|8|
 |combinatorics|2|
 |datastructure|34|
 |dijkstra|15|
@@ -28,7 +28,7 @@
 |tree|6|
 |trie|4|
 |twopointer|7|
-| **sum** | **385**|
+| **sum** | **386**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
