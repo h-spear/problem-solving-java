@@ -269,6 +269,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/17129">17129</a> | 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유 | <a href="./graphsearch/ReasonWhyTheWoodpeckerCameToInformationIsland.java">ReasonWhyTheWoodpeckerCameToInformationIsland.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17135">17135</a> | 캐슬 디펜스 | <a href="./graphsearch/CastleDefense.java">CastleDefense.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17244">17244</a> | 아맞다우산 | <a href="./graphsearch/OhIRememberUmbrella.java">OhIRememberUmbrella.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/17836">17836</a> | 공주님을 구해라! | <a href="./graphsearch/SaveThePrincess.java">SaveThePrincess.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/18405">18405</a> | 경쟁적 전염 | <a href="./graphsearch/CompetitiveInfection.java">CompetitiveInfection.java</a> |
 
 ---
@@ -322,6 +323,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/20056">20056</a> | 마법사 상어와 파이어볼 | <a href="./implementation/WizardSharkAndFireBall.java">WizardSharkAndFireBall.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20057">20057</a> | 마법사 상어와 토네이도 | <a href="./implementation/WizardSharkAndTornado.java">WizardSharkAndTornado.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20058">20058</a> | 마법사 상어와 파이어스톰 | <a href="./implementation/WizardSharkAndFirestorm.java">WizardSharkAndFirestorm.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/21609">21609</a> | 상어 중학교 | <a href="./implementation/SharkMiddleSchool.java">SharkMiddleSchool.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/21610">21610</a> | 마법사 상어와 비바라기 | <a href="./implementation/WizardSharkAndRainDance.java">WizardSharkAndRainDance.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/23289">23289</a> | 온풍기 안녕! | <a href="./implementation/FanHeaterHello.java">FanHeaterHello.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/23290">23290</a> | 마법사 상어와 복제 | <a href="./implementation/WizardSharkAndClone.java">WizardSharkAndClone.java</a> |

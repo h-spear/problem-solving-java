@@ -13,9 +13,9 @@
 |dp|49|
 |fail|1|
 |floydwarshall|5|
-|graphsearch|53|
+|graphsearch|54|
 |greedy|12|
-|implementation|32|
+|implementation|33|
 |kmp|5|
 |lca|13|
 |math|12|
@@ -28,7 +28,7 @@
 |tree|6|
 |trie|4|
 |twopointer|7|
-| **sum** | **386**|
+| **sum** | **388**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
