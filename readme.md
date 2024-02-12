@@ -1,33 +1,33 @@
 ## [BAEKJOON](./baekjoon/)
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|backtracking|12|
-|bellmanford|2|
-|binarysearch|10|
-|bruteforce|8|
-|combinatorics|2|
-|datastructure|34|
-|dijkstra|15|
-|disjointset|5|
-|divideandconquer|5|
-|dp|49|
-|fail|1|
-|floydwarshall|5|
-|graphsearch|54|
-|greedy|12|
-|implementation|33|
-|kmp|5|
-|lca|13|
-|math|12|
-|mst|9|
-|prefixsum|8|
-|segmenttree|62|
-|sorting|1|
-|string|3|
-|topologysort|11|
-|tree|6|
-|trie|4|
-|twopointer|7|
+|Back Tracking|12|
+|Bellman Ford|2|
+|Binary Search|10|
+|Bruteforce|8|
+|Combinatorics|2|
+|Data Structure|34|
+|Dijkstra|15|
+|Union Find|5|
+|Divide and Conquer|5|
+|Dynamic Programming|49|
+|undefined|1|
+|Floyd Warshall|5|
+|Graph Traversal|54|
+|Greedy|12|
+|Implementation|33|
+|KMP|5|
+|LCA(Lowest Common Ancestor)|13|
+|Math|12|
+|MST(Minimum Spanning Tree)|9|
+|Prefix Sum|8|
+|Segment Tree|62|
+|Sorting|1|
+|String|3|
+|Topology Sort|11|
+|Tree|6|
+|Trie|4|
+|Two Pointer|7|
 | **sum** | **388**|
 
 ## [Programmers](./programmers/)

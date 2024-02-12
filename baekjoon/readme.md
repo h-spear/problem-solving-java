@@ -160,7 +160,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1915">1915</a> | 가장 큰 정사각형 | <a href="./dp/LargestSquare.java">LargestSquare.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dp/IntegerTriangle.java">IntegerTriangle.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1937">1937</a> | 욕심쟁이 판다 | <a href="./dp/GreedyPanda.java">GreedyPanda.java</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1943">1943</a> | 동전 분배 | <a href="./dp/CoinDistribution.java">CoinDistribution.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1943">1943</a> | 동전 분배 | <a href="./dp/CoinDistribution.java">CoinDistribution.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2011">2011</a> | 암호코드 | <a href="./dp/CipherCode.java">CipherCode.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2096">2096</a> | 내려가기 | <a href="./dp/GoDown.java">GoDown.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/2098">2098</a> | 외판원 순회 | <a href="./dp/TravelingSalesmanProblem.java">TravelingSalesmanProblem.java</a> |

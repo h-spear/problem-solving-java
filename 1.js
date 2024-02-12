@@ -14,6 +14,34 @@ const directories = [
     swea_dir,
     hackerrank_dir,
 ];
+const algMap = {
+    backtracking: 'Back Tracking',
+    bellmanford: 'Bellman Ford',
+    binarysearch: 'Binary Search',
+    bruteforce: 'Bruteforce',
+    combinatorics: 'Combinatorics',
+    datastructure: 'Data Structure',
+    dijkstra: 'Dijkstra',
+    disjointset: 'Union Find',
+    divideandconquer: 'Divide and Conquer',
+    dp: 'Dynamic Programming',
+    floydwarshall: 'Floyd Warshall',
+    graphsearch: 'Graph Traversal',
+    greedy: 'Greedy',
+    implementation: 'Implementation',
+    kmp: 'KMP',
+    lca: 'LCA(Lowest Common Ancestor)',
+    math: 'Math',
+    mst: 'MST(Minimum Spanning Tree)',
+    prefixsum: 'Prefix Sum',
+    segmenttree: 'Segment Tree',
+    sorting: 'Sorting',
+    string: 'String',
+    topologysort: 'Topology Sort',
+    tree: 'Tree',
+    trie: 'Trie',
+    twopointer: 'Two Pointer',
+};
 
 const result = {
     baekjoon: [],
@@ -75,7 +103,7 @@ fs.appendFileSync(
 );
 result['baekjoon'].forEach((v) => {
     const { name, length } = v;
-    temp = '|' + name + '|' + length + '|\n';
+    temp = '|' + algMap[name] + '|' + length + '|\n';
     baekjoon_sum += length;
     fs.appendFileSync(output_file, temp, 'utf-8');
 });
