@@ -29,6 +29,7 @@ const algMap = {
     tree: 'Tree',
     trie: 'Trie',
     twopointer: 'Two Pointer',
+    fail: 'Fail',
 };
 const bojLevelUrlPrefix = 'https://static.solved.ac/tier_small/';
 const bojLevelUrlSuffix = '.svg';

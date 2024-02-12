@@ -11,7 +11,7 @@
 |Union Find|5|
 |Divide and Conquer|5|
 |Dynamic Programming|49|
-|undefined|1|
+|Fail|1|
 |Floyd Warshall|5|
 |Graph Traversal|54|
 |Greedy|12|

@@ -41,6 +41,7 @@ const algMap = {
     tree: 'Tree',
     trie: 'Trie',
     twopointer: 'Two Pointer',
+    fail: 'Fail',
 };
 
 const result = {
