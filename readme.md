@@ -36,10 +36,10 @@
 |level0|0|
 |level1|5|
 |level2|18|
-|level3|21|
+|level3|22|
 |level4|1|
 |level5|0|
-| **sum** | **45**|
+| **sum** | **46**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
