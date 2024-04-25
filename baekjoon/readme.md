@@ -88,7 +88,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/3425">3425</a> | 고스택 | <a href="./datastructure/Gostack.java">Gostack.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/4358">4358</a> | 생태학 | <a href="./trie/Ecology.java">Ecology.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/5397">5397</a> | 키로거 | <a href="./datastructure/KeyLogger.java">KeyLogger.java</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/5639">5639</a> | 이진 검색 트리 | <a href="./datastructure/BinarySearchTree.java">BinarySearchTree.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/5639">5639</a> | 이진 검색 트리 | <a href="./datastructure/BinarySearchTree.java">BinarySearchTree.java</a> |
 |    <img src="https://static.solved.ac/tier_small/0.svg" width="20"></img>    | <a href="http://boj.kr/6416">6416</a> | 트리인가? | <a href="./datastructure/IsTree.java">IsTree.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/7662">7662</a> | 이중 우선순위 큐 | <a href="./datastructure/DoublePriorityQueue.java">DoublePriorityQueue.java</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/10828">10828</a> | 스택 | <a href="./datastructure/Stack10828.java">Stack10828.java</a> |
@@ -153,7 +153,7 @@
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1003">1003</a> | 피보나치 함수 | <a href="./dp/FibonacciFunction.java">FibonacciFunction.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1102">1102</a> | 발전소 | <a href="./dp/PowerPlant.java">PowerPlant.java</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1106">1106</a> | 호텔 | <a href="./dp/Hotel.java">Hotel.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1106">1106</a> | 호텔 | <a href="./dp/Hotel.java">Hotel.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1149">1149</a> | RGB거리 | <a href="./dp/RGBDistance.java">RGBDistance.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1351">1351</a> | 무한 수열 | <a href="./dp/InfiniteSequence.java">InfiniteSequence.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1535">1535</a> | 안녕 | <a href="./dp/Hello.java">Hello.java</a> |
@@ -311,7 +311,7 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15644">15644</a> | 구슬 탈출 3 | <a href="./implementation/BeadEscape3.java">BeadEscape3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15653">15653</a> | 구슬 탈출 4 | <a href="./implementation/BeadEscape4.java">BeadEscape4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/15683">15683</a> | 감시 | <a href="./implementation/Watch.java">Watch.java</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/16926">16926</a> | 배열 돌리기 1 | <a href="./implementation/RotateArray1.java">RotateArray1.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16926">16926</a> | 배열 돌리기 1 | <a href="./implementation/RotateArray1.java">RotateArray1.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16927">16927</a> | 배열 돌리기 2 | <a href="./implementation/RotateArray2.java">RotateArray2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16935">16935</a> | 배열 돌리기 3 | <a href="./implementation/RotateArray3.java">RotateArray3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17136">17136</a> | 색종이 붙이기 | <a href="./implementation/GlueConfetti.java">GlueConfetti.java</a> |
@@ -434,7 +434,7 @@
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/3392">3392</a> | 화성 지도 | <a href="./segmenttree/MarsMap.java">MarsMap.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/3653">3653</a> | 영화 수집 | <a href="./segmenttree/MovieCollection.java">MovieCollection.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/5012">5012</a> | 불만 정렬 | <a href="./segmenttree/BulmanSort.java">BulmanSort.java</a> |
-|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/5419">5419</a> | 북서풍 | <a href="./segmenttree/NorthwesterlyWind.java">NorthwesterlyWind.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/5419">5419</a> | 북서풍 | <a href="./segmenttree/NorthwesterlyWind.java">NorthwesterlyWind.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/5676">5676</a> | 음주 코딩 | <a href="./segmenttree/DrinkingCoding.java">DrinkingCoding.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/6549">6549</a> | 히스토그램에서 가장 큰 직사각형 | <a href="./segmenttree/LargestRectangleInHistogram.java">LargestRectangleInHistogram.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/7469">7469</a> | K번째 수 | <a href="./segmenttree/KthNumber_Fail.java">KthNumber_Fail.java</a> |
@@ -502,7 +502,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2056">2056</a> | 작업 | <a href="./topologysort/Work.java">Work.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2252">2252</a> | 줄 세우기 | <a href="./topologysort/LineUp.java">LineUp.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2623">2623</a> | 음악프로그램 | <a href="./topologysort/MusicProgram.java">MusicProgram.java</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/10423">10423</a> | 전기가 부족해 | <a href="./topologysort/ElectricityShortage.java">ElectricityShortage.java</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/10423">10423</a> | 전기가 부족해 | <a href="./topologysort/ElectricityShortage.java">ElectricityShortage.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14567">14567</a> | 선수과목 (Prerequisite) | <a href="./topologysort/Prerequisite.java">Prerequisite.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/20119">20119</a> | 클레어와 물약 | <a href="./topologysort/ClareAndPotion.java">ClareAndPotion.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/23743">23743</a> | 방탈출 | <a href="./topologysort/RoomEscape.java">RoomEscape.java</a> |
