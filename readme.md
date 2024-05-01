@@ -20,7 +20,7 @@
 |LCA(Lowest Common Ancestor)|13|
 |Math|12|
 |MST(Minimum Spanning Tree)|9|
-|Prefix Sum|8|
+|Prefix Sum|9|
 |Segment Tree|62|
 |Sorting|1|
 |String|3|
@@ -28,7 +28,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|7|
-| **sum** | **388**|
+| **sum** | **389**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

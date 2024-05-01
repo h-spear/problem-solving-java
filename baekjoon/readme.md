@@ -405,6 +405,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/11000">11000</a> | 강의실 배정 | <a href="./prefixsum/ClassroomAssignment.java">ClassroomAssignment.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/11659">11659</a> | 구간 합 구하기 4 | <a href="./prefixsum/PrefixSum4.java">PrefixSum4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/11660">11660</a> | 구간 합 구하기 5 | <a href="./prefixsum/PrefixSum5.java">PrefixSum5.java</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/21921">21921</a> | 블로그 | <a href="./prefixsum/Blog.java">Blog.java</a> |
 
 ---
 
