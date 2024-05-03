@@ -541,4 +541,5 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2559">2559</a> | 수열 | <a href="./twopointer/Sequence.java">Sequence.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/2842">2842</a> | 집배원 한상덕 | <a href="./twopointer/PostmanHansangdeok.java">PostmanHansangdeok.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/7453">7453</a> | 합이 0인 네 정수 | <a href="./twopointer/FourIntegersSumZero.java">FourIntegersSumZero.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/13144">13144</a> | List of Unique Numbers | <a href="./twopointer/ListOfUniqueNumbers.java">ListOfUniqueNumbers.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/15961">15961</a> | 회전 초밥 | <a href="./twopointer/RotatingSushi.java">RotatingSushi.java</a> |
