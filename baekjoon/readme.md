@@ -22,7 +22,7 @@
 ### Bellman Ford
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/3860">3860</a> | 할로윈 묘지 | <a href="./bellmanford/HalloweenCemetery.java">HalloweenCemetery.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/3860">3860</a> | 할로윈 묘지 | <a href="./bellmanford/HalloweenCemetery.java">HalloweenCemetery.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11657">11657</a> | 타임머신 | <a href="./bellmanford/TimeMachine.java">TimeMachine.java</a> |
 
 ---
@@ -328,6 +328,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/23289">23289</a> | 온풍기 안녕! | <a href="./implementation/FanHeaterHello.java">FanHeaterHello.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/23290">23290</a> | 마법사 상어와 복제 | <a href="./implementation/WizardSharkAndClone.java">WizardSharkAndClone.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/25598">25598</a> | Alive or Dead? | <a href="./implementation/AliveOrDead.java">AliveOrDead.java</a> |
+|    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/31797">31797</a> | 아~파트 아파트 | <a href="./implementation/Apartment.java">Apartment.java</a> |
 
 ---
 
@@ -350,7 +351,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/3176">3176</a> | 도로 네트워크 | <a href="./lca/RoadNetwork.java">RoadNetwork.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/3584">3584</a> | 가장 가까운 공통 조상 | <a href="./lca/LowestCommonAncestor.java">LowestCommonAncestor.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/8012">8012</a> | 한동이는 영업사원! | <a href="./lca/HandongIsSalesperson.java">HandongIsSalesperson.java</a> |
-|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/10838">10838</a> | 트리 | <a href="./lca/Tree.java">Tree.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/10838">10838</a> | 트리 | <a href="./lca/Tree.java">Tree.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11437">11437</a> | LCA | <a href="./lca/LCA.java">LCA.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/11438">11438</a> | LCA 2 | <a href="./lca/LCA2.java">LCA2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/12746">12746</a> | Traffic (Large) | <a href="./lca/TrafficLarge.java">TrafficLarge.java</a> |
