@@ -491,6 +491,7 @@
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/1294">1294</a> | 문자열 장식 | <a href="./string/StringDecoration.java">StringDecoration.java</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2607">2607</a> | 비슷한 단어 | <a href="./string/SimilarWord.java">SimilarWord.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9177">9177</a> | 단어 섞기 | <a href="./string/ShuffleWord.java">ShuffleWord.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9935">9935</a> | 문자열 폭발 | <a href="./string/StringExplosion.java">StringExplosion.java</a> |
 

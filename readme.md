@@ -23,12 +23,12 @@
 |Prefix Sum|9|
 |Segment Tree|62|
 |Sorting|1|
-|String|3|
+|String|4|
 |Topology Sort|11|
 |Tree|6|
 |Trie|4|
 |Two Pointer|8|
-| **sum** | **393**|
+| **sum** | **394**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
