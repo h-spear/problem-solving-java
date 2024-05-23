@@ -133,6 +133,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1717">1717</a> | 집합의 표현 | <a href="./disjointset/RepresentationOfSet.java">RepresentationOfSet.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1976">1976</a> | 여행 가자 | <a href="./disjointset/GoTravel.java">GoTravel.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/4195">4195</a> | 친구 네트워크 | <a href="./disjointset/FriendNetwork.java">FriendNetwork.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/13306">13306</a> | 트리 | <a href="./disjointset/Tree.java">Tree.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/20040">20040</a> | 사이클 게임 | <a href="./disjointset/CycleGame.java">CycleGame.java</a> |
 
 ---
@@ -311,7 +312,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14503">14503</a> | 로봇 청소기 | <a href="./implementation/RoboticVacuum.java">RoboticVacuum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15644">15644</a> | 구슬 탈출 3 | <a href="./implementation/BeadEscape3.java">BeadEscape3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15653">15653</a> | 구슬 탈출 4 | <a href="./implementation/BeadEscape4.java">BeadEscape4.java</a> |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/15683">15683</a> | 감시 | <a href="./implementation/Watch.java">Watch.java</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/15683">15683</a> | 감시 | <a href="./implementation/Watch.java">Watch.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16926">16926</a> | 배열 돌리기 1 | <a href="./implementation/RotateArray1.java">RotateArray1.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16927">16927</a> | 배열 돌리기 2 | <a href="./implementation/RotateArray2.java">RotateArray2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16935">16935</a> | 배열 돌리기 3 | <a href="./implementation/RotateArray3.java">RotateArray3.java</a> |

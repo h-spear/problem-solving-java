@@ -8,7 +8,7 @@
 |Combinatorics|2|
 |Data Structure|34|
 |Dijkstra|15|
-|Union Find|5|
+|Union Find|6|
 |Divide and Conquer|5|
 |Dynamic Programming|49|
 |Fail|1|
@@ -28,7 +28,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|8|
-| **sum** | **392**|
+| **sum** | **393**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
