@@ -1,7 +1,7 @@
 ## [BAEKJOON](./baekjoon/)
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|Back Tracking|12|
+|Back Tracking|13|
 |Bellman Ford|2|
 |Binary Search|10|
 |Bruteforce|8|
@@ -28,7 +28,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|8|
-| **sum** | **395**|
+| **sum** | **396**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
