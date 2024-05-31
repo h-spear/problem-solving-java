@@ -13,7 +13,7 @@
 |Dynamic Programming|49|
 |Fail|1|
 |Floyd Warshall|5|
-|Graph Traversal|54|
+|Graph Traversal|55|
 |Greedy|12|
 |Implementation|35|
 |KMP|5|
@@ -28,15 +28,17 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|8|
-| **sum** | **396**|
+| **sum** | **397**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
 | :-------------: | :----: |
+|level0|0|
 |level1|5|
 |level2|19|
 |level3|22|
 |level4|1|
+|level5|0|
 | **sum** | **47**|
 
 ## [LeetCode](./leetcode/)
@@ -57,6 +59,7 @@
 ## [SW Expert Academy](./swea/)
 |    difficulty    | solved |
 | :-------------: | :----: |
+|difficulty1|0|
 |difficulty2|6|
 |difficulty3|7|
 |difficulty4|12|

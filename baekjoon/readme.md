@@ -142,7 +142,7 @@
 ### Divide and Conquer
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divideandconquer/Z.java">Z.java</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divideandconquer/Z.java">Z.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2447">2447</a> | 별 찍기 - 10 | <a href="./divideandconquer/StarPrint10.java">StarPrint10.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2630">2630</a> | 색종이 만들기 | <a href="./divideandconquer/MakingConfetti.java">MakingConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10830">10830</a> | 행렬 제곱 | <a href="./divideandconquer/MatrixSquared.java">MatrixSquared.java</a> |
@@ -252,6 +252,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/7576">7576</a> | 토마토 | <a href="./graphsearch/Tomato.java">Tomato.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9019">9019</a> | DSLR | <a href="./graphsearch/DSLR.java">DSLR.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/9328">9328</a> | 열쇠 | <a href="./graphsearch/Key.java">Key.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/9376">9376</a> | 탈옥 | <a href="./graphsearch/Jailbreak.java">Jailbreak.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/10026">10026</a> | 적록색약 | <a href="./graphsearch/RedGreenColourBlindness.java">RedGreenColourBlindness.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11724">11724</a> | 연결 요소의 개수 | <a href="./graphsearch/ConnectedComponent.java">ConnectedComponent.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/12851">12851</a> | 숨바꼭질 2 | <a href="./graphsearch/HideAndSeek2.java">HideAndSeek2.java</a> |
@@ -283,7 +284,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1541">1541</a> | 잃어버린 괄호 | <a href="./greedy/LostParenthesis.java">LostParenthesis.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1700">1700</a> | 멀티탭 스케줄링 | <a href="./greedy/MultitapScheduling.java">MultitapScheduling.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1946">1946</a> | 신입 사원 | <a href="./greedy/NewComer.java">NewComer.java</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2138">2138</a> | 전구와 스위치 | <a href="./greedy/BulbAndSwitch.java">BulbAndSwitch.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2138">2138</a> | 전구와 스위치 | <a href="./greedy/BulbAndSwitch.java">BulbAndSwitch.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11501">11501</a> | 주식 | <a href="./greedy/Stock.java">Stock.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/13975">13975</a> | 파일 합치기 3 | <a href="./greedy/MergeFiles3.java">MergeFiles3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15903">15903</a> | 카드 합체 놀이 | <a href="./greedy/CardCombinationGame.java">CardCombinationGame.java</a> |
