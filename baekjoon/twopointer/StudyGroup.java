@@ -25,33 +25,24 @@ public class StudyGroup {
             st = new StringTokenizer(br.readLine());
             int[] algorithm = new int[M];
             for (int j = 0; j < M; ++j) {
-                algorithm[j] = Integer.parseInt(st.nextToken());
+                algorithm[j] = Integer.parseInt(st.nextToken()) - 1;
             }
             students[i] = new Student(d, algorithm);
         }
-        Arrays.sort(students, (o1, o2) -> {
-            if (o1.skill != o2.skill)
-                return Integer.compare(o1.skill, o2.skill);
-            return Integer.compare(o1.algorithm.length, o2.algorithm.length);
-        });
+        Arrays.sort(students, Comparator.comparingInt(o -> o.skill));
 
         int answer = 0;
         int left = 0;
-        int[] counter = new int[K + 1];
+        int[] counter = new int[K];
         for (int right = 0; right < N; ++right) {
-            for (int x: students[right].algorithm) {
-                ++counter[x];
-            }
-
+            add(counter, students[right].algorithm);
             while ((students[right].skill - students[left].skill) > D) {
-                for (int x: students[left].algorithm) {
-                    --counter[x];
-                }
+                subtract(counter, students[left].algorithm);
                 ++left;
             }
             int members = right - left + 1;
-            int allAlgorithm = count(counter, 1);
-            int allKnows = count(counter, members);
+            int allAlgorithm = countGe(counter, 1);
+            int allKnows = countGe(counter, members);
             int efficiency = (allAlgorithm - allKnows) * members;
             answer = Math.max(answer, efficiency);
         }
@@ -59,7 +50,19 @@ public class StudyGroup {
         br.close();
     }
 
-    private static int count(int[] array, int value) {
+    private static void add(int[] target, int[] indices) {
+        for (int index: indices) {
+            ++target[index];
+        }
+    }
+
+    private static void subtract(int[] target, int[] indices) {
+        for (int index: indices) {
+            --target[index];
+        }
+    }
+
+    private static int countGe(int[] array, int value) {
         int count = 0;
         for (int x: array) {
             if (x >= value)
