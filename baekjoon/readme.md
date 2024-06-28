@@ -49,6 +49,7 @@
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1107">1107</a> | 리모컨 | <a href="./bruteforce/RemoteControl.java">RemoteControl.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1941">1941</a> | 소문난 칠공주 | <a href="./bruteforce/FamousSevenPrincesses.java">FamousSevenPrincesses.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9207">9207</a> | 페그 솔리테어 | <a href="./bruteforce/PegSolitaire.java">PegSolitaire.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14500">14500</a> | 테트로미노 | <a href="./bruteforce/Tetromino.java">Tetromino.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/16637">16637</a> | 괄호 추가하기 | <a href="./bruteforce/AddParentheses.java">AddParentheses.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/18111">18111</a> | 마인크래프트 | <a href="./bruteforce/Minecraft.java">Minecraft.java</a> |
@@ -147,6 +148,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2630">2630</a> | 색종이 만들기 | <a href="./divideandconquer/MakingConfetti.java">MakingConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10830">10830</a> | 행렬 제곱 | <a href="./divideandconquer/MatrixSquared.java">MatrixSquared.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/11444">11444</a> | 피보나치 수 6 | <a href="./divideandconquer/FibonacciNumber6.java">FibonacciNumber6.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15791">15791</a> | 세진이의 미팅 | <a href="./divideandconquer/SejinMeeting.java">SejinMeeting.java</a> |
 
 ---
 

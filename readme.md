@@ -4,12 +4,12 @@
 |Back Tracking|13|
 |Bellman Ford|2|
 |Binary Search|10|
-|Bruteforce|8|
+|Bruteforce|9|
 |Combinatorics|2|
 |Data Structure|34|
 |Dijkstra|15|
 |Union Find|6|
-|Divide and Conquer|5|
+|Divide and Conquer|6|
 |Dynamic Programming|50|
 |Fail|1|
 |Floyd Warshall|5|
@@ -28,7 +28,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **400**|
+| **sum** | **402**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
