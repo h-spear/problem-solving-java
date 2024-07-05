@@ -10,7 +10,7 @@
 |Dijkstra|15|
 |Union Find|6|
 |Divide and Conquer|6|
-|Dynamic Programming|50|
+|Dynamic Programming|52|
 |Fail|1|
 |Floyd Warshall|5|
 |Graph Traversal|55|
@@ -28,7 +28,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **402**|
+| **sum** | **404**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
