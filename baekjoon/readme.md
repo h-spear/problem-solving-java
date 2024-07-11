@@ -55,6 +55,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/18111">18111</a> | 마인크래프트 | <a href="./bruteforce/Minecraft.java">Minecraft.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/18429">18429</a> | 근손실 | <a href="./bruteforce/MuscleLoss.java">MuscleLoss.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20529">20529</a> | 가장 가까운 세 사람의 심리적 거리 | <a href="./bruteforce/PsychologicalDistanceBetweenThreeClosestPeople.java">PsychologicalDistanceBetweenThreeClosestPeople.java</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/24512">24512</a> | Bottleneck Travelling Salesman Problem (Small) | <a href="./bruteforce/BottleneckTravellingSalesmanProblem_Small.java">BottleneckTravellingSalesmanProblem_Small.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
 
 ---
@@ -193,7 +194,6 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11049">11049</a> | 행렬 곱셈 순서 | <a href="./dp/MatrixMultiplicationOrder.java">MatrixMultiplicationOrder.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11054">11054</a> | 가장 긴 바이토닉 부분 수열 | <a href="./dp/LongestBitonicSubsequence.java">LongestBitonicSubsequence.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11060">11060</a> | 점프 점프 | <a href="./dp/JumpJump.java">JumpJump.java</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11062">11062</a> | 카드 게임 | <a href="./dp/CardGame.java">CardGame.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11066">11066</a> | 파일 합치기 | <a href="./dp/MergeFiles.java">MergeFiles.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/12865">12865</a> | 평범한 배낭 | <a href="./dp/NormalKnapsack.java">NormalKnapsack.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12920">12920</a> | 평범한 배낭 2 | <a href="./dp/NormalKnapsack2.java">NormalKnapsack2.java</a> |
@@ -218,6 +218,15 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2458">2458</a> | 키 순서 | <a href="./floydwarshall/HeightOrder.java">HeightOrder.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/11403">11403</a> | 경로 찾기 | <a href="./floydwarshall/FindPath.java">FindPath.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11404">11404</a> | 플로이드 | <a href="./floydwarshall/Floyd.java">Floyd.java</a> |
+
+---
+
+### undefined
+|    Tier    | No | Problem | Code | 
+| :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11062">11062</a> | 카드 게임 | <a href="./game/CardGame.java">CardGame.java</a> |
+|    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/20004">20004</a> | 베스킨라빈스 31 | <a href="./game/BaskinRobbins31.java">BaskinRobbins31.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/30893">30893</a> | 트리 게임 | <a href="./game/TreeGame.java">TreeGame.java</a> |
 
 ---
 
