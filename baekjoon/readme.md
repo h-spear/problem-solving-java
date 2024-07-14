@@ -199,6 +199,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11060">11060</a> | 점프 점프 | <a href="./dp/JumpJump.java">JumpJump.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11066">11066</a> | 파일 합치기 | <a href="./dp/MergeFiles.java">MergeFiles.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/12865">12865</a> | 평범한 배낭 | <a href="./dp/NormalKnapsack.java">NormalKnapsack.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/12869">12869</a> | 뮤탈리스크 | <a href="./dp/Mutalisk.java">Mutalisk.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12920">12920</a> | 평범한 배낭 2 | <a href="./dp/NormalKnapsack2.java">NormalKnapsack2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/13398">13398</a> | 연속합 2 | <a href="./dp/ContinuousSum.java">ContinuousSum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14002">14002</a> | 가장 긴 증가하는 부분 수열 4 | <a href="./dp/LongestIncreasingSubsequence4.java">LongestIncreasingSubsequence4.java</a> |
@@ -206,6 +207,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14728">14728</a> | 벼락치기 | <a href="./dp/Cramming.java">Cramming.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/16493">16493</a> | 최대 페이지 수 | <a href="./dp/MaxPageNumber.java">MaxPageNumber.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/16991">16991</a> | 외판원 순회 3 | <a href="./dp/TravelingSalesmanProblem3.java">TravelingSalesmanProblem3.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17069">17069</a> | 파이프 옮기기 2 | <a href="./dp/MovePipe.java">MovePipe.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/17845">17845</a> | 수강 과목 | <a href="./dp/Course.java">Course.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/18427">18427</a> | 함께 블록 쌓기 | <a href="./dp/StackingBlocksTogether.java">StackingBlocksTogether.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20303">20303</a> | 할로윈의 양아치 | <a href="./dp/HalloweenBully.java">HalloweenBully.java</a> |

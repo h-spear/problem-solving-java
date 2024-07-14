@@ -7,56 +7,42 @@ import java.util.*;
 
 public class MergeFiles {
 
-	private static final int[] cost = new int[500];
-	private static final int[] prefixSum = new int[501];
-	private static final int[][] cache = new int[500][500];
+	private static final int[][] cache = new int[502][502];
+	private static final int[] prefixSum = new int[502];
 
 	public static void main(String[] args) throws Exception {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st;
+	    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	    StringTokenizer st;
 
 		int T = Integer.parseInt(br.readLine());
 		StringBuilder sb = new StringBuilder();
-
 		while (T-- > 0) {
-			int k = Integer.parseInt(br.readLine());
+			int K = Integer.parseInt(br.readLine());
 			st = new StringTokenizer(br.readLine());
-
-			// init
-			Arrays.fill(prefixSum, 0, k, 0);
-			for (int i = 0; i < k; ++i) {
-				Arrays.fill(cache[i], 0, k, -1);
+			prefixSum[0] = 0;
+			for (int i = 1; i <= K; ++i) {
+				prefixSum[i] = prefixSum[i - 1] + Integer.parseInt(st.nextToken());
 			}
+			sb.append(dfs(1, K)).append("\n");
 
-			// cost
-			for (int i = 0; i < k; ++i) {
-				cost[i] = Integer.parseInt(st.nextToken());
+			for (int i = 0; i <= K; ++i) {
+				Arrays.fill(cache[i], 0, K + 1, 0);
 			}
-
-			// prefix sum
-			for (int i = 1; i <= k; ++i) {
-				prefixSum[i] = prefixSum[i - 1] + cost[i - 1];
-			}
-
-			// answer
-			sb.append(dp(0, k - 1) - prefixSum[k]).append("\n");
 		}
 		System.out.println(sb.toString());
-		br.close();
+	    br.close();
 	}
 
-	private static int dp(int s, int e) {
-		if (s == e)
-			return cost[s];
-		if (cache[s][e] != -1)
+	private static int dfs(int s, int e) {
+		if (s >= e)
+			return 0;
+		if (cache[s][e] != 0)
 			return cache[s][e];
 
-		int sum = prefixSum[e + 1] - prefixSum[s];
-
-		cache[s][e] = Integer.MAX_VALUE;
+		int temp = Integer.MAX_VALUE;
 		for (int i = s; i < e; ++i) {
-			cache[s][e] = Math.min(cache[s][e], dp(s, i) + dp(i + 1, e) + sum);
+			temp = Math.min(temp, dfs(s, i) + dfs(i + 1, e) + prefixSum[e] - prefixSum[s - 1]);
 		}
-		return cache[s][e];
+		return cache[s][e] = temp;
 	}
 }
