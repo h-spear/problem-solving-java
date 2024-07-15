@@ -10,11 +10,11 @@
 |Dijkstra|15|
 |Union Find|6|
 |Divide and Conquer|6|
-|Dynamic Programming|57|
+|Dynamic Programming|58|
 |Fail|1|
 |Floyd Warshall|5|
 |undefined|3|
-|Graph Traversal|55|
+|Graph Traversal|57|
 |Greedy|12|
 |Implementation|35|
 |KMP|5|
@@ -29,7 +29,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **413**|
+| **sum** | **416**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

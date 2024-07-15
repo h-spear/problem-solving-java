@@ -192,6 +192,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/9251">9251</a> | LCS | <a href="./dp/LCS.java">LCS.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9252">9252</a> | LCS 2 | <a href="./dp/LCS2.java">LCS2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/10714">10714</a> | 케이크 자르기 2 | <a href="./dp/CakeCutting2.java">CakeCutting2.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/10835">10835</a> | 카드게임 | <a href="./dp/CardGame.java">CardGame.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10942">10942</a> | 팰린드롬? | <a href="./dp/Palindrome.java">Palindrome.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11048">11048</a> | 이동하기 | <a href="./dp/Moving.java">Moving.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11049">11049</a> | 행렬 곱셈 순서 | <a href="./dp/MatrixMultiplicationOrder.java">MatrixMultiplicationOrder.java</a> |
@@ -247,6 +248,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1260">1260</a> | DFS와 BFS | <a href="./graphsearch/DfsAndBfs.java">DfsAndBfs.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1520">1520</a> | 내리막 길 | <a href="./graphsearch/Downhill.java">Downhill.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1525">1525</a> | 퍼즐 | <a href="./graphsearch/Puzzle.java">Puzzle.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1584">1584</a> | 게임 | <a href="./graphsearch/Game_1584.java">Game_1584.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1697">1697</a> | 숨바꼭질 | <a href="./graphsearch/HideAndSeek.java">HideAndSeek.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1707">1707</a> | 이분 그래프 | <a href="./graphsearch/BipartiteGraph.java">BipartiteGraph.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1743">1743</a> | 음식물 피하기 | <a href="./graphsearch/AvoidFood.java">AvoidFood.java</a> |
@@ -281,6 +283,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14226">14226</a> | 이모티콘 | <a href="./graphsearch/Emoticon.java">Emoticon.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14442">14442</a> | 벽 부수고 이동하기 2 | <a href="./graphsearch/BreakTheWallAndMove2.java">BreakTheWallAndMove2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/14496">14496</a> | 그대, 그머가 되어 | <a href="./graphsearch/GeudaeToGeumeo.java">GeudaeToGeumeo.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14497">14497</a> | 주난의 난(難) | <a href="./graphsearch/JunanDifficult.java">JunanDifficult.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14502">14502</a> | 연구소 | <a href="./graphsearch/Laboratory.java">Laboratory.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14940">14940</a> | 쉬운 최단거리 | <a href="./graphsearch/EasyShortestPath.java">EasyShortestPath.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/15686">15686</a> | 치킨 배달 | <a href="./graphsearch/ChickenDelivery.java">ChickenDelivery.java</a> |
