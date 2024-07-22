@@ -336,6 +336,7 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/13460">13460</a> | 구슬 탈출 2 | <a href="./implementation/BeadEscape2DfsCheckVisit.java">BeadEscape2DfsCheckVisit.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14499">14499</a> | 주사위 굴리기 | <a href="./implementation/DiceRoll.java">DiceRoll.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14503">14503</a> | 로봇 청소기 | <a href="./implementation/RoboticVacuum.java">RoboticVacuum.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14891">14891</a> | 톱니바퀴 | <a href="./implementation/Gear.java">Gear.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15644">15644</a> | 구슬 탈출 3 | <a href="./implementation/BeadEscape3.java">BeadEscape3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15653">15653</a> | 구슬 탈출 4 | <a href="./implementation/BeadEscape4.java">BeadEscape4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/15683">15683</a> | 감시 | <a href="./implementation/Watch.java">Watch.java</a> |
