@@ -7,131 +7,103 @@ import java.util.*;
 
 public class StarFallingFromTheSky {
 
-    private static int N, S, H;
-    private static int[] arr;
-    private static long[] tree;
-    private static long[] propagate;
-    private static int[] counter;
+	private static int S;
+	private static long[] tree;
+	private static long[] lazy;
+	private static int[] counter;
 
-    private void solution() throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        StringTokenizer st;
+	public static void main(String[] args) throws Exception {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st;
 
-        N = Integer.parseInt(br.readLine());
+		int N = Integer.parseInt(br.readLine());
+		int[] A = new int[N];
+		st = new StringTokenizer(br.readLine());
+		for (int i = 0; i < N; ++i) {
+			A[i] = Integer.parseInt(st.nextToken());
+		}
+		S = 1;
+		while (S < N)
+			S <<= 1;
+		tree = new long[S << 1];
+		lazy = new long[S << 1];
+		counter = new int[S << 1];
 
-        arr = new int[N];
-        st = new StringTokenizer(br.readLine());
-        for (int i = 0; i < N; ++i) {
-            arr[i] = Integer.parseInt(st.nextToken());
-        }
+		for (int i = 0; i < N; ++i)
+			tree[S + i] = A[i];
+		for (int i = S - 1; i > 0; --i)
+			tree[i] = tree[i << 1] + tree[(i << 1) | 1];
 
-        S = 1;
-        H = 1;
-        while (S < N) {
-            S <<= 1;
-            ++H;
-        }
+		int Q = Integer.parseInt(br.readLine());
+		StringBuilder sb = new StringBuilder();
+		while (Q-- > 0) {
+			st = new StringTokenizer(br.readLine());
+			int C = Integer.parseInt(st.nextToken());
+			if (C == 1) {
+				int L = Integer.parseInt(st.nextToken()) - 1;
+				int R = Integer.parseInt(st.nextToken()) - 1;
+				update(1, 0, S - 1, L, R);
+			} else {
+				int X = Integer.parseInt(st.nextToken()) - 1;
+				sb.append(query(1, 0, S - 1, X)).append("\n");
+			}
 
-        tree = new long[S * 2];
-        propagate = new long[S * 2];
-        counter = new int[S * 2];
+			// for (int i = 0 ;i < N; ++i)
+			// 	query(1, 0, S - 1, i);
+			// System.out.println(Arrays.toString(tree));
+			// System.out.println(Arrays.toString(counter));
+			// System.out.println(Arrays.toString(lazy));
+			// System.out.println();
+		}
 
-        int Q, L, R, X, C;
+		System.out.println(sb.toString());
+		br.close();
+	}
 
-        initTrees();
+	private static void update(int node, int left, int right, int updateLeft, int updateRight) {
+		lazyPropagate(node, left, right);
+		if (updateRight < left || right < updateLeft)
+			return;
+		if (updateLeft <= left && right <= updateRight) {
+			counter[node] = 1;
+			lazy[node] = left - updateLeft;
+			lazyPropagate(node, left, right);
+		} else {
+			int mid = (left + right) >> 1;
+			update(node << 1, left, mid, updateLeft, updateRight);
+			update((node << 1) | 1, mid + 1, right, updateLeft, updateRight);
+			tree[node] = tree[node << 1] + tree[(node << 1) | 1];
+		}
+	}
 
-        Q = Integer.parseInt(br.readLine());
-        while (Q-- > 0) {
-            st = new StringTokenizer(br.readLine());
-            C = Integer.parseInt(st.nextToken());
-            if (C == 1) {
-                L = Integer.parseInt(st.nextToken()) - 1;
-                R = Integer.parseInt(st.nextToken()) - 1;
-                update(1, 0, S - 1, L, R, 1);
-            } else {
-                X = Integer.parseInt(st.nextToken()) - 1;
-                bw.write(query(1, 0, S - 1, X) + "\n");
-            }
-        }
+	private static long query(int node, int left, int right, int target) {
+		lazyPropagate(node, left, right);
+		if (target < left || right < target)
+			return 0;
+		if (target <= left && right <= target) {
+			return tree[node];
+		} else {
+			int mid = (left + right) >> 1;
+			return query(node << 1, left, mid, target)
+				+ query((node << 1) | 1, mid + 1, right, target);
+		}
+	}
 
-        bw.flush();
-        bw.close();
-        br.close();
-    }
+	private static void lazyPropagate(int node, int left, int right) {
+		if (counter[node] != 0) {
+			tree[node] += lazy[node] * (right - left + 1) + counter[node] * sum(right - left + 1);
+			if (node < S) {
+				lazy[node << 1] += lazy[node];
+				lazy[(node << 1) | 1] += lazy[node] + (long) counter[node] * (right - left + 1) / 2;
+				counter[node << 1] += counter[node];
+				counter[(node << 1) | 1] += counter[node];
+			}
+			lazy[node] = 0;
+			counter[node] = 0;
+		}
+	}
 
-    private long query(int node, int left, int right, int target) {
-        lazyPropagate(node, left, right);
-        if (target < left || right < target) {
-            return 0;
-        }
-        if (left == right) {
-            return tree[node];
-        }
-        int mid = (left + right) / 2;
-        return query(node * 2, left, mid, target) +
-                query(node * 2 + 1, mid + 1, right, target);
-    }
-
-    private void update(int node, int left, int right, int queryLeft, int queryRight, int value) {
-        lazyPropagate(node, left, right);
-        if (queryRight < left || right < queryLeft) {
-            return;
-        }
-        if (queryLeft <= left && right <= queryRight) {
-            counter[node] = 1;
-            propagate[node] = value;
-            lazyPropagate(node, left, right);
-        } else {
-            int mid = (left + right) / 2;
-            int leftCount = Math.max(Math.min(queryRight, mid) - Math.max(queryLeft, left) + 1, 0);
-            update(node * 2, left, mid, queryLeft, queryRight, value);
-            update(node * 2 + 1, mid + 1, right, queryLeft, queryRight, leftCount + value);
-            tree[node] = tree[node * 2] + tree[node * 2 + 1];
-        }
-    }
-
-    private void lazyPropagate(int node, int left, int right) {
-        if (propagate[node] != 0) {
-            tree[node] += getStars(propagate[node], right - left + 1);
-            if (left != right) {
-                propagate[node * 2] += propagate[node];
-                propagate[node * 2 + 1] += getLeafChildCount(node * 2) * counter[node] + propagate[node];
-                counter[node * 2] += counter[node];
-                counter[node * 2 + 1] += counter[node];
-            }
-            propagate[node] = 0;
-            counter[node] = 0;
-        }
-    }
-
-    private void initTrees() {
-        for (int i = 0; i < N; ++i) {
-            tree[S + i] = arr[i];
-        }
-        for (int i = S - 1; i > 0; --i) {
-            tree[i] = tree[i * 2] + tree[i * 2 + 1];
-        }
-    }
-
-    private long getStars(long left, int length) {
-        return left * length + (length * (length - 1)) / 2;
-    }
-
-    private int getLeafChildCount(int node) {
-        int h = getHeight(node);
-        return (int) Math.pow(2, h - 1);
-    }
-
-    private int getHeight(int node) {
-        int i = 0;
-        while (node >= (1 << i)) {
-            ++i;
-        }
-        return H - i + 1;
-    }
-
-    public static void main(String[] args) throws Exception {
-        new StarFallingFromTheSky().solution();
-    }
+	private static long sum(long num) {
+		return (num * (num + 1)) / 2;
+	}
 }
