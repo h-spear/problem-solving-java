@@ -492,6 +492,8 @@
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13925">13925</a> | 수열과 쿼리 13 | <a href="./segmenttree/SequenceAndQuery13.java">SequenceAndQuery13.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/14245">14245</a> | XOR | <a href="./segmenttree/XOR_14245.java">XOR_14245.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/14268">14268</a> | 회사 문화 2 | <a href="./segmenttree/CompanyCulture2.java">CompanyCulture2.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/14287">14287</a> | 회사 문화 3 | <a href="./segmenttree/CompanyCulture3.java">CompanyCulture3.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/14288">14288</a> | 회사 문화 4 | <a href="./segmenttree/CompanyCulture4.java">CompanyCulture4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14427">14427</a> | 수열과 쿼리 15 | <a href="./segmenttree/SequenceAndQuery15.java">SequenceAndQuery15.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/14428">14428</a> | 수열과 쿼리 16 | <a href="./segmenttree/SequenceAndQuery16.java">SequenceAndQuery16.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/14438">14438</a> | 수열과 쿼리 17 | <a href="./segmenttree/SequenceAndQuery17.java">SequenceAndQuery17.java</a> |
@@ -504,6 +506,7 @@
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/17353">17353</a> | 하늘에서 떨어지는 1, 2, ..., R-L+1개의 별 | <a href="./segmenttree/StarFallingFromTheSky.java">StarFallingFromTheSky.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/17408">17408</a> | 수열과 쿼리 24 | <a href="./segmenttree/SequenceAndQuery24.java">SequenceAndQuery24.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/18436">18436</a> | 수열과 쿼리 37 | <a href="./segmenttree/SequenceAndQuery37.java">SequenceAndQuery37.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/18437">18437</a> | 회사 문화 5 | <a href="./segmenttree/CompanyCulture5.java">CompanyCulture5.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/25639">25639</a> | 수열과 최대 상승 쿼리 | <a href="./segmenttree/SequenceAndMaximumRiseQuery.java">SequenceAndMaximumRiseQuery.java</a> |
 
 ---
