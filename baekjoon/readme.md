@@ -473,6 +473,7 @@
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/7469">7469</a> | K번째 수 | <a href="./segmenttree/KthNumber_Fail.java">KthNumber_Fail.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/7578">7578</a> | 공장 | <a href="./segmenttree/Factory.java">Factory.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/7626">7626</a> | 직사각형 | <a href="./segmenttree/Rectangle.java">Rectangle.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/8330">8330</a> | 순열 | <a href="./segmenttree/Permutation8330.java">Permutation8330.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/9345">9345</a> | 디지털 비디오 디스크(DVDs) | <a href="./segmenttree/DigitalVideoDisc.java">DigitalVideoDisc.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/9426">9426</a> | 중앙값 측정 | <a href="./segmenttree/MedianMeasure.java">MedianMeasure.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/10090">10090</a> | Counting Inversions | <a href="./segmenttree/CountingInversions.java">CountingInversions.java</a> |

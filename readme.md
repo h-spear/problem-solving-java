@@ -22,14 +22,14 @@
 |Math|12|
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
-|Segment Tree|65|
+|Segment Tree|66|
 |Sorting|1|
 |String|4|
 |Topology Sort|12|
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **421**|
+| **sum** | **422**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
