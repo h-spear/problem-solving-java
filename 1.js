@@ -41,6 +41,7 @@ const algMap = {
     tree: 'Tree',
     trie: 'Trie',
     twopointer: 'Two Pointer',
+    scc: 'Strongly Connected Component',
     fail: 'Fail',
 };
 

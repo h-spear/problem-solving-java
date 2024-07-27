@@ -22,6 +22,7 @@
 |Math|12|
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
+|Strongly Connected Component|1|
 |Segment Tree|66|
 |Sorting|1|
 |String|4|
@@ -29,7 +30,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **422**|
+| **sum** | **423**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

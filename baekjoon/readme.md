@@ -440,6 +440,13 @@
 
 ---
 
+### Strongly Connected Component
+|    Tier    | No | Problem | Code | 
+| :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2150">2150</a> | Strongly Connected Component | <a href="./scc/StronglyConnectedComponent.java">StronglyConnectedComponent.java</a> |
+
+---
+
 ### Segment Tree
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
