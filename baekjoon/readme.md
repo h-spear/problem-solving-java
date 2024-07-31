@@ -12,7 +12,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10819">10819</a> | 차이를 최대로 | <a href="./backtracking/DifferenceToMaximum.java">DifferenceToMaximum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10971">10971</a> | 외판원 순회 2 | <a href="./backtracking/TravelingSalesmanProblem2.java">TravelingSalesmanProblem2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12094">12094</a> | 2048 (Hard) | <a href="./backtracking/_2048_Hard.java">_2048_Hard.java</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/12100">12100</a> | 2048 (Easy) | <a href="./backtracking/_2048_Easy.java">_2048_Easy.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/12100">12100</a> | 2048 (Easy) | <a href="./backtracking/_2048_Easy.java">_2048_Easy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14712">14712</a> | 넴모넴모 (Easy) | <a href="./backtracking/NemmoNemmoEasy.java">NemmoNemmoEasy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14889">14889</a> | 스타트와 링크 | <a href="./backtracking/StartAndLink.java">StartAndLink.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/15661">15661</a> | 링크와 스타트 | <a href="./backtracking/LinkAndStart.java">LinkAndStart.java</a> |
@@ -444,6 +444,8 @@
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2150">2150</a> | Strongly Connected Component | <a href="./scc/StronglyConnectedComponent.java">StronglyConnectedComponent.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/3977">3977</a> | 축구 전술 | <a href="./scc/SoccerTactics.java">SoccerTactics.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/4013">4013</a> | ATM | <a href="./scc/ATM.java">ATM.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/4196">4196</a> | 도미노 | <a href="./scc/Domino.java">Domino.java</a> |
 
 ---
