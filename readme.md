@@ -13,7 +13,7 @@
 |Dynamic Programming|59|
 |Fail|1|
 |Floyd Warshall|5|
-|undefined|3|
+|Game|3|
 |Graph Traversal|57|
 |Greedy|12|
 |Implementation|36|

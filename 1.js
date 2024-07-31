@@ -42,6 +42,7 @@ const algMap = {
     trie: 'Trie',
     twopointer: 'Two Pointer',
     scc: 'Strongly Connected Component',
+    game: 'Game',
     fail: 'Fail',
 };
 

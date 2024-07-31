@@ -30,6 +30,7 @@ const algMap = {
     trie: 'Trie',
     twopointer: 'Two Pointer',
     scc: 'Strongly Connected Component',
+    game: 'Game',
     fail: 'Fail',
 };
 const bojLevelUrlPrefix = 'https://static.solved.ac/tier_small/';

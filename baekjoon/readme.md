@@ -229,7 +229,7 @@
 
 ---
 
-### undefined
+### Game
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11062">11062</a> | 카드 게임 | <a href="./game/CardGame.java">CardGame.java</a> |
