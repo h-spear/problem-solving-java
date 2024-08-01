@@ -50,18 +50,18 @@ public class ATM {
         start = sccId[start];
         int[] result = new int[countOfComponents];
         result[start] = sccCash[start];
-        Queue<Node> heap = new PriorityQueue<>((o1, o2) -> Integer.compare(o2.cost, o1.cost));
-        heap.add(new Node(start, sccCash[start]));
+        Queue<Integer> queue = new ArrayDeque<>();
+        queue.add(start);
 
-        while (!heap.isEmpty()) {
-            Node currNode = heap.poll();
+        while (!queue.isEmpty()) {
+            int now = queue.poll();
 
-            for (int nextNode: dag.get(currNode.index)) {
-                int cost = currNode.cost + sccCash[nextNode];
+            for (int nextNode: dag.get(now)) {
+                int cost = result[now] + sccCash[nextNode];
 
                 if (result[nextNode] < cost) {
                     result[nextNode] = cost;
-                    heap.add(new Node(nextNode, cost));
+                    queue.add(nextNode);
                 }
             }
         }
@@ -143,14 +143,5 @@ public class ATM {
             scc.add(component);
         }
         return parent;
-    }
-
-    private static class Node {
-        int index, cost;
-
-        Node(int index, int cost) {
-            this.index = index;
-            this.cost = cost;
-        }
     }
 }
