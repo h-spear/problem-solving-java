@@ -4,7 +4,7 @@
 |Back Tracking|13|
 |Bellman Ford|2|
 |Binary Search|10|
-|Bruteforce|10|
+|Bruteforce|12|
 |Combinatorics|2|
 |Data Structure|34|
 |Dijkstra|15|
@@ -22,7 +22,7 @@
 |Math|12|
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
-|Strongly Connected Component|6|
+|Strongly Connected Component|8|
 |Segment Tree|66|
 |Sorting|1|
 |String|4|
@@ -30,7 +30,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **428**|
+| **sum** | **432**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
