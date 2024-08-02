@@ -445,6 +445,7 @@
 ### Strongly Connected Component
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1471">1471</a> | 사탕 돌리기 | <a href="./scc/RotatingCandy.java">RotatingCandy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1506">1506</a> | 경찰서 | <a href="./scc/PoliceOffice.java">PoliceOffice.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2150">2150</a> | Strongly Connected Component | <a href="./scc/StronglyConnectedComponent.java">StronglyConnectedComponent.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/2152">2152</a> | 여행 계획 세우기 | <a href="./scc/PlanTrip.java">PlanTrip.java</a> |
@@ -458,6 +459,7 @@
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/11281">11281</a> | 2-SAT - 4 | <a href="./scc/TwoSatisfiabilityProblem4.java">TwoSatisfiabilityProblem4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/15783">15783</a> | 세진 바이러스 | <a href="./scc/SejinVirus.java">SejinVirus.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/26146">26146</a> | 즉흥 여행 (Easy) | <a href="./scc/ImpromptuTrip_Easy.java">ImpromptuTrip_Easy.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/26157">26157</a> | 즉흥 여행 (Hard) | <a href="./scc/ImpromptuTrip_Hard.java">ImpromptuTrip_Hard.java</a> |
 
 ---
 
