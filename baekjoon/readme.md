@@ -166,9 +166,9 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1535">1535</a> | 안녕 | <a href="./dp/Hello.java">Hello.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1562">1562</a> | 계단 수 | <a href="./dp/StairNumber.java">StairNumber.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1915">1915</a> | 가장 큰 정사각형 | <a href="./dp/LargestSquare.java">LargestSquare.java</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dp/IntegerTriangle.java">IntegerTriangle.java</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dp/IntegerTriangle.java">IntegerTriangle.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1937">1937</a> | 욕심쟁이 판다 | <a href="./dp/GreedyPanda.java">GreedyPanda.java</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1943">1943</a> | 동전 분배 | <a href="./dp/CoinDistribution.java">CoinDistribution.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1943">1943</a> | 동전 분배 | <a href="./dp/CoinDistribution.java">CoinDistribution.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2011">2011</a> | 암호코드 | <a href="./dp/CipherCode.java">CipherCode.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2096">2096</a> | 내려가기 | <a href="./dp/GoDown.java">GoDown.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/2098">2098</a> | 외판원 순회 | <a href="./dp/TravelingSalesmanProblem.java">TravelingSalesmanProblem.java</a> |
@@ -445,6 +445,7 @@
 ### Strongly Connected Component
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/1108">1108</a> | 검색 엔진 | <a href="./scc/SearchEngine.java">SearchEngine.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1471">1471</a> | 사탕 돌리기 | <a href="./scc/RotatingCandy.java">RotatingCandy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1506">1506</a> | 경찰서 | <a href="./scc/PoliceOffice.java">PoliceOffice.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2150">2150</a> | Strongly Connected Component | <a href="./scc/StronglyConnectedComponent.java">StronglyConnectedComponent.java</a> |
@@ -458,6 +459,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/6543">6543</a> | 그래프의 싱크 | <a href="./scc/GraphSink.java">GraphSink.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11280">11280</a> | 2-SAT - 3 | <a href="./scc/TwoSatisfiabilityProblem3.java">TwoSatisfiabilityProblem3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/11281">11281</a> | 2-SAT - 4 | <a href="./scc/TwoSatisfiabilityProblem4.java">TwoSatisfiabilityProblem4.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12880">12880</a> | 그래프 차이 최소 | <a href="./scc/GraphDifferenceMinimum.java">GraphDifferenceMinimum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/13232">13232</a> | Domain clusters | <a href="./scc/DomainClusters.java">DomainClusters.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/15783">15783</a> | 세진 바이러스 | <a href="./scc/SejinVirus.java">SejinVirus.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/18133">18133</a> | 가톨릭대학교에 워터 슬라이드를?? | <a href="./scc/WaterSlideInCatholicUniversity.java">WaterSlideInCatholicUniversity.java</a> |
