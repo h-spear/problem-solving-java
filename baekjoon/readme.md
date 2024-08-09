@@ -457,6 +457,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/4196">4196</a> | 도미노 | <a href="./scc/Domino.java">Domino.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/4305">4305</a> | 성격 진단 테스트 | <a href="./scc/PersonalityDiagnosticTest.java">PersonalityDiagnosticTest.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/6543">6543</a> | 그래프의 싱크 | <a href="./scc/GraphSink.java">GraphSink.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/10265">10265</a> | MT | <a href="./scc/MT.java">MT.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11280">11280</a> | 2-SAT - 3 | <a href="./scc/TwoSatisfiabilityProblem3.java">TwoSatisfiabilityProblem3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/11281">11281</a> | 2-SAT - 4 | <a href="./scc/TwoSatisfiabilityProblem4.java">TwoSatisfiabilityProblem4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12880">12880</a> | 그래프 차이 최소 | <a href="./scc/GraphDifferenceMinimum.java">GraphDifferenceMinimum.java</a> |
