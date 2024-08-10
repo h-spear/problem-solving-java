@@ -15,14 +15,14 @@
 |Floyd Warshall|5|
 |Game|3|
 |Graph Traversal|57|
-|Greedy|12|
-|Implementation|36|
+|Greedy|13|
+|Implementation|37|
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
-|Math|12|
+|Math|13|
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
-|Strongly Connected Component|22|
+|Strongly Connected Component|25|
 |Segment Tree|66|
 |Sorting|1|
 |String|4|
@@ -30,7 +30,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **446**|
+| **sum** | **452**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

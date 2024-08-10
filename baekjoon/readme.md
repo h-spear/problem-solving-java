@@ -318,6 +318,7 @@
 |    <img src="https://static.solved.ac/tier_small/21.svg" width="20"></img>    | <a href="http://boj.kr/18185">18185</a> | 라면 사기 (Small) | <a href="./greedy/BuyRamen.java">BuyRamen.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/20300">20300</a> | 서강근육맨 | <a href="./greedy/SogangMuscleMan.java">SogangMuscleMan.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/20413">20413</a> | MVP 다이아몬드 (Easy) | <a href="./greedy/MVPDiamond_Easy.java">MVPDiamond_Easy.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/30805">30805</a> | 사전 순 최대 공통 부분 수열 | <a href="./greedy/AlphabeticalLongestCommonSubsequence.java">AlphabeticalLongestCommonSubsequence.java</a> |
 
 ---
 
@@ -347,6 +348,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16935">16935</a> | 배열 돌리기 3 | <a href="./implementation/RotateArray3.java">RotateArray3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17136">17136</a> | 색종이 붙이기 | <a href="./implementation/GlueConfetti.java">GlueConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/17143">17143</a> | 낚시왕 | <a href="./implementation/FishKing.java">FishKing.java</a> |
+|    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/17269">17269</a> | 이름궁합 테스트 | <a href="./implementation/NameCompatibilityTest.java">NameCompatibilityTest.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17281">17281</a> | ⚾ | <a href="./implementation/Baseball.java">Baseball.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17406">17406</a> | 배열 돌리기 4 | <a href="./implementation/RotateArray4.java">RotateArray4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17780">17780</a> | 새로운 게임 | <a href="./implementation/NewGame.java">NewGame.java</a> |
@@ -396,6 +398,7 @@
 ### Math
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1016">1016</a> | 제곱 ㄴㄴ 수 | <a href="./math/SquareFreeNumber.java">SquareFreeNumber.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1644">1644</a> | 소수의 연속합 | <a href="./math/PrimeContinuousSum.java">PrimeContinuousSum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1735">1735</a> | 분수 합 | <a href="./math/SumOfFractions.java">SumOfFractions.java</a> |
 |    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/1837">1837</a> | 암호제작 | <a href="./math/PasswordCreation.java">PasswordCreation.java</a> |
@@ -457,6 +460,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/4196">4196</a> | 도미노 | <a href="./scc/Domino.java">Domino.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/4305">4305</a> | 성격 진단 테스트 | <a href="./scc/PersonalityDiagnosticTest.java">PersonalityDiagnosticTest.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/6543">6543</a> | 그래프의 싱크 | <a href="./scc/GraphSink.java">GraphSink.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/7042">7042</a> | Cow Ski Area | <a href="./scc/CowSkiArea.java">CowSkiArea.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/10265">10265</a> | MT | <a href="./scc/MT.java">MT.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11280">11280</a> | 2-SAT - 3 | <a href="./scc/TwoSatisfiabilityProblem3.java">TwoSatisfiabilityProblem3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/11281">11281</a> | 2-SAT - 4 | <a href="./scc/TwoSatisfiabilityProblem4.java">TwoSatisfiabilityProblem4.java</a> |
@@ -465,6 +469,8 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/15783">15783</a> | 세진 바이러스 | <a href="./scc/SejinVirus.java">SejinVirus.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/18133">18133</a> | 가톨릭대학교에 워터 슬라이드를?? | <a href="./scc/WaterSlideInCatholicUniversity.java">WaterSlideInCatholicUniversity.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/20504">20504</a> | I번은 쉬운 문제 | <a href="./scc/EasyProblemNumberI.java">EasyProblemNumberI.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/24131">24131</a> | 宣伝 (Advertisement) | <a href="./scc/Advertisement.java">Advertisement.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/25488">25488</a> | 토큰 | <a href="./scc/Token.java">Token.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/26146">26146</a> | 즉흥 여행 (Easy) | <a href="./scc/ImpromptuTrip_Easy.java">ImpromptuTrip_Easy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/26157">26157</a> | 즉흥 여행 (Hard) | <a href="./scc/ImpromptuTrip_Hard.java">ImpromptuTrip_Hard.java</a> |
 
