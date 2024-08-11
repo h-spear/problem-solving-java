@@ -459,6 +459,7 @@
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/4013">4013</a> | ATM | <a href="./scc/ATM.java">ATM.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/4196">4196</a> | 도미노 | <a href="./scc/Domino.java">Domino.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/4305">4305</a> | 성격 진단 테스트 | <a href="./scc/PersonalityDiagnosticTest.java">PersonalityDiagnosticTest.java</a> |
+|    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/6264">6264</a> | Sub-dictionary | <a href="./scc/SubDictionary.java">SubDictionary.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/6543">6543</a> | 그래프의 싱크 | <a href="./scc/GraphSink.java">GraphSink.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/7042">7042</a> | Cow Ski Area | <a href="./scc/CowSkiArea.java">CowSkiArea.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/10265">10265</a> | MT | <a href="./scc/MT.java">MT.java</a> |
@@ -473,6 +474,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/25488">25488</a> | 토큰 | <a href="./scc/Token.java">Token.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/26146">26146</a> | 즉흥 여행 (Easy) | <a href="./scc/ImpromptuTrip_Easy.java">ImpromptuTrip_Easy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/26157">26157</a> | 즉흥 여행 (Hard) | <a href="./scc/ImpromptuTrip_Hard.java">ImpromptuTrip_Hard.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/30879">30879</a> | 저녁 뭐 먹지? | <a href="./scc/WhatShouldIEatForDinner.java">WhatShouldIEatForDinner.java</a> |
 
 ---
 
