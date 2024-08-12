@@ -188,7 +188,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/4781">4781</a> | 사탕 가게 | <a href="./dp/CandyStore.java">CandyStore.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/4811">4811</a> | 알약 | <a href="./dp/Pill.java">Pill.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/5582">5582</a> | 공통 부분 문자열 | <a href="./dp/CommonSubstring.java">CommonSubstring.java</a> |
-|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/5626">5626</a> | 제단 | <a href="./dp/Altar.java">Altar.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/5626">5626</a> | 제단 | <a href="./dp/Altar.java">Altar.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/7579">7579</a> | 앱 | <a href="./dp/App.java">App.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/9084">9084</a> | 동전 | <a href="./dp/Coin.java">Coin.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/9251">9251</a> | LCS | <a href="./dp/LCS.java">LCS.java</a> |
@@ -454,6 +454,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2150">2150</a> | Strongly Connected Component | <a href="./scc/StronglyConnectedComponent.java">StronglyConnectedComponent.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/2152">2152</a> | 여행 계획 세우기 | <a href="./scc/PlanTrip.java">PlanTrip.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/2207">2207</a> | 가위바위보 | <a href="./scc/RockScissorPaper.java">RockScissorPaper.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/2416">2416</a> | 문 | <a href="./scc/Door.java">Door.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/3648">3648</a> | 아이돌 | <a href="./scc/Idol.java">Idol.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/3977">3977</a> | 축구 전술 | <a href="./scc/SoccerTactics.java">SoccerTactics.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/4013">4013</a> | ATM | <a href="./scc/ATM.java">ATM.java</a> |
@@ -468,6 +469,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12880">12880</a> | 그래프 차이 최소 | <a href="./scc/GraphDifferenceMinimum.java">GraphDifferenceMinimum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/13232">13232</a> | Domain clusters | <a href="./scc/DomainClusters.java">DomainClusters.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/15783">15783</a> | 세진 바이러스 | <a href="./scc/SejinVirus.java">SejinVirus.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/16915">16915</a> | 호텔 관리 | <a href="./scc/HotelManagement.java">HotelManagement.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/18133">18133</a> | 가톨릭대학교에 워터 슬라이드를?? | <a href="./scc/WaterSlideInCatholicUniversity.java">WaterSlideInCatholicUniversity.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/20504">20504</a> | I번은 쉬운 문제 | <a href="./scc/EasyProblemNumberI.java">EasyProblemNumberI.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/24131">24131</a> | 宣伝 (Advertisement) | <a href="./scc/Advertisement.java">Advertisement.java</a> |
