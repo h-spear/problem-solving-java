@@ -468,6 +468,7 @@
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/11281">11281</a> | 2-SAT - 4 | <a href="./scc/TwoSatisfiabilityProblem4.java">TwoSatisfiabilityProblem4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12880">12880</a> | 그래프 차이 최소 | <a href="./scc/GraphDifferenceMinimum.java">GraphDifferenceMinimum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/13232">13232</a> | Domain clusters | <a href="./scc/DomainClusters.java">DomainClusters.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/14249">14249</a> | 점프 점프 2 | <a href="./scc/JumpJump2.java">JumpJump2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/15783">15783</a> | 세진 바이러스 | <a href="./scc/SejinVirus.java">SejinVirus.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/16915">16915</a> | 호텔 관리 | <a href="./scc/HotelManagement.java">HotelManagement.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/18133">18133</a> | 가톨릭대학교에 워터 슬라이드를?? | <a href="./scc/WaterSlideInCatholicUniversity.java">WaterSlideInCatholicUniversity.java</a> |
