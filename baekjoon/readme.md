@@ -476,6 +476,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/25488">25488</a> | 토큰 | <a href="./scc/Token.java">Token.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/26146">26146</a> | 즉흥 여행 (Easy) | <a href="./scc/ImpromptuTrip_Easy.java">ImpromptuTrip_Easy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/26157">26157</a> | 즉흥 여행 (Hard) | <a href="./scc/ImpromptuTrip_Hard.java">ImpromptuTrip_Hard.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/27503">27503</a> | 요가 수업 | <a href="./scc/YogaClass.java">YogaClass.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/30879">30879</a> | 저녁 뭐 먹지? | <a href="./scc/WhatShouldIEatForDinner.java">WhatShouldIEatForDinner.java</a> |
 
 ---
