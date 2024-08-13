@@ -9,8 +9,8 @@
 |Data Structure|34|
 |Dijkstra|15|
 |Union Find|6|
-|Divide and Conquer|6|
-|Dynamic Programming|59|
+|Divide and Conquer|7|
+|Dynamic Programming|60|
 |Fail|1|
 |Floyd Warshall|5|
 |Game|3|
@@ -30,7 +30,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **458**|
+| **sum** | **460**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

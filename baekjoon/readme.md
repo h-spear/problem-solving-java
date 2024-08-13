@@ -151,6 +151,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2630">2630</a> | 색종이 만들기 | <a href="./divideandconquer/MakingConfetti.java">MakingConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10830">10830</a> | 행렬 제곱 | <a href="./divideandconquer/MatrixSquared.java">MatrixSquared.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/11444">11444</a> | 피보나치 수 6 | <a href="./divideandconquer/FibonacciNumber6.java">FibonacciNumber6.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/12850">12850</a> | 본대 산책2 | <a href="./divideandconquer/UniversityWalking2.java">UniversityWalking2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15791">15791</a> | 세진이의 미팅 | <a href="./divideandconquer/SejinMeeting.java">SejinMeeting.java</a> |
 
 ---
@@ -201,6 +202,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11054">11054</a> | 가장 긴 바이토닉 부분 수열 | <a href="./dp/LongestBitonicSubsequence.java">LongestBitonicSubsequence.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11060">11060</a> | 점프 점프 | <a href="./dp/JumpJump.java">JumpJump.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/11066">11066</a> | 파일 합치기 | <a href="./dp/MergeFiles.java">MergeFiles.java</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/12849">12849</a> | 본대 산책 | <a href="./dp/UniversityWalking.java">UniversityWalking.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/12865">12865</a> | 평범한 배낭 | <a href="./dp/NormalKnapsack.java">NormalKnapsack.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/12869">12869</a> | 뮤탈리스크 | <a href="./dp/Mutalisk.java">Mutalisk.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12920">12920</a> | 평범한 배낭 2 | <a href="./dp/NormalKnapsack2.java">NormalKnapsack2.java</a> |
