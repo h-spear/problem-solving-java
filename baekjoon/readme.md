@@ -129,6 +129,7 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/16118">16118</a> | 달빛 여우 | <a href="./dijkstra/MoonlightFox.java">MoonlightFox.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/17270">17270</a> | 연예인은 힘들어 | <a href="./dijkstra/CelebritiesAreHard.java">CelebritiesAreHard.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/18352">18352</a> | 특정 거리의 도시 찾기 | <a href="./dijkstra/FindCityOfSpecificDistance.java">FindCityOfSpecificDistance.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/28707">28707</a> | 배열 정렬 | <a href="./dijkstra/ArraySort.java">ArraySort.java</a> |
 
 ---
 
@@ -165,6 +166,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1106">1106</a> | 호텔 | <a href="./dp/Hotel.java">Hotel.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1149">1149</a> | RGB거리 | <a href="./dp/RGBDistance.java">RGBDistance.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1351">1351</a> | 무한 수열 | <a href="./dp/InfiniteSequence.java">InfiniteSequence.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1509">1509</a> | 팰린드롬 분할 | <a href="./dp/PalindromeDivision.java">PalindromeDivision.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1535">1535</a> | 안녕 | <a href="./dp/Hello.java">Hello.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1562">1562</a> | 계단 수 | <a href="./dp/StairNumber.java">StairNumber.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1915">1915</a> | 가장 큰 정사각형 | <a href="./dp/LargestSquare.java">LargestSquare.java</a> |
@@ -411,6 +413,7 @@
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2839">2839</a> | 설탕 배달 | <a href="./math/SugarDelivery.java">SugarDelivery.java</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2960">2960</a> | 에라토스테네스의 체 | <a href="./math/SieveOfEratosthenes.java">SieveOfEratosthenes.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/6588">6588</a> | 골드바흐의 추측 | <a href="./math/GoldbachConjecture.java">GoldbachConjecture.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/9527">9527</a> | 1의 개수 세기 | <a href="./math/CountOne.java">CountOne.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/10972">10972</a> | 다음 순열 | <a href="./math/NextPermutation.java">NextPermutation.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/10973">10973</a> | 이전 순열 | <a href="./math/PrevPermutation.java">PrevPermutation.java</a> |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/11653">11653</a> | 소인수분해 | <a href="./math/PrimeFactorization.java">PrimeFactorization.java</a> |
@@ -468,6 +471,7 @@
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/6264">6264</a> | Sub-dictionary | <a href="./scc/SubDictionary.java">SubDictionary.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/6543">6543</a> | 그래프의 싱크 | <a href="./scc/GraphSink.java">GraphSink.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/7042">7042</a> | Cow Ski Area | <a href="./scc/CowSkiArea.java">CowSkiArea.java</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/9466">9466</a> | 텀 프로젝트 | <a href="./scc/TermProject.java">TermProject.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/10265">10265</a> | MT | <a href="./scc/MT.java">MT.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11280">11280</a> | 2-SAT - 3 | <a href="./scc/TwoSatisfiabilityProblem3.java">TwoSatisfiabilityProblem3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/11281">11281</a> | 2-SAT - 4 | <a href="./scc/TwoSatisfiabilityProblem4.java">TwoSatisfiabilityProblem4.java</a> |

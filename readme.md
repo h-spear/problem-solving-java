@@ -7,10 +7,10 @@
 |Bruteforce|13|
 |Combinatorics|2|
 |Data Structure|34|
-|Dijkstra|15|
+|Dijkstra|16|
 |Union Find|6|
 |Divide and Conquer|7|
-|Dynamic Programming|60|
+|Dynamic Programming|61|
 |Fail|1|
 |Floyd Warshall|5|
 |Game|3|
@@ -19,10 +19,10 @@
 |Implementation|37|
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
-|Math|13|
+|Math|14|
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
-|Strongly Connected Component|32|
+|Strongly Connected Component|33|
 |Segment Tree|66|
 |Sorting|1|
 |String|4|
@@ -30,15 +30,17 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **463**|
+| **sum** | **467**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
 | :-------------: | :----: |
+|level0|0|
 |level1|5|
 |level2|19|
 |level3|22|
 |level4|1|
+|level5|0|
 | **sum** | **47**|
 
 ## [LeetCode](./leetcode/)
@@ -59,6 +61,7 @@
 ## [SW Expert Academy](./swea/)
 |    difficulty    | solved |
 | :-------------: | :----: |
+|difficulty1|0|
 |difficulty2|6|
 |difficulty3|7|
 |difficulty4|12|
