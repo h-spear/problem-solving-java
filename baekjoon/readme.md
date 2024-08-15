@@ -59,6 +59,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20529">20529</a> | 가장 가까운 세 사람의 심리적 거리 | <a href="./bruteforce/PsychologicalDistanceBetweenThreeClosestPeople.java">PsychologicalDistanceBetweenThreeClosestPeople.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/24512">24512</a> | Bottleneck Travelling Salesman Problem (Small) | <a href="./bruteforce/BottleneckTravellingSalesmanProblem_Small.java">BottleneckTravellingSalesmanProblem_Small.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
 
 ---
 
@@ -146,7 +147,7 @@
 ### Divide and Conquer
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divideandconquer/Z.java">Z.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divideandconquer/Z.java">Z.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2447">2447</a> | 별 찍기 - 10 | <a href="./divideandconquer/StarPrint10.java">StarPrint10.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2630">2630</a> | 색종이 만들기 | <a href="./divideandconquer/MakingConfetti.java">MakingConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10830">10830</a> | 행렬 제곱 | <a href="./divideandconquer/MatrixSquared.java">MatrixSquared.java</a> |
@@ -294,6 +295,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/15686">15686</a> | 치킨 배달 | <a href="./graphsearch/ChickenDelivery.java">ChickenDelivery.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/16197">16197</a> | 두 동전 | <a href="./graphsearch/TwoCoins.java">TwoCoins.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/16236">16236</a> | 아기 상어 | <a href="./graphsearch/BabyShark.java">BabyShark.java</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/16724">16724</a> | 피리 부는 사나이 | <a href="./graphsearch/PiedPiper.java">PiedPiper.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/16933">16933</a> | 벽 부수고 이동하기 3 | <a href="./graphsearch/BreakTheWallAndMove3.java">BreakTheWallAndMove3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/16946">16946</a> | 벽 부수고 이동하기 4 | <a href="./graphsearch/BreakTheWallAndMove4.java">BreakTheWallAndMove4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/16953">16953</a> | A → B | <a href="./graphsearch/AtoB.java">AtoB.java</a> |
