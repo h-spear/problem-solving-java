@@ -15,7 +15,7 @@
 |Floyd Warshall|5|
 |Game|3|
 |Graph Traversal|58|
-|Greedy|15|
+|Greedy|18|
 |Implementation|37|
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
@@ -30,7 +30,7 @@
 |Tree|6|
 |Trie|4|
 |Two Pointer|9|
-| **sum** | **470**|
+| **sum** | **473**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

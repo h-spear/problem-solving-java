@@ -314,11 +314,14 @@
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1082">1082</a> | 방 번호 | <a href="./greedy/RoomNumber.java">RoomNumber.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1092">1092</a> | 배 | <a href="./greedy/Ship.java">Ship.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1339">1339</a> | 단어 수학 | <a href="./greedy/WordMath.java">WordMath.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1541">1541</a> | 잃어버린 괄호 | <a href="./greedy/LostParenthesis.java">LostParenthesis.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1700">1700</a> | 멀티탭 스케줄링 | <a href="./greedy/MultitapScheduling.java">MultitapScheduling.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1946">1946</a> | 신입 사원 | <a href="./greedy/NewComer.java">NewComer.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2138">2138</a> | 전구와 스위치 | <a href="./greedy/BulbAndSwitch.java">BulbAndSwitch.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2212">2212</a> | 센서 | <a href="./greedy/Sensor.java">Sensor.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/2437">2437</a> | 저울 | <a href="./greedy/Scale.java">Scale.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/3687">3687</a> | 성냥개비 | <a href="./greedy/Matchstick.java">Matchstick.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11501">11501</a> | 주식 | <a href="./greedy/Stock.java">Stock.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/13975">13975</a> | 파일 합치기 3 | <a href="./greedy/MergeFiles3.java">MergeFiles3.java</a> |
