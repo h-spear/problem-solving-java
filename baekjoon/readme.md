@@ -58,8 +58,8 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/18429">18429</a> | 근손실 | <a href="./bruteforce/MuscleLoss.java">MuscleLoss.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/20529">20529</a> | 가장 가까운 세 사람의 심리적 거리 | <a href="./bruteforce/PsychologicalDistanceBetweenThreeClosestPeople.java">PsychologicalDistanceBetweenThreeClosestPeople.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/24512">24512</a> | Bottleneck Travelling Salesman Problem (Small) | <a href="./bruteforce/BottleneckTravellingSalesmanProblem_Small.java">BottleneckTravellingSalesmanProblem_Small.java</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/27172">27172</a> | 수 나누기 게임 | <a href="./bruteforce/NumberDivisionGame.java">NumberDivisionGame.java</a> |
 
 ---
 
@@ -193,6 +193,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/4811">4811</a> | 알약 | <a href="./dp/Pill.java">Pill.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/5582">5582</a> | 공통 부분 문자열 | <a href="./dp/CommonSubstring.java">CommonSubstring.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/5626">5626</a> | 제단 | <a href="./dp/Altar.java">Altar.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/7570">7570</a> | 줄 세우기 | <a href="./dp/LineUp.java">LineUp.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/7579">7579</a> | 앱 | <a href="./dp/App.java">App.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/9084">9084</a> | 동전 | <a href="./dp/Coin.java">Coin.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/9251">9251</a> | LCS | <a href="./dp/LCS.java">LCS.java</a> |
@@ -312,11 +313,13 @@
 ### Greedy
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1082">1082</a> | 방 번호 | <a href="./greedy/RoomNumber.java">RoomNumber.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1339">1339</a> | 단어 수학 | <a href="./greedy/WordMath.java">WordMath.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1541">1541</a> | 잃어버린 괄호 | <a href="./greedy/LostParenthesis.java">LostParenthesis.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1700">1700</a> | 멀티탭 스케줄링 | <a href="./greedy/MultitapScheduling.java">MultitapScheduling.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1946">1946</a> | 신입 사원 | <a href="./greedy/NewComer.java">NewComer.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2138">2138</a> | 전구와 스위치 | <a href="./greedy/BulbAndSwitch.java">BulbAndSwitch.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/3687">3687</a> | 성냥개비 | <a href="./greedy/Matchstick.java">Matchstick.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/11501">11501</a> | 주식 | <a href="./greedy/Stock.java">Stock.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/13975">13975</a> | 파일 합치기 3 | <a href="./greedy/MergeFiles3.java">MergeFiles3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/15903">15903</a> | 카드 합체 놀이 | <a href="./greedy/CardCombinationGame.java">CardCombinationGame.java</a> |
