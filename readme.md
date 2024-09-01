@@ -45,10 +45,10 @@
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|2|
+|array|5|
 |design|2|
 |segmenttree|1|
-| **sum** | **5**|
+| **sum** | **8**|
 
 ## [HackerRank](./hackerrank/)
 |    SubDomain    | solved |

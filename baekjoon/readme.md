@@ -473,7 +473,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1471">1471</a> | 사탕 돌리기 | <a href="./scc/RotatingCandy.java">RotatingCandy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1506">1506</a> | 경찰서 | <a href="./scc/PoliceOffice.java">PoliceOffice.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2150">2150</a> | Strongly Connected Component | <a href="./scc/StronglyConnectedComponent.java">StronglyConnectedComponent.java</a> |
-|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/2152">2152</a> | 여행 계획 세우기 | <a href="./scc/PlanTrip.java">PlanTrip.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/2152">2152</a> | 여행 계획 세우기 | <a href="./scc/PlanTrip.java">PlanTrip.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/2207">2207</a> | 가위바위보 | <a href="./scc/RockScissorPaper.java">RockScissorPaper.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/2416">2416</a> | 문 | <a href="./scc/Door.java">Door.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/3648">3648</a> | 아이돌 | <a href="./scc/Idol.java">Idol.java</a> |
