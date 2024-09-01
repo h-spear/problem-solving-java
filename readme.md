@@ -47,8 +47,8 @@
 | :-------------: | :----: |
 |array|5|
 |design|2|
-|segmenttree|1|
-| **sum** | **8**|
+|segmenttree|2|
+| **sum** | **9**|
 
 ## [HackerRank](./hackerrank/)
 |    SubDomain    | solved |
