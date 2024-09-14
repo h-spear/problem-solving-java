@@ -12,7 +12,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10819">10819</a> | 차이를 최대로 | <a href="./backtracking/DifferenceToMaximum.java">DifferenceToMaximum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10971">10971</a> | 외판원 순회 2 | <a href="./backtracking/TravelingSalesmanProblem2.java">TravelingSalesmanProblem2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12094">12094</a> | 2048 (Hard) | <a href="./backtracking/_2048_Hard.java">_2048_Hard.java</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/12100">12100</a> | 2048 (Easy) | <a href="./backtracking/_2048_Easy.java">_2048_Easy.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/12100">12100</a> | 2048 (Easy) | <a href="./backtracking/_2048_Easy.java">_2048_Easy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14712">14712</a> | 넴모넴모 (Easy) | <a href="./backtracking/NemmoNemmoEasy.java">NemmoNemmoEasy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14889">14889</a> | 스타트와 링크 | <a href="./backtracking/StartAndLink.java">StartAndLink.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/15661">15661</a> | 링크와 스타트 | <a href="./backtracking/LinkAndStart.java">LinkAndStart.java</a> |
@@ -23,6 +23,7 @@
 ### Bellman Ford
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1865">1865</a> | 웜홀 | <a href="./bellmanford/Wormhole.java">Wormhole.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/3860">3860</a> | 할로윈 묘지 | <a href="./bellmanford/HalloweenCemetery.java">HalloweenCemetery.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/11657">11657</a> | 타임머신 | <a href="./bellmanford/TimeMachine.java">TimeMachine.java</a> |
 
@@ -148,7 +149,7 @@
 ### Divide and Conquer
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divideandconquer/Z.java">Z.java</a> |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1074">1074</a> | Z | <a href="./divideandconquer/Z.java">Z.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2447">2447</a> | 별 찍기 - 10 | <a href="./divideandconquer/StarPrint10.java">StarPrint10.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2630">2630</a> | 색종이 만들기 | <a href="./divideandconquer/MakingConfetti.java">MakingConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10830">10830</a> | 행렬 제곱 | <a href="./divideandconquer/MatrixSquared.java">MatrixSquared.java</a> |
@@ -263,7 +264,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1707">1707</a> | 이분 그래프 | <a href="./graphsearch/BipartiteGraph.java">BipartiteGraph.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1743">1743</a> | 음식물 피하기 | <a href="./graphsearch/AvoidFood.java">AvoidFood.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1987">1987</a> | 알파벳 | <a href="./graphsearch/Alphabet.java">Alphabet.java</a> |
-|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2001">2001</a> | 보석 줍기 | <a href="./graphsearch/PickUpGems.java">PickUpGems.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/2001">2001</a> | 보석 줍기 | <a href="./graphsearch/PickUpGems.java">PickUpGems.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2178">2178</a> | 미로 탐색 | <a href="./graphsearch/MazeEscape.java">MazeEscape.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2206">2206</a> | 벽 부수고 이동하기 | <a href="./graphsearch/BreakTheWallAndMove.java">BreakTheWallAndMove.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2234">2234</a> | 성곽 | <a href="./graphsearch/Castle.java">Castle.java</a> |

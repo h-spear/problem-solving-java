@@ -2,7 +2,7 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |Back Tracking|13|
-|Bellman Ford|2|
+|Bellman Ford|3|
 |Binary Search|10|
 |Bruteforce|13|
 |Combinatorics|2|
@@ -31,7 +31,7 @@
 |Tree|6|
 |Trie|6|
 |Two Pointer|9|
-| **sum** | **476**|
+| **sum** | **477**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
