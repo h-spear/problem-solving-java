@@ -32,6 +32,7 @@ const algMap = {
     scc: 'Strongly Connected Component',
     game: 'Game',
     fail: 'Fail',
+    mos: 'Mo\'s',
 };
 const bojLevelUrlPrefix = 'https://static.solved.ac/tier_small/';
 const bojLevelUrlSuffix = '.svg';

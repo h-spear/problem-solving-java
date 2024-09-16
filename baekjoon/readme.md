@@ -171,7 +171,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1535">1535</a> | 안녕 | <a href="./dp/Hello.java">Hello.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1562">1562</a> | 계단 수 | <a href="./dp/StairNumber.java">StairNumber.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1915">1915</a> | 가장 큰 정사각형 | <a href="./dp/LargestSquare.java">LargestSquare.java</a> |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dp/IntegerTriangle.java">IntegerTriangle.java</a> |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dp/IntegerTriangle.java">IntegerTriangle.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1937">1937</a> | 욕심쟁이 판다 | <a href="./dp/GreedyPanda.java">GreedyPanda.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1943">1943</a> | 동전 분배 | <a href="./dp/CoinDistribution.java">CoinDistribution.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2011">2011</a> | 암호코드 | <a href="./dp/CipherCode.java">CipherCode.java</a> |
@@ -409,12 +409,6 @@
 
 ---
 
-### undefined
-|    Tier    | No | Problem | Code | 
-| :-------------: | :----: | :----: | :----: |
-
----
-
 ### Math
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
@@ -471,7 +465,7 @@
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/1108">1108</a> | 검색 엔진 | <a href="./scc/SearchEngine.java">SearchEngine.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/1143">1143</a> | 경찰 | <a href="./scc/Police.java">Police.java</a> |
-|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1471">1471</a> | 사탕 돌리기 | <a href="./scc/RotatingCandy.java">RotatingCandy.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/1471">1471</a> | 사탕 돌리기 | <a href="./scc/RotatingCandy.java">RotatingCandy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1506">1506</a> | 경찰서 | <a href="./scc/PoliceOffice.java">PoliceOffice.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2150">2150</a> | Strongly Connected Component | <a href="./scc/StronglyConnectedComponent.java">StronglyConnectedComponent.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/2152">2152</a> | 여행 계획 세우기 | <a href="./scc/PlanTrip.java">PlanTrip.java</a> |

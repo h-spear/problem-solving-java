@@ -4,15 +4,15 @@ const { runBaekjoonReadmeGenerator } = require('./baekjoon/boj.js');
 const baekjoon_dir = './baekjoon';
 const programmers_dir = './programmers';
 const leetcode_dir = './leetcode';
-const hackerrank_dir = './hackerrank';
+// const hackerrank_dir = './hackerrank';
 const swea_dir = './swea';
-const note_dir = './my_note';
+// const note_dir = './my_note';
 const directories = [
     baekjoon_dir,
     programmers_dir,
     leetcode_dir,
     swea_dir,
-    hackerrank_dir,
+    // hackerrank_dir,
 ];
 const algMap = {
     backtracking: 'Back Tracking',
@@ -44,6 +44,7 @@ const algMap = {
     scc: 'Strongly Connected Component',
     game: 'Game',
     fail: 'Fail',
+    mos: 'Mo\'s',
 };
 
 const result = {
@@ -51,7 +52,7 @@ const result = {
     programmers: [],
     leetcode: [],
     swea: [],
-    hackerrank: [],
+    // hackerrank: [],
 };
 const output_file = 'readme.md';
 
@@ -59,8 +60,8 @@ function check_condition(p) {
     if (
         './' + p.name === programmers_dir ||
         './' + p.name === leetcode_dir ||
-        './' + p.name === swea_dir ||
-        './' + p.name === note_dir
+        './' + p.name === swea_dir
+        // || './' + p.name === note_dir
     ) {
         return false;
     }
@@ -158,24 +159,24 @@ fs.appendFileSync(
 console.log('leetcode solved ' + leetcode_sum + '!');
 
 // 해커랭크
-let hackerrank_sum = 0;
-fs.appendFileSync(
-    output_file,
-    '## [HackerRank](./hackerrank/)\n|    SubDomain    | solved |\n| :-------------: | :----: |\n',
-    'utf-8'
-);
-result['hackerrank'].forEach((v) => {
-    const { name, length } = v;
-    temp = '|' + name + '|' + length + '|\n';
-    hackerrank_sum += length;
-    fs.appendFileSync(output_file, temp, 'utf-8');
-});
-fs.appendFileSync(
-    output_file,
-    '| **sum** | **' + hackerrank_sum + '**|\n\n',
-    'utf-8'
-);
-console.log('hackerrank solved ' + hackerrank_sum + '!');
+// let hackerrank_sum = 0;
+// fs.appendFileSync(
+//     output_file,
+//     '## [HackerRank](./hackerrank/)\n|    SubDomain    | solved |\n| :-------------: | :----: |\n',
+//     'utf-8'
+// );
+// result['hackerrank'].forEach((v) => {
+//     const { name, length } = v;
+//     temp = '|' + name + '|' + length + '|\n';
+//     hackerrank_sum += length;
+//     fs.appendFileSync(output_file, temp, 'utf-8');
+// });
+// fs.appendFileSync(
+//     output_file,
+//     '| **sum** | **' + hackerrank_sum + '**|\n\n',
+//     'utf-8'
+// );
+// console.log('hackerrank solved ' + hackerrank_sum + '!');
 
 // SWEA
 let swea_sum = 0;

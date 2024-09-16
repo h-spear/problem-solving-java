@@ -19,7 +19,6 @@
 |Implementation|37|
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
-|undefined|0|
 |Math|14|
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
@@ -36,10 +35,12 @@
 ## [Programmers](./programmers/)
 |    Level    | solved |
 | :-------------: | :----: |
+|level0|0|
 |level1|5|
 |level2|19|
 |level3|22|
 |level4|1|
+|level5|0|
 | **sum** | **47**|
 
 ## [LeetCode](./leetcode/)
@@ -50,16 +51,10 @@
 |segmenttree|2|
 | **sum** | **9**|
 
-## [HackerRank](./hackerrank/)
-|    SubDomain    | solved |
-| :-------------: | :----: |
-|introduction|13|
-|strings|11|
-| **sum** | **24**|
-
 ## [SW Expert Academy](./swea/)
 |    difficulty    | solved |
 | :-------------: | :----: |
+|difficulty1|0|
 |difficulty2|6|
 |difficulty3|7|
 |difficulty4|12|
