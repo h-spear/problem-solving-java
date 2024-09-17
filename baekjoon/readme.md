@@ -429,6 +429,16 @@
 
 ---
 
+### Mo's
+|    Tier    | No | Problem | Code | 
+| :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/2912">2912</a> | 백설공주와 난쟁이 | <a href="./mos/SnowWhiteAndSevenDwarfs.java">SnowWhiteAndSevenDwarfs.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/8462">8462</a> | 배열의 힘 | <a href="./mos/PowerOfArray.java">PowerOfArray.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/13547">13547</a> | 수열과 쿼리 5 | <a href="./mos/SequenceAndQuery5.java">SequenceAndQuery5.java</a> |
+|    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13548">13548</a> | 수열과 쿼리 6 | <a href="./mos/SequenceAndQuery6.java">SequenceAndQuery6.java</a> |
+
+---
+
 ### MST(Minimum Spanning Tree)
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
