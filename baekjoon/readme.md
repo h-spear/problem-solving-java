@@ -435,7 +435,8 @@
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/2912">2912</a> | 백설공주와 난쟁이 | <a href="./mos/SnowWhiteAndSevenDwarfs.java">SnowWhiteAndSevenDwarfs.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/6515">6515</a> | Frequent values | <a href="./mos/FrequentValues.java">FrequentValues.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/8462">8462</a> | 배열의 힘 | <a href="./mos/PowerOfArray.java">PowerOfArray.java</a> |
-|    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/12999">12999</a> | 화려한 마을3 | <a href="./mos/ColorfulTown.java">ColorfulTown.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/12986">12986</a> | 화려한 마을2 | <a href="./mos/ColorfulTown2.java">ColorfulTown2.java</a> |
+|    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/12999">12999</a> | 화려한 마을3 | <a href="./mos/ColorfulTown3.java">ColorfulTown3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/13547">13547</a> | 수열과 쿼리 5 | <a href="./mos/SequenceAndQuery5.java">SequenceAndQuery5.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13548">13548</a> | 수열과 쿼리 6 | <a href="./mos/SequenceAndQuery6.java">SequenceAndQuery6.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/14897">14897</a> | 서로 다른 수와 쿼리 1 | <a href="./mos/DifferentNumberAndQuery1.java">DifferentNumberAndQuery1.java</a> |

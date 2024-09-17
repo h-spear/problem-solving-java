@@ -5,7 +5,7 @@ package baekjoon.mos;
 import java.io.*;
 import java.util.*;
 
-public class ColorfulTown {
+public class ColorfulTown3 {
 
 	public static void main(String[] args) throws Exception {
 	    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
