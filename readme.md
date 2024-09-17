@@ -20,7 +20,7 @@
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
 |Math|14|
-|Mo's|8|
+|Mo's|9|
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
 |Strongly Connected Component|33|
@@ -31,7 +31,7 @@
 |Tree|6|
 |Trie|6|
 |Two Pointer|9|
-| **sum** | **485**|
+| **sum** | **486**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

@@ -11,7 +11,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9663">9663</a> | N-Queen | <a href="./backtracking/NQueen.java">NQueen.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10819">10819</a> | 차이를 최대로 | <a href="./backtracking/DifferenceToMaximum.java">DifferenceToMaximum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10971">10971</a> | 외판원 순회 2 | <a href="./backtracking/TravelingSalesmanProblem2.java">TravelingSalesmanProblem2.java</a> |
-|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12094">12094</a> | 2048 (Hard) | <a href="./backtracking/_2048_Hard.java">_2048_Hard.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/12094">12094</a> | 2048 (Hard) | <a href="./backtracking/_2048_Hard.java">_2048_Hard.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/12100">12100</a> | 2048 (Easy) | <a href="./backtracking/_2048_Easy.java">_2048_Easy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14712">14712</a> | 넴모넴모 (Easy) | <a href="./backtracking/NemmoNemmoEasy.java">NemmoNemmoEasy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14889">14889</a> | 스타트와 링크 | <a href="./backtracking/StartAndLink.java">StartAndLink.java</a> |
@@ -437,6 +437,7 @@
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/8462">8462</a> | 배열의 힘 | <a href="./mos/PowerOfArray.java">PowerOfArray.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/12986">12986</a> | 화려한 마을2 | <a href="./mos/ColorfulTown2.java">ColorfulTown2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/12999">12999</a> | 화려한 마을3 | <a href="./mos/ColorfulTown3.java">ColorfulTown3.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/13028">13028</a> | 민호의 소원 | <a href="./mos/MinhoWish.java">MinhoWish.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/13547">13547</a> | 수열과 쿼리 5 | <a href="./mos/SequenceAndQuery5.java">SequenceAndQuery5.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13548">13548</a> | 수열과 쿼리 6 | <a href="./mos/SequenceAndQuery6.java">SequenceAndQuery6.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/14897">14897</a> | 서로 다른 수와 쿼리 1 | <a href="./mos/DifferentNumberAndQuery1.java">DifferentNumberAndQuery1.java</a> |
