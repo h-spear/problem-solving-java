@@ -438,11 +438,14 @@
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/12986">12986</a> | 화려한 마을2 | <a href="./mos/ColorfulTown2.java">ColorfulTown2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/12999">12999</a> | 화려한 마을3 | <a href="./mos/ColorfulTown3.java">ColorfulTown3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/13028">13028</a> | 민호의 소원 | <a href="./mos/MinhoWish.java">MinhoWish.java</a> |
+|    <img src="https://static.solved.ac/tier_small/22.svg" width="20"></img>    | <a href="http://boj.kr/13545">13545</a> | 수열과 쿼리 0 | <a href="./mos/SequenceAndQuery0.java">SequenceAndQuery0.java</a> |
+|    <img src="https://static.solved.ac/tier_small/22.svg" width="20"></img>    | <a href="http://boj.kr/13546">13546</a> | 수열과 쿼리 4 | <a href="./mos/SequenceAndQuery4.java">SequenceAndQuery4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/13547">13547</a> | 수열과 쿼리 5 | <a href="./mos/SequenceAndQuery5.java">SequenceAndQuery5.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13548">13548</a> | 수열과 쿼리 6 | <a href="./mos/SequenceAndQuery6.java">SequenceAndQuery6.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13553">13553</a> | 수열과 쿼리 8 | <a href="./mos/SequenceAndQuery8.java">SequenceAndQuery8.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/14897">14897</a> | 서로 다른 수와 쿼리 1 | <a href="./mos/DifferentNumberAndQuery1.java">DifferentNumberAndQuery1.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/16979">16979</a> | 수열과 쿼리 23 | <a href="./mos/SequenceAndQuery23.java">SequenceAndQuery23.java</a> |
+|    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/25462">25462</a> | Inverzije | <a href="./mos/Inverzije.java">Inverzije.java</a> |
 
 ---
 
