@@ -442,7 +442,9 @@
 |    <img src="https://static.solved.ac/tier_small/22.svg" width="20"></img>    | <a href="http://boj.kr/13546">13546</a> | 수열과 쿼리 4 | <a href="./mos/SequenceAndQuery4.java">SequenceAndQuery4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/13547">13547</a> | 수열과 쿼리 5 | <a href="./mos/SequenceAndQuery5.java">SequenceAndQuery5.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13548">13548</a> | 수열과 쿼리 6 | <a href="./mos/SequenceAndQuery6.java">SequenceAndQuery6.java</a> |
+|    <img src="https://static.solved.ac/tier_small/22.svg" width="20"></img>    | <a href="http://boj.kr/13550">13550</a> | 수열과 쿼리 7 | <a href="./mos/SequenceAndQuery7.java">SequenceAndQuery7.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13553">13553</a> | 수열과 쿼리 8 | <a href="./mos/SequenceAndQuery8.java">SequenceAndQuery8.java</a> |
+|    <img src="https://static.solved.ac/tier_small/22.svg" width="20"></img>    | <a href="http://boj.kr/13554">13554</a> | 수열과 쿼리 9 | <a href="./mos/SequenceAndQuery9.java">SequenceAndQuery9.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/14897">14897</a> | 서로 다른 수와 쿼리 1 | <a href="./mos/DifferentNumberAndQuery1.java">DifferentNumberAndQuery1.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/16979">16979</a> | 수열과 쿼리 23 | <a href="./mos/SequenceAndQuery23.java">SequenceAndQuery23.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/25462">25462</a> | Inverzije | <a href="./mos/Inverzije.java">Inverzije.java</a> |
@@ -577,6 +579,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14427">14427</a> | 수열과 쿼리 15 | <a href="./segmenttree/SequenceAndQuery15.java">SequenceAndQuery15.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/14428">14428</a> | 수열과 쿼리 16 | <a href="./segmenttree/SequenceAndQuery16.java">SequenceAndQuery16.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/14438">14438</a> | 수열과 쿼리 17 | <a href="./segmenttree/SequenceAndQuery17.java">SequenceAndQuery17.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/14577">14577</a> | 일기예보 | <a href="./segmenttree/WeatherForecast.java">WeatherForecast.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/15561">15561</a> | 구간 합 최대? 2 | <a href="./segmenttree/SubSumMaximum2.java">SubSumMaximum2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/16404">16404</a> | 주식회사 승범이네 | <a href="./segmenttree/CorporationSeungBeom.java">CorporationSeungBeom.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/16975">16975</a> | 수열과 쿼리 21 | <a href="./segmenttree/SequenceAndQuery21.java">SequenceAndQuery21.java</a> |
@@ -587,6 +590,7 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/17408">17408</a> | 수열과 쿼리 24 | <a href="./segmenttree/SequenceAndQuery24.java">SequenceAndQuery24.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/18436">18436</a> | 수열과 쿼리 37 | <a href="./segmenttree/SequenceAndQuery37.java">SequenceAndQuery37.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/18437">18437</a> | 회사 문화 5 | <a href="./segmenttree/CompanyCulture5.java">CompanyCulture5.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/20212">20212</a> | 나무는 쿼리를 싫어해~ | <a href="./segmenttree/TreeHateQuery.java">TreeHateQuery.java</a> |
 |    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/25639">25639</a> | 수열과 최대 상승 쿼리 | <a href="./segmenttree/SequenceAndMaximumRiseQuery.java">SequenceAndMaximumRiseQuery.java</a> |
 
 ---

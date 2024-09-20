@@ -20,18 +20,18 @@
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
 |Math|14|
-|Mo's|14|
+|Mo's|16|
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
 |Strongly Connected Component|33|
-|Segment Tree|66|
+|Segment Tree|68|
 |Sorting|1|
 |String|4|
 |Topology Sort|12|
 |Tree|6|
 |Trie|6|
 |Two Pointer|9|
-| **sum** | **491**|
+| **sum** | **495**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
