@@ -560,6 +560,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/10090">10090</a> | Counting Inversions | <a href="./segmenttree/CountingInversions.java">CountingInversions.java</a> |
 |    <img src="https://static.solved.ac/tier_small/21.svg" width="20"></img>    | <a href="http://boj.kr/10167">10167</a> | 금광 | <a href="./segmenttree/GoldMine.java">GoldMine.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/10999">10999</a> | 구간 합 구하기 2 | <a href="./segmenttree/SubSum2.java">SubSum2.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/11012">11012</a> | Egg | <a href="./segmenttree/Egg.java">Egg.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/11505">11505</a> | 구간 곱 구하기 | <a href="./segmenttree/SubMultiplication.java">SubMultiplication.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/12015">12015</a> | 가장 긴 증가하는 부분 수열 2 | <a href="./segmenttree/LongestIncreasingSubsequence2.java">LongestIncreasingSubsequence2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/12738">12738</a> | 가장 긴 증가하는 부분 수열 3 | <a href="./segmenttree/LongestIncreasingSubsequence3.java">LongestIncreasingSubsequence3.java</a> |

@@ -24,14 +24,14 @@
 |MST(Minimum Spanning Tree)|9|
 |Prefix Sum|10|
 |Strongly Connected Component|33|
-|Segment Tree|68|
+|Segment Tree|69|
 |Sorting|1|
 |String|4|
 |Topology Sort|12|
 |Tree|6|
 |Trie|6|
 |Two Pointer|9|
-| **sum** | **495**|
+| **sum** | **496**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
