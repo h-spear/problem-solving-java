@@ -7,7 +7,7 @@
 |Bruteforce|13|
 |Combinatorics|2|
 |Data Structure|34|
-|Dijkstra|16|
+|Dijkstra|17|
 |Union Find|6|
 |Divide and Conquer|7|
 |Dynamic Programming|63|
@@ -16,7 +16,7 @@
 |Game|3|
 |Graph Traversal|58|
 |Greedy|18|
-|Implementation|37|
+|Implementation|38|
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
 |Math|14|
@@ -25,13 +25,13 @@
 |Prefix Sum|10|
 |Strongly Connected Component|33|
 |Segment Tree|69|
-|Sorting|1|
+|Sorting|2|
 |String|4|
 |Topology Sort|12|
 |Tree|6|
 |Trie|6|
-|Two Pointer|9|
-| **sum** | **496**|
+|Two Pointer|10|
+| **sum** | **500**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

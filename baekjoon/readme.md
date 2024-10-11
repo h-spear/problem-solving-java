@@ -117,6 +117,7 @@
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1238">1238</a> | 파티 | <a href="./dijkstra/Party.java">Party.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1261">1261</a> | 알고스팟 | <a href="./dijkstra/Algospot.java">Algospot.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1277">1277</a> | 발전소 설치 | <a href="./dijkstra/PowerPlantInstallation.java">PowerPlantInstallation.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1504">1504</a> | 특정한 최단 경로 | <a href="./dijkstra/SpecificShortestPath.java">SpecificShortestPath.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1753">1753</a> | 최단경로 | <a href="./dijkstra/ShortestPath.java">ShortestPath.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/1854">1854</a> | K번째 최단경로 찾기 | <a href="./dijkstra/KthShortestPath.java">KthShortestPath.java</a> |
@@ -154,7 +155,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/2630">2630</a> | 색종이 만들기 | <a href="./divideandconquer/MakingConfetti.java">MakingConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10830">10830</a> | 행렬 제곱 | <a href="./divideandconquer/MatrixSquared.java">MatrixSquared.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/11444">11444</a> | 피보나치 수 6 | <a href="./divideandconquer/FibonacciNumber6.java">FibonacciNumber6.java</a> |
-|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/12850">12850</a> | 본대 산책2 | <a href="./divideandconquer/UniversityWalking2.java">UniversityWalking2.java</a> |
+|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/12850">12850</a> | 본대 산책2 | <a href="./divideandconquer/UniversityWalking2.java">UniversityWalking2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15791">15791</a> | 세진이의 미팅 | <a href="./divideandconquer/SejinMeeting.java">SejinMeeting.java</a> |
 
 ---
@@ -171,7 +172,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1535">1535</a> | 안녕 | <a href="./dp/Hello.java">Hello.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/1562">1562</a> | 계단 수 | <a href="./dp/StairNumber.java">StairNumber.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1915">1915</a> | 가장 큰 정사각형 | <a href="./dp/LargestSquare.java">LargestSquare.java</a> |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dp/IntegerTriangle.java">IntegerTriangle.java</a> |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1932">1932</a> | 정수 삼각형 | <a href="./dp/IntegerTriangle.java">IntegerTriangle.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1937">1937</a> | 욕심쟁이 판다 | <a href="./dp/GreedyPanda.java">GreedyPanda.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/1943">1943</a> | 동전 분배 | <a href="./dp/CoinDistribution.java">CoinDistribution.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2011">2011</a> | 암호코드 | <a href="./dp/CipherCode.java">CipherCode.java</a> |
@@ -264,7 +265,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1707">1707</a> | 이분 그래프 | <a href="./graphsearch/BipartiteGraph.java">BipartiteGraph.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1743">1743</a> | 음식물 피하기 | <a href="./graphsearch/AvoidFood.java">AvoidFood.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1987">1987</a> | 알파벳 | <a href="./graphsearch/Alphabet.java">Alphabet.java</a> |
-|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/2001">2001</a> | 보석 줍기 | <a href="./graphsearch/PickUpGems.java">PickUpGems.java</a> |
+|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2001">2001</a> | 보석 줍기 | <a href="./graphsearch/PickUpGems.java">PickUpGems.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2178">2178</a> | 미로 탐색 | <a href="./graphsearch/MazeEscape.java">MazeEscape.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2206">2206</a> | 벽 부수고 이동하기 | <a href="./graphsearch/BreakTheWallAndMove.java">BreakTheWallAndMove.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2234">2234</a> | 성곽 | <a href="./graphsearch/Castle.java">Castle.java</a> |
@@ -344,6 +345,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1713">1713</a> | 후보 추천하기 | <a href="./implementation/CandidateRecommend.java">CandidateRecommend.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1966">1966</a> | 프린터 큐 | <a href="./implementation/PrinterQueue.java">PrinterQueue.java</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/2161">2161</a> | 카드1 | <a href="./implementation/WizardSharkAndBlizzard.java">WizardSharkAndBlizzard.java</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/2876">2876</a> | 그래픽스 퀴즈 | <a href="./implementation/GraphicQuiz.java">GraphicQuiz.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/3085">3085</a> | 사탕 게임 | <a href="./implementation/CandyGame.java">CandyGame.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/3190">3190</a> | 뱀 | <a href="./implementation/Snake.java">Snake.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/10993">10993</a> | 별 찍기 - 18 | <a href="./implementation/StarPrint18.java">StarPrint18.java</a> |
@@ -362,7 +364,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16935">16935</a> | 배열 돌리기 3 | <a href="./implementation/RotateArray3.java">RotateArray3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17136">17136</a> | 색종이 붙이기 | <a href="./implementation/GlueConfetti.java">GlueConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/17143">17143</a> | 낚시왕 | <a href="./implementation/FishKing.java">FishKing.java</a> |
-|    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/17269">17269</a> | 이름궁합 테스트 | <a href="./implementation/NameCompatibilityTest.java">NameCompatibilityTest.java</a> |
+|    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/17269">17269</a> | 이름궁합 테스트 | <a href="./implementation/NameCompatibilityTest.java">NameCompatibilityTest.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17281">17281</a> | ⚾ | <a href="./implementation/Baseball.java">Baseball.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17406">17406</a> | 배열 돌리기 4 | <a href="./implementation/RotateArray4.java">RotateArray4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17780">17780</a> | 새로운 게임 | <a href="./implementation/NewGame.java">NewGame.java</a> |
@@ -533,7 +535,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1572">1572</a> | 중앙값 | <a href="./segmenttree/Median.java">Median.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1725">1725</a> | 히스토그램 | <a href="./segmenttree/Histogram.java">Histogram.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1777">1777</a> | 순열복원 | <a href="./segmenttree/PermutationRestoration.java">PermutationRestoration.java</a> |
-|    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/1849">1849</a> | 순열 | <a href="./segmenttree/Permutation.java">Permutation.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/1849">1849</a> | 순열 | <a href="./segmenttree/Permutation.java">Permutation.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/2042">2042</a> | 구간 합 구하기 | <a href="./segmenttree/SubSum.java">SubSum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2104">2104</a> | 부분배열 고르기 | <a href="./segmenttree/SubArraySelect.java">SubArraySelect.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/2243">2243</a> | 사탕상자 | <a href="./segmenttree/CandyBox.java">CandyBox.java</a> |
@@ -592,13 +594,14 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/18436">18436</a> | 수열과 쿼리 37 | <a href="./segmenttree/SequenceAndQuery37.java">SequenceAndQuery37.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/18437">18437</a> | 회사 문화 5 | <a href="./segmenttree/CompanyCulture5.java">CompanyCulture5.java</a> |
 |    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/20212">20212</a> | 나무는 쿼리를 싫어해~ | <a href="./segmenttree/TreeHateQuery.java">TreeHateQuery.java</a> |
-|    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/25639">25639</a> | 수열과 최대 상승 쿼리 | <a href="./segmenttree/SequenceAndMaximumRiseQuery.java">SequenceAndMaximumRiseQuery.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/25639">25639</a> | 수열과 최대 상승 쿼리 | <a href="./segmenttree/SequenceAndMaximumRiseQuery.java">SequenceAndMaximumRiseQuery.java</a> |
 
 ---
 
 ### Sorting
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/2246">2246</a> | 콘도 선정 | <a href="./sorting/CondominiumSelection.java">CondominiumSelection.java</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/2750">2750</a> | 수 정렬하기 | <a href="./sorting/NumberSorting.java">NumberSorting.java</a> |
 
 ---
@@ -658,6 +661,7 @@
 ### Two Pointer
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1337">1337</a> | 올바른 배열 | <a href="./twopointer/CorrectArray.java">CorrectArray.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1806">1806</a> | 부분합 | <a href="./twopointer/PartialSum.java">PartialSum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/2003">2003</a> | 수들의 합 2 | <a href="./twopointer/SumOfNumbers2.java">SumOfNumbers2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/2143">2143</a> | 두 배열의 합 | <a href="./twopointer/SumOfTwoArrays.java">SumOfTwoArrays.java</a> |
