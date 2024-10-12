@@ -6,7 +6,7 @@
 |Binary Search|10|
 |Bruteforce|13|
 |Combinatorics|2|
-|Data Structure|34|
+|Data Structure|35|
 |Dijkstra|17|
 |Union Find|6|
 |Divide and Conquer|7|
@@ -16,7 +16,7 @@
 |Game|3|
 |Graph Traversal|58|
 |Greedy|18|
-|Implementation|38|
+|Implementation|40|
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
 |Math|14|
@@ -31,7 +31,7 @@
 |Tree|6|
 |Trie|6|
 |Two Pointer|10|
-| **sum** | **500**|
+| **sum** | **503**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

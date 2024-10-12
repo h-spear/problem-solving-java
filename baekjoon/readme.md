@@ -92,6 +92,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/2504">2504</a> | 괄호의 값 | <a href="./datastructure/ParenthesesValue.java">ParenthesesValue.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/2531">2531</a> | 회전 초밥 | <a href="./datastructure/RotatingSushi.java">RotatingSushi.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/3020">3020</a> | 개똥벌레 | <a href="./datastructure/Firefly.java">Firefly.java</a> |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/3077">3077</a> | 임진왜란 | <a href="./datastructure/ImjinWar.java">ImjinWar.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/3425">3425</a> | 고스택 | <a href="./datastructure/Gostack.java">Gostack.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/4358">4358</a> | 생태학 | <a href="./trie/Ecology.java">Ecology.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/5397">5397</a> | 키로거 | <a href="./datastructure/KeyLogger.java">KeyLogger.java</a> |
@@ -342,6 +343,8 @@
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1148">1148</a> | 단어 만들기 | <a href="./implementation/MakingWords.java">MakingWords.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/1182">1182</a> | 부분수열의 합 | <a href="./implementation/SubSetSum.java">SubSetSum.java</a> |
+|    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/1244">1244</a> | 스위치 켜고 끄기 | <a href="./implementation/SwitchOnOff.java">SwitchOnOff.java</a> |
+|    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/1672">1672</a> | DNA 해독 | <a href="./implementation/DNADecoding.java">DNADecoding.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/1713">1713</a> | 후보 추천하기 | <a href="./implementation/CandidateRecommend.java">CandidateRecommend.java</a> |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/1966">1966</a> | 프린터 큐 | <a href="./implementation/PrinterQueue.java">PrinterQueue.java</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/2161">2161</a> | 카드1 | <a href="./implementation/WizardSharkAndBlizzard.java">WizardSharkAndBlizzard.java</a> |
