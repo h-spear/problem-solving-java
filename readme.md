@@ -1,7 +1,7 @@
 ## [BAEKJOON](./baekjoon/)
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|Back Tracking|13|
+|Back Tracking|14|
 |Bellman Ford|3|
 |Binary Search|10|
 |Bruteforce|13|
@@ -10,7 +10,7 @@
 |Dijkstra|17|
 |Union Find|6|
 |Divide and Conquer|7|
-|Dynamic Programming|63|
+|Dynamic Programming|64|
 |Fail|1|
 |Floyd Warshall|5|
 |Game|3|
@@ -31,7 +31,7 @@
 |Tree|6|
 |Trie|6|
 |Two Pointer|10|
-| **sum** | **503**|
+| **sum** | **505**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

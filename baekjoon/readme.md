@@ -8,6 +8,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1759">1759</a> | 암호 만들기 | <a href="./backtracking/CreatePassword.java">CreatePassword.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2239">2239</a> | 스도쿠 | <a href="./backtracking/Sudoku2239.java">Sudoku2239.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2580">2580</a> | 스도쿠 | <a href="./backtracking/Sudoku.java">Sudoku.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/2922">2922</a> | 즐거운 단어 | <a href="./backtracking/HappyWord.java">HappyWord.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9663">9663</a> | N-Queen | <a href="./backtracking/NQueen.java">NQueen.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10819">10819</a> | 차이를 최대로 | <a href="./backtracking/DifferenceToMaximum.java">DifferenceToMaximum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10971">10971</a> | 외판원 순회 2 | <a href="./backtracking/TravelingSalesmanProblem2.java">TravelingSalesmanProblem2.java</a> |
@@ -216,6 +217,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/13398">13398</a> | 연속합 2 | <a href="./dp/ContinuousSum.java">ContinuousSum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/14002">14002</a> | 가장 긴 증가하는 부분 수열 4 | <a href="./dp/LongestIncreasingSubsequence4.java">LongestIncreasingSubsequence4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/14003">14003</a> | 가장 긴 증가하는 부분 수열 5 | <a href="./dp/LongestIncreasingSubsequence5.java">LongestIncreasingSubsequence5.java</a> |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/14220">14220</a> | 양아치 집배원 | <a href="./dp/BullyPostman.java">BullyPostman.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14728">14728</a> | 벼락치기 | <a href="./dp/Cramming.java">Cramming.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/16385">16385</a> | Pokemon Go Go | <a href="./dp/PokemonGoGo.java">PokemonGoGo.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/16493">16493</a> | 최대 페이지 수 | <a href="./dp/MaxPageNumber.java">MaxPageNumber.java</a> |
