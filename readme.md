@@ -25,13 +25,13 @@
 |Prefix Sum|10|
 |Strongly Connected Component|33|
 |Segment Tree|69|
-|Sorting|2|
+|Sorting|3|
 |String|4|
 |Topology Sort|12|
 |Tree|6|
 |Trie|6|
 |Two Pointer|10|
-| **sum** | **505**|
+| **sum** | **506**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

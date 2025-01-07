@@ -12,7 +12,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9663">9663</a> | N-Queen | <a href="./backtracking/NQueen.java">NQueen.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10819">10819</a> | 차이를 최대로 | <a href="./backtracking/DifferenceToMaximum.java">DifferenceToMaximum.java</a> |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    | <a href="http://boj.kr/10971">10971</a> | 외판원 순회 2 | <a href="./backtracking/TravelingSalesmanProblem2.java">TravelingSalesmanProblem2.java</a> |
-|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/12094">12094</a> | 2048 (Hard) | <a href="./backtracking/_2048_Hard.java">_2048_Hard.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/12094">12094</a> | 2048 (Hard) | <a href="./backtracking/_2048_Hard.java">_2048_Hard.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/12100">12100</a> | 2048 (Easy) | <a href="./backtracking/_2048_Easy.java">_2048_Easy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/14712">14712</a> | 넴모넴모 (Easy) | <a href="./backtracking/NemmoNemmoEasy.java">NemmoNemmoEasy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/14889">14889</a> | 스타트와 링크 | <a href="./backtracking/StartAndLink.java">StartAndLink.java</a> |
@@ -381,7 +381,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/21610">21610</a> | 마법사 상어와 비바라기 | <a href="./implementation/WizardSharkAndRainDance.java">WizardSharkAndRainDance.java</a> |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/23289">23289</a> | 온풍기 안녕! | <a href="./implementation/FanHeaterHello.java">FanHeaterHello.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/23290">23290</a> | 마법사 상어와 복제 | <a href="./implementation/WizardSharkAndClone.java">WizardSharkAndClone.java</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/25598">25598</a> | Alive or Dead? | <a href="./implementation/AliveOrDead.java">AliveOrDead.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/25598">25598</a> | Alive or Dead? | <a href="./implementation/AliveOrDead.java">AliveOrDead.java</a> |
 |    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    | <a href="http://boj.kr/31797">31797</a> | 아~파트 아파트 | <a href="./implementation/Apartment.java">Apartment.java</a> |
 
 ---
@@ -608,6 +608,7 @@
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/5.svg" width="20"></img>    | <a href="http://boj.kr/2246">2246</a> | 콘도 선정 | <a href="./sorting/CondominiumSelection.java">CondominiumSelection.java</a> |
 |    <img src="https://static.solved.ac/tier_small/4.svg" width="20"></img>    | <a href="http://boj.kr/2750">2750</a> | 수 정렬하기 | <a href="./sorting/NumberSorting.java">NumberSorting.java</a> |
+|    <img src="https://static.solved.ac/tier_small/3.svg" width="20"></img>    | <a href="http://boj.kr/28417">28417</a> | 스케이트보드 | <a href="./sorting/SkateBoard.java">SkateBoard.java</a> |
 
 ---
 
