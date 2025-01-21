@@ -14,7 +14,7 @@
 |Fail|1|
 |Floyd Warshall|5|
 |Game|3|
-|Graph Traversal|58|
+|Graph Traversal|59|
 |Greedy|18|
 |Implementation|40|
 |KMP|5|
@@ -31,7 +31,7 @@
 |Tree|6|
 |Trie|6|
 |Two Pointer|10|
-| **sum** | **506**|
+| **sum** | **507**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |

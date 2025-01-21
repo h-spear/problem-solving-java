@@ -287,6 +287,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/7562">7562</a> | 나이트의 이동 | <a href="./graphsearch/KnightMovement.java">KnightMovement.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/7569">7569</a> | 토마토 | <a href="./graphsearch/Tomato2.java">Tomato2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/7576">7576</a> | 토마토 | <a href="./graphsearch/Tomato.java">Tomato.java</a> |
+|    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/8452">8452</a> | 그래프와 쿼리 | <a href="./graphsearch/GraphAndQuery.java">GraphAndQuery.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9019">9019</a> | DSLR | <a href="./graphsearch/DSLR.java">DSLR.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/9328">9328</a> | 열쇠 | <a href="./graphsearch/Key.java">Key.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/9376">9376</a> | 탈옥 | <a href="./graphsearch/Jailbreak.java">Jailbreak.java</a> |
@@ -579,7 +580,7 @@
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/13537">13537</a> | 수열과 쿼리 1 | <a href="./segmenttree/SequenceAndQuery3.java">SequenceAndQuery3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/13537">13537</a> | 수열과 쿼리 1 | <a href="./segmenttree/SequenceAndQuery3.java">SequenceAndQuery3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/21.svg" width="20"></img>    | <a href="http://boj.kr/13557">13557</a> | 수열과 쿼리 10 | <a href="./segmenttree/SequenceAndQuery10.java">SequenceAndQuery10.java</a> |
-|    <img src="https://static.solved.ac/tier_small/20.svg" width="20"></img>    | <a href="http://boj.kr/13925">13925</a> | 수열과 쿼리 13 | <a href="./segmenttree/SequenceAndQuery13.java">SequenceAndQuery13.java</a> |
+|    <img src="https://static.solved.ac/tier_small/21.svg" width="20"></img>    | <a href="http://boj.kr/13925">13925</a> | 수열과 쿼리 13 | <a href="./segmenttree/SequenceAndQuery13.java">SequenceAndQuery13.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/14245">14245</a> | XOR | <a href="./segmenttree/XOR_14245.java">XOR_14245.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/14268">14268</a> | 회사 문화 2 | <a href="./segmenttree/CompanyCulture2.java">CompanyCulture2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/14287">14287</a> | 회사 문화 3 | <a href="./segmenttree/CompanyCulture3.java">CompanyCulture3.java</a> |
