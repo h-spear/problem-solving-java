@@ -226,7 +226,7 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/17258">17258</a> | 인기가 넘쳐흘러 | <a href="./dp/OverflowingPopularity.java">OverflowingPopularity.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/17845">17845</a> | 수강 과목 | <a href="./dp/Course.java">Course.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/18427">18427</a> | 함께 블록 쌓기 | <a href="./dp/StackingBlocksTogether.java">StackingBlocksTogether.java</a> |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20303">20303</a> | 할로윈의 양아치 | <a href="./dp/HalloweenBully.java">HalloweenBully.java</a> |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/20303">20303</a> | 할로윈의 양아치 | <a href="./dp/HalloweenBully.java">HalloweenBully.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/23840">23840</a> | 두 단계 최단 경로 4 | <a href="./dp/TwoStepShortestPath4.java">TwoStepShortestPath4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/27500">27500</a> | 이 게임에서 진정한 탑은 누구인가 | <a href="./dp/WhoIsTopInThisGame.java">WhoIsTopInThisGame.java</a> |
 
@@ -525,7 +525,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    | <a href="http://boj.kr/26146">26146</a> | 즉흥 여행 (Easy) | <a href="./scc/ImpromptuTrip_Easy.java">ImpromptuTrip_Easy.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/26157">26157</a> | 즉흥 여행 (Hard) | <a href="./scc/ImpromptuTrip_Hard.java">ImpromptuTrip_Hard.java</a> |
 |    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/27503">27503</a> | 요가 수업 | <a href="./scc/YogaClass.java">YogaClass.java</a> |
-|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/30879">30879</a> | 저녁 뭐 먹지? | <a href="./scc/WhatShouldIEatForDinner.java">WhatShouldIEatForDinner.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/30879">30879</a> | 저녁 뭐 먹지? | <a href="./scc/WhatShouldIEatForDinner.java">WhatShouldIEatForDinner.java</a> |
 
 ---
 

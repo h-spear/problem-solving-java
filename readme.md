@@ -37,12 +37,12 @@
 |    Level    | solved |
 | :-------------: | :----: |
 |level0|0|
-|level1|5|
-|level2|19|
-|level3|22|
+|level1|7|
+|level2|23|
+|level3|23|
 |level4|1|
 |level5|0|
-| **sum** | **47**|
+| **sum** | **54**|
 
 ## [LeetCode](./leetcode/)
 |    Algorithm    | solved |
