@@ -54,6 +54,8 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/2188">2188</a> | 축사 배정 | <a href="./bipartitematching/BarnAssignment.java">BarnAssignment.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11375">11375</a> | 열혈강호 | <a href="./bipartitematching/YeolhyeolGangho2.java">YeolhyeolGangho2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11375">11375</a> | 열혈강호 | <a href="./bipartitematching/YeolhyeolGangho2.java">YeolhyeolGangho2.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/14433">14433</a> | 한조 대기 중 | <a href="./bipartitematching/HanzoWaiting.java">HanzoWaiting.java</a> |
+|    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/17481">17481</a> | 최애 정하기 | <a href="./bipartitematching/DecidingFavorite.java">DecidingFavorite.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/18138">18138</a> | 리유나는 세일러복을 좋아해 | <a href="./bipartitematching/RiyunaLikesSailorSuits.java">RiyunaLikesSailorSuits.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/18138">18138</a> | 리유나는 세일러복을 좋아해 | <a href="./bipartitematching/RiyunaLikesSailorSuits.java">RiyunaLikesSailorSuits.java</a> |
 
