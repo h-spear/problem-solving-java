@@ -46,7 +46,7 @@
 
 ---
 
-### undefined
+### Bipartite Matching
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/1298">1298</a> | 노트북의 주인을 찾아서 | <a href="./bipartitematching/FindOwnerOfLaptop.java">FindOwnerOfLaptop.java</a> |
