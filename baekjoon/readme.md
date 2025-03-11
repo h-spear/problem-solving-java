@@ -64,6 +64,8 @@
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11180">11180</a> | Paintball | <a href="./bipartitematching/Paintball.java">Paintball.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11375">11375</a> | 열혈강호 | <a href="./bipartitematching/YeolhyeolGangho2.java">YeolhyeolGangho2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/11375">11375</a> | 열혈강호 | <a href="./bipartitematching/YeolhyeolGangho2.java">YeolhyeolGangho2.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/11670">11670</a> | 초등 수학 | <a href="./bipartitematching/ElementaryMath.java">ElementaryMath.java</a> |
+|    <img src="https://static.solved.ac/tier_small/18.svg" width="20"></img>    | <a href="http://boj.kr/12843">12843</a> | 복수전공 | <a href="./bipartitematching/MultiMajor.java">MultiMajor.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/14433">14433</a> | 한조 대기 중 | <a href="./bipartitematching/HanzoWaiting.java">HanzoWaiting.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/15271">15271</a> | 친구 팰린드롬 2 | <a href="./bipartitematching/FriendPalindrome2.java">FriendPalindrome2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    | <a href="http://boj.kr/17481">17481</a> | 최애 정하기 | <a href="./bipartitematching/DecidingFavorite.java">DecidingFavorite.java</a> |
