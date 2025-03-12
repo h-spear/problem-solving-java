@@ -4,7 +4,7 @@
 |Back Tracking|14|
 |Bellman Ford|3|
 |Binary Search|10|
-|Bipartite Matching|23|
+|Bipartite Matching|25|
 |Bruteforce|13|
 |Combinatorics|2|
 |Data Structure|35|
@@ -32,7 +32,7 @@
 |Tree|6|
 |Trie|6|
 |Two Pointer|10|
-| **sum** | **530**|
+| **sum** | **532**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
