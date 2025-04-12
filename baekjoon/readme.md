@@ -80,7 +80,7 @@
 ### Bruteforce
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/1107">1107</a> | 리모컨 | <a href="./bruteforce/RemoteControl.java">RemoteControl.java</a> |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/1107">1107</a> | 리모컨 | <a href="./bruteforce/RemoteControl.java">RemoteControl.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/1941">1941</a> | 소문난 칠공주 | <a href="./bruteforce/FamousSevenPrincesses.java">FamousSevenPrincesses.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/9207">9207</a> | 페그 솔리테어 | <a href="./bruteforce/PegSolitaire.java">PegSolitaire.java</a> |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    | <a href="http://boj.kr/11277">11277</a> | 2-SAT - 1 | <a href="./bruteforce/TwoSatisfiabilityProblem1.java">TwoSatisfiabilityProblem1.java</a> |
@@ -396,16 +396,18 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15644">15644</a> | 구슬 탈출 3 | <a href="./implementation/BeadEscape3.java">BeadEscape3.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15653">15653</a> | 구슬 탈출 4 | <a href="./implementation/BeadEscape4.java">BeadEscape4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/15683">15683</a> | 감시 | <a href="./implementation/Watch.java">Watch.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/15898">15898</a> | 피아의 아틀리에 ~신비한 대회의 연금술사~ | <a href="./implementation/PiaAtelierAlchemistOfMysteriousCompetition.java">PiaAtelierAlchemistOfMysteriousCompetition.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16926">16926</a> | 배열 돌리기 1 | <a href="./implementation/RotateArray1.java">RotateArray1.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16927">16927</a> | 배열 돌리기 2 | <a href="./implementation/RotateArray2.java">RotateArray2.java</a> |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    | <a href="http://boj.kr/16935">16935</a> | 배열 돌리기 3 | <a href="./implementation/RotateArray3.java">RotateArray3.java</a> |
+|    <img src="https://static.solved.ac/tier_small/19.svg" width="20"></img>    | <a href="http://boj.kr/17081">17081</a> | RPG Extreme | <a href="./implementation/RPGExtreme.java">RPGExtreme.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17136">17136</a> | 색종이 붙이기 | <a href="./implementation/GlueConfetti.java">GlueConfetti.java</a> |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/17143">17143</a> | 낚시왕 | <a href="./implementation/FishKing.java">FishKing.java</a> |
 |    <img src="https://static.solved.ac/tier_small/6.svg" width="20"></img>    | <a href="http://boj.kr/17269">17269</a> | 이름궁합 테스트 | <a href="./implementation/NameCompatibilityTest.java">NameCompatibilityTest.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17281">17281</a> | ⚾ | <a href="./implementation/Baseball.java">Baseball.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/17406">17406</a> | 배열 돌리기 4 | <a href="./implementation/RotateArray4.java">RotateArray4.java</a> |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/17780">17780</a> | 새로운 게임 | <a href="./implementation/NewGame.java">NewGame.java</a> |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    | <a href="http://boj.kr/19236">19236</a> | 청소년 상어 | <a href="./implementation/TeenagerShark.java">TeenagerShark.java</a> |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    | <a href="http://boj.kr/19236">19236</a> | 청소년 상어 | <a href="./implementation/TeenagerShark.java">TeenagerShark.java</a> |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    | <a href="http://boj.kr/20056">20056</a> | 마법사 상어와 파이어볼 | <a href="./implementation/WizardSharkAndFireBall.java">WizardSharkAndFireBall.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20057">20057</a> | 마법사 상어와 토네이도 | <a href="./implementation/WizardSharkAndTornado.java">WizardSharkAndTornado.java</a> |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    | <a href="http://boj.kr/20058">20058</a> | 마법사 상어와 파이어스톰 | <a href="./implementation/WizardSharkAndFirestorm.java">WizardSharkAndFirestorm.java</a> |

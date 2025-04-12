@@ -17,7 +17,7 @@
 |Game|3|
 |Graph Traversal|59|
 |Greedy|18|
-|Implementation|40|
+|Implementation|42|
 |KMP|5|
 |LCA(Lowest Common Ancestor)|13|
 |Math|14|
@@ -32,7 +32,7 @@
 |Tree|6|
 |Trie|6|
 |Two Pointer|10|
-| **sum** | **532**|
+| **sum** | **534**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
