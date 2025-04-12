@@ -1,4 +1,6 @@
-package baekjoon.implementation;// https://www.acmicpc.net/problem/17081
+// https://www.acmicpc.net/problem/17081
+
+package baekjoon.implementation;
 
 import java.io.BufferedReader;
 import java.io.IOException;

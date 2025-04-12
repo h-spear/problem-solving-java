@@ -1,4 +1,7 @@
-package baekjoon.implementation;// https://www.acmicpc.net/problem/15898
+// https://www.acmicpc.net/problem/15898
+
+package baekjoon.implementation;
+
 import java.io.*;
 import java.util.*;
 
