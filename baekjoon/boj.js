@@ -6,6 +6,7 @@ const algMap = {
     backtracking: 'Back Tracking',
     bellmanford: 'Bellman Ford',
     binarysearch: 'Binary Search',
+    ternarysearch: 'Ternary Search',
     bipartitematching: 'Bipartite Matching',
     bruteforce: 'Bruteforce',
     combinatorics: 'Combinatorics',

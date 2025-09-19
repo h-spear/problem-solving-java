@@ -656,7 +656,7 @@
 
 ---
 
-### undefined
+### Ternary Search
 |    Tier    | No | Problem | Code | 
 | :-------------: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    | <a href="http://boj.kr/19599">19599</a> | 이진 삼진 탐색 놀이 1 | <a href="./ternarysearch/BinaryAndTernarySearchPlay1.java">BinaryAndTernarySearchPlay1.java</a> |

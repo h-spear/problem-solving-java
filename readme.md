@@ -28,7 +28,7 @@
 |Segment Tree|69|
 |Sorting|3|
 |String|4|
-|undefined|3|
+|Ternary Search|3|
 |Topology Sort|12|
 |Tree|6|
 |Trie|6|
