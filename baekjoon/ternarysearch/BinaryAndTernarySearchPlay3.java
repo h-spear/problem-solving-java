@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/19601
+
 package baekjoon.ternarysearch;
 
 import java.io.BufferedReader;

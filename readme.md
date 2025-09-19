@@ -28,21 +28,20 @@
 |Segment Tree|69|
 |Sorting|3|
 |String|4|
+|undefined|3|
 |Topology Sort|12|
 |Tree|6|
 |Trie|6|
 |Two Pointer|10|
-| **sum** | **534**|
+| **sum** | **537**|
 
 ## [Programmers](./programmers/)
 |    Level    | solved |
 | :-------------: | :----: |
-|level0|0|
 |level1|7|
 |level2|23|
 |level3|23|
 |level4|1|
-|level5|0|
 | **sum** | **54**|
 
 ## [LeetCode](./leetcode/)
@@ -56,7 +55,6 @@
 ## [SW Expert Academy](./swea/)
 |    difficulty    | solved |
 | :-------------: | :----: |
-|difficulty1|0|
 |difficulty2|6|
 |difficulty3|7|
 |difficulty4|12|
